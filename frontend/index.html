@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Signal Pipeline Viewer</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --border: #2a2f3a;
+    --text: #e6e8eb;
+    --muted: #8b93a1;
+    --accent: #5b8def;
+    --rss: #5b8def;
+    --hn: #e2a33d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 20px 28px;
+    border-bottom: 1px solid var(--border);
+  }
+  h1 { margin: 0 0 4px; font-size: 18px; }
+  .sub { color: var(--muted); font-size: 13px; }
+
+  .toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 28px;
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .toolbar label.file-btn {
+    background: var(--accent);
+    color: white;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .toolbar input[type=file] { display: none; }
+  .toolbar select, .toolbar input[type=text] {
+    background: var(--panel);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 7px 10px;
+    font-size: 13px;
+  }
+  .toolbar input[type=text] { flex: 1; min-width: 160px; }
+  .status { color: var(--muted); font-size: 13px; margin-left: auto; }
+
+  main { padding: 0 28px 40px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th {
+    position: sticky; top: 0;
+    background: var(--bg);
+    text-align: left;
+    padding: 10px 8px;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+    font-weight: 600;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  tbody td {
+    padding: 10px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  tbody tr:hover { background: rgba(255,255,255,0.03); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .badge {
+    display: inline-block;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+  }
+  .badge.rss { color: var(--rss); border-color: var(--rss); }
+  .badge.hn { color: var(--hn); border-color: var(--hn); }
+  .empty {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--muted);
+  }
+  .col-title { max-width: 420px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Signal Pipeline Viewer</h1>
+  <div class="sub">Auto-loads the latest data/*.json from the local server — nothing leaves your machine.</div>
+</header>
+
+<div class="toolbar">
+  <select id="datasetSelect">
+    <option value="../data/deduped_items.json">Deduped</option>
+    <option value="../data/raw_items.json">Raw</option>
+  </select>
+  <button id="reloadBtn" class="file-btn" style="border:none;font:inherit;cursor:pointer">Reload</button>
+  <select id="sourceFilter">
+    <option value="">All sources</option>
+  </select>
+  <input type="text" id="searchBox" placeholder="Filter by title…">
+  <div class="status" id="status">Loading…</div>
+</div>
+
+<main>
+  <table id="table" style="display:none">
+    <thead>
+      <tr>
+        <th data-key="source">Source</th>
+        <th data-key="source_type">Type</th>
+        <th data-key="title" class="col-title">Title</th>
+        <th data-key="published">Published</th>
+        <th data-key="hn_score">HN score</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="empty" id="emptyState">Loading…</div>
+</main>
+
+<script>
+let items = [];
+let sortKey = null;
+let sortAsc = true;
+
+const datasetSelect = document.getElementById('datasetSelect');
+const reloadBtn = document.getElementById('reloadBtn');
+const table = document.getElementById('table');
+const tbody = document.getElementById('tbody');
+const emptyState = document.getElementById('emptyState');
+const status = document.getElementById('status');
+const sourceFilter = document.getElementById('sourceFilter');
+const searchBox = document.getElementById('searchBox');
+
+async function loadDataset() {
+  const url = datasetSelect.value;
+  status.textContent = 'Loading…';
+  try {
+    // cache-bust so a re-run of ingest.py/dedup.py is picked up on Reload,
+    // not a stale copy the browser cached from last time
+    const resp = await fetch(url + '?t=' + Date.now());
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    items = Array.isArray(data) ? data : [];
+    const stamp = new Date().toLocaleTimeString();
+    status.textContent = `${items.length} items — loaded ${stamp}`;
+    populateSourceFilter();
+    render();
+  } catch (err) {
+    items = [];
+    status.textContent = `Failed to load ${url}: ${err.message}`;
+    render();
+  }
+}
+
+datasetSelect.addEventListener('change', loadDataset);
+reloadBtn.addEventListener('click', loadDataset);
+sourceFilter.addEventListener('change', render);
+searchBox.addEventListener('input', render);
+
+loadDataset();
+
+document.querySelectorAll('thead th').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.key;
+    if (sortKey === key) sortAsc = !sortAsc;
+    else { sortKey = key; sortAsc = true; }
+    render();
+  });
+});
+
+function populateSourceFilter() {
+  const sources = [...new Set(items.map(i => i.source).filter(Boolean))].sort();
+  sourceFilter.innerHTML = '<option value="">All sources</option>' +
+    sources.map(s => `<option value="${escapeAttr(s)}">${escapeHtml(s)}</option>`).join('');
+}
+
+function render() {
+  let rows = items;
+
+  const sourceVal = sourceFilter.value;
+  if (sourceVal) rows = rows.filter(i => i.source === sourceVal);
+
+  const q = searchBox.value.trim().toLowerCase();
+  if (q) rows = rows.filter(i => (i.title || '').toLowerCase().includes(q));
+
+  if (sortKey) {
+    rows = [...rows].sort((a, b) => {
+      let av = a[sortKey] ?? '';
+      let bv = b[sortKey] ?? '';
+      if (typeof av === 'number' || typeof bv === 'number') {
+        av = Number(av) || 0; bv = Number(bv) || 0;
+      }
+      if (av < bv) return sortAsc ? -1 : 1;
+      if (av > bv) return sortAsc ? 1 : -1;
+      return 0;
+    });
+  }
+
+  if (rows.length === 0) {
+    table.style.display = 'none';
+    emptyState.style.display = 'block';
+    emptyState.textContent = items.length === 0
+      ? 'No data loaded — run ingest.py / dedup.py, then hit Reload.'
+      : 'No items match the current filter.';
+    return;
+  }
+
+  table.style.display = '';
+  emptyState.style.display = 'none';
+
+  tbody.innerHTML = rows.map(item => `
+    <tr>
+      <td>${escapeHtml(item.source || '')}</td>
+      <td><span class="badge ${item.source_type === 'hn' ? 'hn' : 'rss'}">${escapeHtml(item.source_type || '')}</span></td>
+      <td class="col-title"><a href="${escapeAttr(item.url || '#')}" target="_blank" rel="noopener">${escapeHtml(item.title || '(untitled)')}</a></td>
+      <td>${escapeHtml(formatDate(item.published))}</td>
+      <td>${item.hn_score ?? ''}</td>
+    </tr>
+  `).join('');
+}
+
+function formatDate(value) {
+  if (!value) return '';
+  const d = new Date(value);
+  return isNaN(d) ? value : d.toLocaleDateString();
+}
+
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+function escapeAttr(str) { return escapeHtml(str); }
+</script>
+
+</body>
+</html>

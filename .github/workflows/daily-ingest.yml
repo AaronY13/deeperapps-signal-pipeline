@@ -1,14 +1,19 @@
 name: Daily Ingest
 
-# Runs the barebones ingestion script on a schedule so a broken source or a
+# Runs the barebones ingestion + dedup on a schedule so a broken source or a
 # code bug surfaces as a failed Action run instead of silently going stale.
-# No storage/DB layer yet (that's Phase 2/4 per the project brief), so this
-# just uploads the raw output as a build artifact for now.
+# No real database yet (that's the planned Supabase step), so in the
+# meantime this commits each day's output straight into the repo — git
+# history becomes a poor-man's history log, and the committed files are
+# what the GitHub Pages frontend reads.
 
 on:
   schedule:
     - cron: "0 12 * * *" # 12:00 UTC daily
   workflow_dispatch: {} # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
 
 jobs:
   ingest:
@@ -26,9 +31,20 @@ jobs:
       - name: Run ingestion
         run: python ingest.py
 
+      - name: Run dedup
+        run: python dedup.py
+
       - name: Upload raw items
         uses: actions/upload-artifact@v4
         with:
           name: raw-items-${{ github.run_id }}
           path: data/raw_items.json
           retention-days: 14
+
+      - name: Commit latest data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw_items.json data/deduped_items.json
+          git diff --staged --quiet || git commit -m "Daily data update $(date -u +%Y-%m-%d)"
+          git push
