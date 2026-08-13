@@ -8,16 +8,34 @@ Run: .venv/bin/python3 ingest.py
 """
 
 import json
-from datetime import datetime, timezone
+import re
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
 import httpx
 
-from sources import RSS_FEEDS, HN_TOP_STORIES_URL, HN_ITEM_URL, HN_ITEM_LIMIT
+from sources import (
+    RSS_FEEDS,
+    HN_SEARCH_URL,
+    HN_SEARCH_QUERY,
+    HN_MIN_POINTS,
+    HN_ITEM_LIMIT,
+    RECENCY_DAYS,
+)
 
 HEADERS = {"User-Agent": "deeperapps-signal-pipeline/0.1 (learning project)"}
 TIMEOUT = 15
+HTML_TAG = re.compile(r"<[^>]+>")
+
+
+def parsed_time_to_iso(struct_time) -> str:
+    """Convert feedparser's parsed date (a time.struct_time in UTC) to ISO 8601."""
+    return datetime(*struct_time[:6], tzinfo=timezone.utc).isoformat()
+
+
+def strip_html(text: str) -> str:
+    return HTML_TAG.sub("", text).strip()
 
 
 def fetch_rss_feed(name: str, url: str) -> list[dict]:
@@ -35,56 +53,92 @@ def fetch_rss_feed(name: str, url: str) -> list[dict]:
 
     items = []
     for entry in parsed.entries:
+        struct_time = entry.get("published_parsed") or entry.get("updated_parsed")
+        published = parsed_time_to_iso(struct_time) if struct_time else ""
         items.append({
             "source": name,
             "source_type": "rss",
             "title": entry.get("title", "").strip(),
             "url": entry.get("link", ""),
-            "published": entry.get("published", entry.get("updated", "")),
+            "published": published,
+            "summary": strip_html(entry.get("summary", "")),
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         })
     print(f"  [OK]   {name}: {len(items)} items")
     return items
 
 
-def fetch_hn_top_stories(limit: int = HN_ITEM_LIMIT) -> list[dict]:
-    """Fetch the top N Hacker News stories via the Firebase API."""
+def fetch_hn_ai_stories(limit: int = HN_ITEM_LIMIT) -> list[dict]:
+    """
+    Fetch AI-related Hacker News stories via Algolia's search API, sorted by
+    date. Deliberately not "top stories" — that endpoint returns whatever's
+    trending regardless of topic (checked real output: mostly not AI news).
+    A keyword search + minimum points is a blunt filter, not real relevance
+    judgment, but a confirmed improvement over unfiltered trending.
+    """
+    cutoff = int((datetime.now(timezone.utc) - timedelta(days=RECENCY_DAYS)).timestamp())
+    params = {
+        "query": HN_SEARCH_QUERY,
+        "tags": "story",
+        "numericFilters": f"created_at_i>{cutoff},points>{HN_MIN_POINTS}",
+        "hitsPerPage": limit,
+    }
     try:
-        resp = httpx.get(HN_TOP_STORIES_URL, timeout=TIMEOUT)
+        resp = httpx.get(HN_SEARCH_URL, params=params, timeout=TIMEOUT)
         resp.raise_for_status()
-        story_ids = resp.json()[:limit]
+        hits = resp.json().get("hits", [])
     except httpx.HTTPError as e:
-        print(f"  [FAIL] Hacker News (story list): {e}")
+        print(f"  [FAIL] Hacker News (search): {e}")
         return []
 
     items = []
-    for story_id in story_ids:
-        try:
-            resp = httpx.get(HN_ITEM_URL.format(id=story_id), timeout=TIMEOUT)
-            resp.raise_for_status()
-            item = resp.json()
-        except httpx.HTTPError as e:
-            print(f"  [FAIL] Hacker News item {story_id}: {e}")
-            continue
-
-        if not item or item.get("type") != "story":
-            continue
-
+    for hit in hits:
+        story_id = hit.get("objectID")
         items.append({
             "source": "Hacker News",
             "source_type": "hn",
-            "title": item.get("title", "").strip(),
-            "url": item.get("url", f"https://news.ycombinator.com/item?id={story_id}"),
-            "published": datetime.fromtimestamp(
-                item.get("time", 0), tz=timezone.utc
-            ).isoformat() if item.get("time") else "",
+            "title": (hit.get("title") or "").strip(),
+            "url": hit.get("url") or f"https://news.ycombinator.com/item?id={story_id}",
+            "published": hit.get("created_at", ""),
+            "summary": "",
             "fetched_at": datetime.now(timezone.utc).isoformat(),
-            "hn_score": item.get("score", 0),
-            "hn_comments": item.get("descendants", 0),
+            "hn_score": hit.get("points", 0),
+            "hn_comments": hit.get("num_comments", 0),
         })
 
     print(f"  [OK]   Hacker News: {len(items)} items")
     return items
+
+
+def filter_recent(items: list[dict], days: int = RECENCY_DAYS) -> list[dict]:
+    """
+    Drop items older than `days`. This is a "daily signal" tool, not an
+    archive browser — some RSS feeds (OpenAI's, confirmed) return years of
+    history on every pull, which would otherwise show up looking like news.
+    Items with no parseable date are kept, not silently dropped, and counted
+    separately so a parsing problem is visible instead of hidden.
+    """
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    kept, undated, dropped = [], 0, 0
+    for item in items:
+        published = item.get("published", "")
+        if not published:
+            undated += 1
+            kept.append(item)
+            continue
+        try:
+            when = datetime.fromisoformat(published.replace("Z", "+00:00"))
+        except ValueError:
+            undated += 1
+            kept.append(item)
+            continue
+        if when >= cutoff:
+            kept.append(item)
+        else:
+            dropped += 1
+
+    print(f"  Recency filter: kept {len(kept)}, dropped {dropped} (>{days}d old), {undated} undated (kept)")
+    return kept
 
 
 def main():
@@ -94,8 +148,11 @@ def main():
     for feed in RSS_FEEDS:
         all_items.extend(fetch_rss_feed(feed["name"], feed["url"]))
 
-    print("Fetching Hacker News top stories...")
-    all_items.extend(fetch_hn_top_stories())
+    print("Fetching Hacker News (AI-related, by search)...")
+    all_items.extend(fetch_hn_ai_stories())
+
+    print(f"Total before recency filter: {len(all_items)}")
+    all_items = filter_recent(all_items)
 
     out_dir = Path(__file__).parent / "data"
     out_dir.mkdir(exist_ok=True)

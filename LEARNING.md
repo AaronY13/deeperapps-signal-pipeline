@@ -46,3 +46,94 @@ of what clicked.
   hitting OpenAI/HN directly — it reflects whatever's on disk, refreshed
   on demand. A real publicly-hosted live site is the bigger Phase 3+5 step
   (needs Supabase + hosting), deliberately deferred.
+
+## 2026-08-12
+
+- Checked run history instead of assuming: local `ingest.py` had only run
+  once (one manual run), but the GitHub Actions schedule had already fired
+  automatically twice in the cloud. Lesson: local files and cloud runs are
+  two separate copies that don't sync with each other unless you build
+  something that connects them.
+- Deployed the frontend as a real public website using **GitHub Pages**.
+  Had to make the repo public first (Pages needs a public repo on the free
+  plan). Also had to stop `.gitignore`-ing `data/*.json` and change the
+  daily workflow to commit each day's data into the repo — otherwise the
+  deployed static site would have nothing to display. Side benefit: git's
+  commit history now doubles as a crude "history log" of past days' data,
+  even without a real database yet.
+- **GitHub, in plain terms:** a cloud storage locker for a project's files
+  that also remembers every past saved version (commit history).
+- **GitHub Actions vs. GitHub Pages — the core distinction:**
+  - Actions = a robot that *does work*. It only wakes up for a trigger
+    (schedule, manual button, a push, or an authenticated API call) and
+    runs real code on a temporary computer ("runner").
+  - Pages = *pure static hosting*. No code runs when someone visits — it's
+    a file-handout window, nothing more. Reloading the page never re-runs
+    anything; it just re-displays whatever files are currently committed.
+- **Why the site can't fetch fresh articles on every reload** (asked
+  directly, real architecture reasons, not a missing setting):
+  - GitHub Pages has zero compute — nothing executes per visit, so there's
+    nothing on the Pages side capable of "calling" ingest.py in the first
+    place.
+  - The only bridge to Actions is GitHub's API, which requires a secret
+    access token to authorize. Putting that secret inside public webpage
+    code would let any visitor steal it (view source / dev tools) and gain
+    control of the repo — a real security hole, not just an inconvenience.
+  - Even ignoring security, triggering a full fetch (external RSS/HN calls
+    + git commit) on every single page visit doesn't scale and isn't
+    actually "instant" anyway — ingest.py takes real time to run.
+  - Freshness is instead controlled by the cron schedule in
+    `daily-ingest.yml` (currently once/day) — a dial that can be turned
+    (e.g. hourly) but can't reach true per-reload freshness without
+    swapping Pages for a different kind of hosting entirely.
+- **CDN concept:** a Content Delivery Network is just many copies of the
+  same files parked on servers around the world, so whoever loads the
+  site gets served from a nearby copy instead of one far-away origin.
+  Both GitHub Pages and AWS CloudFront work this way for static files.
+- **GitHub Pages vs. AWS CloudFront:** similar at the base layer (both
+  hand out static files fast via a CDN), but CloudFront is a raw building
+  block AWS lets you attach real per-request compute to (Lambda@Edge /
+  CloudFront Functions — actual code that runs on every visit). GitHub
+  Pages has no equivalent attachment point. "Live on every reload" is a
+  real, common pattern — it's just built with tools like CloudFront+Lambda
+  or Vercel/Netlify functions, not GitHub Pages.
+- Decided live compute wasn't the priority yet — went back to the actual
+  data pipeline instead: sources, collection, and cleaning. Checked real
+  data before planning (not assumptions): Hacker News "top stories" turned
+  out to be ~90% NOT AI-related (cocktail recipes, math history, a weather
+  app complaint), and OpenAI's RSS feed alone went back to 2018 with no
+  recency filter — a "daily news" tool showing a 2018 post as current is
+  broken, not just untidy.
+- Fixed HN relevance: swapped the "top stories" endpoint for HN's free
+  Algolia Search API (`search_by_date`), searched by keyword ("AI") with a
+  minimum points threshold, instead of pulling whatever's trending
+  regardless of topic. Result: went from ~3-4 relevant items out of 30 to
+  ~27-28 out of 30. Still a blunt keyword filter, not real judgment — a
+  couple of false positives got through (an article about air traffic
+  controllers that happened to mention "AI"). Real relevance judgment is
+  Phase 4's job, not this fix's.
+- Added a 30-day recency filter (`filter_recent` in ingest.py). Confirmed
+  it works on real data: 2,133 items pulled, 1,995 dropped as >30 days old,
+  138 kept. Learned `feedparser` already provides a reliably-parsed date
+  (`entry.published_parsed`) that wasn't being used before — was only
+  storing a raw, inconsistently-formatted string. Normalized every source
+  (RSS and HN) to the same ISO 8601 date format so filtering/sorting works
+  the same way everywhere instead of guessing per-source formats.
+- Added `summary` field, pulled from RSS entries when the source provides
+  one. Checked first instead of assuming: OpenAI's feed includes a clean
+  summary, Hugging Face's doesn't — so it's populated when available, left
+  blank otherwise. No fabricated content.
+- Added one new source, Google AI Blog — but only after testing candidates
+  live first. Tried Meta AI, Microsoft AI, and Mistral blogs: all dead
+  (404/410). Tried NVIDIA and MIT Technology Review: both work, but cover
+  far more than AI (same noise problem HN just had) — left out rather than
+  building a second relevance filter for them in the same round. Tried
+  arXiv cs.AI: works and is on-topic, but is a different kind of source
+  (academic papers, 750+ items per pull) — deliberately scoped out as
+  "research," not "industry news."
+- Re-ran `dedup.py` against the cleaner, larger dataset — still 0 exact-URL
+  duplicates, logic unchanged. Noted a real limit: cross-source duplicates
+  (e.g. Google's blog and OpenAI's blog covering the same announcement)
+  never share a URL, so URL-based dedup can't catch them — that's a "is
+  this actually the same story" problem, which needs real judgment
+  (Phase 4/LLM scoring), not a heuristic bolted on now.
