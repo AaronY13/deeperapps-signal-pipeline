@@ -101,7 +101,7 @@ You — terminal                        GitHub Actions
       │                                     │
       ├── fetch() ──────┐                   │
       │                 ▼                   │
-      │        frontend/index.html          │
+      │        index.html                   │
       │        localhost:8000               │
       │        (visible only to you)        │
       │                                     │
@@ -163,7 +163,7 @@ as a headline for unrelated posts months apart).
 
 ### The viewer
 
-**`frontend/index.html`** — one HTML file, inline CSS/JS, no framework, no
+**`index.html`** (repo root) — one HTML file, inline CSS/JS, no framework, no
 build step. On load it `fetch()`es whichever JSON file is selected and
 renders a sortable, filterable table. Never talks to OpenAI/HN/etc.
 directly — only to whatever's already on disk. Must be served
