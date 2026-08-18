@@ -8,12 +8,15 @@ Run: .venv/bin/python3 ingest.py
 """
 
 import json
+import os
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
 import httpx
+from dotenv import load_dotenv
+from supabase import create_client
 
 from sources import (
     RSS_FEEDS,
@@ -27,6 +30,8 @@ from sources import (
 HEADERS = {"User-Agent": "deeperapps-signal-pipeline/0.1 (learning project)"}
 TIMEOUT = 15
 HTML_TAG = re.compile(r"<[^>]+>")
+
+load_dotenv(Path(__file__).parent / ".env")
 
 
 def parsed_time_to_iso(struct_time) -> str:
@@ -141,6 +146,28 @@ def filter_recent(items: list[dict], days: int = RECENCY_DAYS) -> list[dict]:
     return kept
 
 
+def push_to_supabase(items: list[dict]) -> None:
+    """
+    Upsert items into Supabase's `items` table, keyed on the `url` unique
+    constraint: a new url inserts a new row, a url seen before updates that
+    same row instead (refreshes fields like hn_score as a story ages).
+    Never raises — this runs alongside the JSON file write, not instead of
+    it, so a Supabase problem should never break the existing pipeline.
+    """
+    url = os.environ.get("SUPABASE_URL")
+    key = os.environ.get("SUPABASE_SERVICE_KEY")
+    if not url or not key:
+        print("  [SKIP] Supabase: no credentials found (.env missing SUPABASE_URL/SUPABASE_SERVICE_KEY)")
+        return
+
+    try:
+        client = create_client(url, key)
+        client.table("items").upsert(items, on_conflict="url").execute()
+        print(f"  [OK]   Supabase: upserted {len(items)} items")
+    except Exception as e:
+        print(f"  [FAIL] Supabase: {e}")
+
+
 def main():
     all_items = []
 
@@ -158,6 +185,9 @@ def main():
     out_dir.mkdir(exist_ok=True)
     out_path = out_dir / "raw_items.json"
     out_path.write_text(json.dumps(all_items, indent=2))
+
+    print("Writing to Supabase...")
+    push_to_supabase(all_items)
 
     print(f"\nTotal items: {len(all_items)}")
     print(f"Written to: {out_path}")
