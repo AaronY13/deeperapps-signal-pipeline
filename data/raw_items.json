@@ -2,11 +2,29 @@
   {
     "source": "OpenAI",
     "source_type": "rss",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "published": "2026-08-19T19:00:00+00:00",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "fetched_at": "2026-08-20T12:42:25.986854+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "published": "2026-08-19T07:00:00+00:00",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "fetched_at": "2026-08-20T12:42:25.986874+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
     "title": "ChatGPT Ads expands across Europe",
     "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "published": "2026-08-18T22:00:00+00:00",
     "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "fetched_at": "2026-08-19T12:40:24.105816+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986883+00:00"
   },
   {
     "source": "OpenAI",
@@ -15,7 +33,7 @@
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "published": "2026-08-18T19:00:00+00:00",
     "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "fetched_at": "2026-08-19T12:40:24.105835+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986891+00:00"
   },
   {
     "source": "OpenAI",
@@ -24,7 +42,7 @@
     "url": "https://openai.com/index/partnering-with-codeai",
     "published": "2026-08-18T11:00:00+00:00",
     "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "fetched_at": "2026-08-19T12:40:24.105848+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986898+00:00"
   },
   {
     "source": "OpenAI",
@@ -33,7 +51,7 @@
     "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "published": "2026-08-18T11:00:00+00:00",
     "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "fetched_at": "2026-08-19T12:40:24.105856+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986906+00:00"
   },
   {
     "source": "OpenAI",
@@ -42,7 +60,7 @@
     "url": "https://openai.com/index/chatgpt-for-teens",
     "published": "2026-08-18T11:00:00+00:00",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "fetched_at": "2026-08-19T12:40:24.105864+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986913+00:00"
   },
   {
     "source": "OpenAI",
@@ -51,7 +69,7 @@
     "url": "https://openai.com/index/nvidia/chatgpt-work",
     "published": "2026-08-18T00:00:00+00:00",
     "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-    "fetched_at": "2026-08-19T12:40:24.105871+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986921+00:00"
   },
   {
     "source": "OpenAI",
@@ -60,7 +78,7 @@
     "url": "https://openai.com/index/asana",
     "published": "2026-08-18T07:00:00+00:00",
     "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-    "fetched_at": "2026-08-19T12:40:24.105879+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986927+00:00"
   },
   {
     "source": "OpenAI",
@@ -69,7 +87,7 @@
     "url": "https://openai.com/index/the-defenders-window",
     "published": "2026-08-17T05:30:00+00:00",
     "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "fetched_at": "2026-08-19T12:40:24.105886+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986934+00:00"
   },
   {
     "source": "OpenAI",
@@ -78,7 +96,7 @@
     "url": "https://openai.com/index/openai-joins-ports-pike-project",
     "published": "2026-08-17T05:00:00+00:00",
     "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "fetched_at": "2026-08-19T12:40:24.105892+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986941+00:00"
   },
   {
     "source": "OpenAI",
@@ -87,7 +105,7 @@
     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "published": "2026-08-17T03:15:00+00:00",
     "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-    "fetched_at": "2026-08-19T12:40:24.105899+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986949+00:00"
   },
   {
     "source": "OpenAI",
@@ -96,7 +114,7 @@
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "published": "2026-08-13T11:00:00+00:00",
     "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "fetched_at": "2026-08-19T12:40:24.105908+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986956+00:00"
   },
   {
     "source": "OpenAI",
@@ -105,7 +123,7 @@
     "url": "https://openai.com/index/previewing-ultrafast",
     "published": "2026-08-13T10:00:00+00:00",
     "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "fetched_at": "2026-08-19T12:40:24.105915+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986963+00:00"
   },
   {
     "source": "OpenAI",
@@ -114,7 +132,7 @@
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "published": "2026-08-13T09:00:00+00:00",
     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "fetched_at": "2026-08-19T12:40:24.105921+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986970+00:00"
   },
   {
     "source": "OpenAI",
@@ -123,7 +141,7 @@
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "published": "2026-08-12T06:00:00+00:00",
     "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "fetched_at": "2026-08-19T12:40:24.105928+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986977+00:00"
   },
   {
     "source": "OpenAI",
@@ -132,7 +150,7 @@
     "url": "https://openai.com/index/ringcentral",
     "published": "2026-08-12T00:00:00+00:00",
     "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "fetched_at": "2026-08-19T12:40:24.105934+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986983+00:00"
   },
   {
     "source": "OpenAI",
@@ -141,7 +159,7 @@
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "published": "2026-08-11T10:00:00+00:00",
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "fetched_at": "2026-08-19T12:40:24.105941+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986990+00:00"
   },
   {
     "source": "OpenAI",
@@ -150,7 +168,7 @@
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "published": "2026-08-11T10:00:00+00:00",
     "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "fetched_at": "2026-08-19T12:40:24.105947+00:00"
+    "fetched_at": "2026-08-20T12:42:25.986997+00:00"
   },
   {
     "source": "OpenAI",
@@ -159,7 +177,7 @@
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "published": "2026-08-10T14:00:00+00:00",
     "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "fetched_at": "2026-08-19T12:40:24.105954+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987007+00:00"
   },
   {
     "source": "OpenAI",
@@ -168,7 +186,7 @@
     "url": "https://openai.com/index/model-ml",
     "published": "2026-08-10T12:00:00+00:00",
     "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "fetched_at": "2026-08-19T12:40:24.105961+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987014+00:00"
   },
   {
     "source": "OpenAI",
@@ -177,7 +195,7 @@
     "url": "https://openai.com/index/building-an-ai-native-finance-function",
     "published": "2026-08-10T17:00:00+00:00",
     "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "fetched_at": "2026-08-19T12:40:24.105967+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987020+00:00"
   },
   {
     "source": "OpenAI",
@@ -186,7 +204,7 @@
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "published": "2026-08-10T10:00:00+00:00",
     "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "fetched_at": "2026-08-19T12:40:24.105975+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987027+00:00"
   },
   {
     "source": "OpenAI",
@@ -195,7 +213,7 @@
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "published": "2026-08-10T10:00:00+00:00",
     "summary": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "fetched_at": "2026-08-19T12:40:24.105984+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987034+00:00"
   },
   {
     "source": "OpenAI",
@@ -204,7 +222,7 @@
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "published": "2026-08-10T00:00:00+00:00",
     "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-    "fetched_at": "2026-08-19T12:40:24.105990+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987040+00:00"
   },
   {
     "source": "OpenAI",
@@ -213,7 +231,7 @@
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "published": "2026-08-10T00:00:00+00:00",
     "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "fetched_at": "2026-08-19T12:40:24.105997+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987047+00:00"
   },
   {
     "source": "OpenAI",
@@ -222,7 +240,7 @@
     "url": "https://openai.com/index/zapier",
     "published": "2026-08-10T00:00:00+00:00",
     "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "fetched_at": "2026-08-19T12:40:24.106003+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987054+00:00"
   },
   {
     "source": "OpenAI",
@@ -231,7 +249,7 @@
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "published": "2026-08-07T15:20:00+00:00",
     "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls.",
-    "fetched_at": "2026-08-19T12:40:24.106010+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987063+00:00"
   },
   {
     "source": "OpenAI",
@@ -240,7 +258,7 @@
     "url": "https://openai.com/index/hsp-gruppe",
     "published": "2026-08-07T09:00:00+00:00",
     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "fetched_at": "2026-08-19T12:40:24.106016+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987069+00:00"
   },
   {
     "source": "OpenAI",
@@ -249,7 +267,7 @@
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "published": "2026-08-06T10:00:00+00:00",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "fetched_at": "2026-08-19T12:40:24.106023+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987076+00:00"
   },
   {
     "source": "OpenAI",
@@ -258,7 +276,7 @@
     "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "published": "2026-08-06T06:00:00+00:00",
     "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "fetched_at": "2026-08-19T12:40:24.106030+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987083+00:00"
   },
   {
     "source": "OpenAI",
@@ -267,7 +285,7 @@
     "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
     "published": "2026-08-06T00:00:00+00:00",
     "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "fetched_at": "2026-08-19T12:40:24.106037+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987090+00:00"
   },
   {
     "source": "OpenAI",
@@ -276,7 +294,7 @@
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "published": "2026-08-04T19:00:00+00:00",
     "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "fetched_at": "2026-08-19T12:40:24.106044+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987097+00:00"
   },
   {
     "source": "OpenAI",
@@ -285,7 +303,7 @@
     "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "published": "2026-08-04T00:00:00+00:00",
     "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build.",
-    "fetched_at": "2026-08-19T12:40:24.106050+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987104+00:00"
   },
   {
     "source": "OpenAI",
@@ -294,7 +312,7 @@
     "url": "https://openai.com/index/apple-is-getting-this-wrong",
     "published": "2026-08-03T22:00:00+00:00",
     "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "fetched_at": "2026-08-19T12:40:24.106057+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987111+00:00"
   },
   {
     "source": "OpenAI",
@@ -303,7 +321,7 @@
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "published": "2026-08-03T07:00:00+00:00",
     "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "fetched_at": "2026-08-19T12:40:24.106064+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987118+00:00"
   },
   {
     "source": "OpenAI",
@@ -312,7 +330,7 @@
     "url": "https://openai.com/index/circles",
     "published": "2026-08-03T00:00:00+00:00",
     "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "fetched_at": "2026-08-19T12:40:24.106070+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987124+00:00"
   },
   {
     "source": "OpenAI",
@@ -321,7 +339,7 @@
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "published": "2026-08-01T00:00:00+00:00",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "fetched_at": "2026-08-19T12:40:24.106078+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987131+00:00"
   },
   {
     "source": "OpenAI",
@@ -330,7 +348,7 @@
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "published": "2026-07-31T15:00:00+00:00",
     "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "fetched_at": "2026-08-19T12:40:24.106085+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987138+00:00"
   },
   {
     "source": "OpenAI",
@@ -339,7 +357,7 @@
     "url": "https://openai.com/index/building-abundant-intelligence",
     "published": "2026-07-31T15:00:00+00:00",
     "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "fetched_at": "2026-08-19T12:40:24.106091+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987146+00:00"
   },
   {
     "source": "OpenAI",
@@ -348,7 +366,7 @@
     "url": "https://openai.com/index/unive",
     "published": "2026-07-31T07:00:00+00:00",
     "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "fetched_at": "2026-08-19T12:40:24.106098+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987153+00:00"
   },
   {
     "source": "OpenAI",
@@ -357,7 +375,7 @@
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "published": "2026-07-31T00:00:00+00:00",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "fetched_at": "2026-08-19T12:40:24.106104+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987159+00:00"
   },
   {
     "source": "OpenAI",
@@ -366,7 +384,7 @@
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "published": "2026-07-30T10:00:00+00:00",
     "summary": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale.",
-    "fetched_at": "2026-08-19T12:40:24.106111+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987166+00:00"
   },
   {
     "source": "OpenAI",
@@ -375,7 +393,7 @@
     "url": "https://openai.com/index/avatarin",
     "published": "2026-07-30T00:00:00+00:00",
     "summary": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "fetched_at": "2026-08-19T12:40:24.106120+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987172+00:00"
   },
   {
     "source": "OpenAI",
@@ -384,7 +402,7 @@
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "published": "2026-07-29T15:00:00+00:00",
     "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "fetched_at": "2026-08-19T12:40:24.106127+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987179+00:00"
   },
   {
     "source": "OpenAI",
@@ -393,7 +411,7 @@
     "url": "https://openai.com/index/chatgpt-for-academic-researchers",
     "published": "2026-07-29T10:00:00+00:00",
     "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "fetched_at": "2026-08-19T12:40:24.106133+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987185+00:00"
   },
   {
     "source": "OpenAI",
@@ -402,7 +420,7 @@
     "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
     "published": "2026-07-29T00:00:00+00:00",
     "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "fetched_at": "2026-08-19T12:40:24.106140+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987191+00:00"
   },
   {
     "source": "OpenAI",
@@ -411,7 +429,7 @@
     "url": "https://openai.com/index/scientific-computing-agentic-ai",
     "published": "2026-07-28T17:00:00+00:00",
     "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "fetched_at": "2026-08-19T12:40:24.106146+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987197+00:00"
   },
   {
     "source": "OpenAI",
@@ -420,7 +438,7 @@
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "published": "2026-07-27T03:30:00+00:00",
     "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "fetched_at": "2026-08-19T12:40:24.106153+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987204+00:00"
   },
   {
     "source": "OpenAI",
@@ -429,7 +447,7 @@
     "url": "https://openai.com/index/health-in-chatgpt",
     "published": "2026-07-23T00:00:00+00:00",
     "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "fetched_at": "2026-08-19T12:40:24.106159+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987210+00:00"
   },
   {
     "source": "OpenAI",
@@ -438,7 +456,7 @@
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "published": "2026-07-22T13:00:00+00:00",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "fetched_at": "2026-08-19T12:40:24.106166+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987216+00:00"
   },
   {
     "source": "OpenAI",
@@ -447,7 +465,7 @@
     "url": "https://openai.com/index/how-news-organizations-are-using-ai",
     "published": "2026-07-22T13:00:00+00:00",
     "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "fetched_at": "2026-08-19T12:40:24.106172+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987223+00:00"
   },
   {
     "source": "OpenAI",
@@ -456,7 +474,7 @@
     "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "published": "2026-07-22T12:00:00+00:00",
     "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "fetched_at": "2026-08-19T12:40:24.106179+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987231+00:00"
   },
   {
     "source": "OpenAI",
@@ -465,7 +483,7 @@
     "url": "https://openai.com/index/introducing-openai-presence",
     "published": "2026-07-22T05:30:00+00:00",
     "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "fetched_at": "2026-08-19T12:40:24.106184+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987237+00:00"
   },
   {
     "source": "OpenAI",
@@ -474,7 +492,7 @@
     "url": "https://openai.com/index/ntt-data",
     "published": "2026-07-22T00:00:00+00:00",
     "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "fetched_at": "2026-08-19T12:40:24.106191+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987244+00:00"
   },
   {
     "source": "OpenAI",
@@ -483,25 +501,7 @@
     "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "published": "2026-07-21T17:00:00+00:00",
     "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "fetched_at": "2026-08-19T12:40:24.106197+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "published": "2026-07-21T07:00:00+00:00",
-    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "fetched_at": "2026-08-19T12:40:24.106203+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "published": "2026-07-21T00:00:00+00:00",
-    "summary": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "fetched_at": "2026-08-19T12:40:24.106209+00:00"
+    "fetched_at": "2026-08-20T12:42:25.987250+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -510,7 +510,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "published": "2026-08-13T17:04:18+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.641967+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556945+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -519,7 +519,7 @@
     "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "published": "2026-08-12T14:01:59+00:00",
     "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "fetched_at": "2026-08-19T12:40:24.641979+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556957+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -528,7 +528,7 @@
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "published": "2026-08-06T15:06:15+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.641987+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556965+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -537,7 +537,7 @@
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "published": "2026-07-30T15:00:59+00:00",
     "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-    "fetched_at": "2026-08-19T12:40:24.641995+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556973+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -546,7 +546,7 @@
     "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "published": "2026-07-29T16:02:10+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.642002+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556980+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -555,7 +555,7 @@
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "published": "2026-07-28T13:21:37+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.642009+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556987+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -564,7 +564,7 @@
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "published": "2026-07-22T13:38:54+00:00",
     "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "fetched_at": "2026-08-19T12:40:24.642015+00:00"
+    "fetched_at": "2026-08-20T12:42:26.556994+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -573,7 +573,16 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "published": "2026-07-21T15:16:30+00:00",
     "summary": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "fetched_at": "2026-08-19T12:40:24.642022+00:00"
+    "fetched_at": "2026-08-20T12:42:26.557001+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "published": "2026-08-19T13:48:49+00:00",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:26.942709+00:00"
   },
   {
     "source": "Hugging Face",
@@ -582,7 +591,7 @@
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "published": "2026-08-18T18:09:38+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998518+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942723+00:00"
   },
   {
     "source": "Hugging Face",
@@ -591,7 +600,7 @@
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "published": "2026-08-18T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998531+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942732+00:00"
   },
   {
     "source": "Hugging Face",
@@ -600,7 +609,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "published": "2026-08-17T19:46:21+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998540+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942739+00:00"
   },
   {
     "source": "Hugging Face",
@@ -609,7 +618,7 @@
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "published": "2026-08-14T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998548+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942747+00:00"
   },
   {
     "source": "Hugging Face",
@@ -618,7 +627,7 @@
     "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "published": "2026-08-13T17:16:04+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998556+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942755+00:00"
   },
   {
     "source": "Hugging Face",
@@ -627,7 +636,7 @@
     "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "published": "2026-08-13T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998563+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942762+00:00"
   },
   {
     "source": "Hugging Face",
@@ -636,16 +645,16 @@
     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "published": "2026-08-12T16:14:36+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998571+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942770+00:00"
   },
   {
     "source": "Hugging Face",
     "source_type": "rss",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "published": "2026-08-12T14:00:51+00:00",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "published": "2026-08-11T13:37:10+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998578+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942778+00:00"
   },
   {
     "source": "Hugging Face",
@@ -654,7 +663,7 @@
     "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "published": "2026-08-10T16:25:36+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998585+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942790+00:00"
   },
   {
     "source": "Hugging Face",
@@ -663,7 +672,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "published": "2026-08-10T10:05:36+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998592+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942797+00:00"
   },
   {
     "source": "Hugging Face",
@@ -672,7 +681,7 @@
     "url": "https://huggingface.co/blog/muse-glimmer",
     "published": "2026-08-10T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998600+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942805+00:00"
   },
   {
     "source": "Hugging Face",
@@ -681,7 +690,7 @@
     "url": "https://huggingface.co/blog/baseten",
     "published": "2026-08-06T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998607+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942813+00:00"
   },
   {
     "source": "Hugging Face",
@@ -690,7 +699,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "published": "2026-07-30T15:09:09+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998615+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942820+00:00"
   },
   {
     "source": "Hugging Face",
@@ -699,7 +708,7 @@
     "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "published": "2026-07-27T09:32:20+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998625+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942826+00:00"
   },
   {
     "source": "Hugging Face",
@@ -708,7 +717,7 @@
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "published": "2026-07-27T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998638+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942834+00:00"
   },
   {
     "source": "Hugging Face",
@@ -717,16 +726,16 @@
     "url": "https://huggingface.co/blog/nunchaku-diffusers",
     "published": "2026-07-23T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998646+00:00"
+    "fetched_at": "2026-08-20T12:42:26.942841+00:00"
   },
   {
-    "source": "Hugging Face",
+    "source": "Anthropic (unofficial mirror)",
     "source_type": "rss",
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "url": "https://huggingface.co/blog/grabette",
-    "published": "2026-07-21T00:00:00+00:00",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:24.998653+00:00"
+    "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
+    "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "published": "2026-08-19T00:00:00+00:00",
+    "summary": "This is the second post in our series on building human-agent teams. The first shared what we've learned building teams with multiplayer AI at Anthropic. In this article, we share best practices from a company that was thinking about human-agent teams long before AI arrived.Jaime Delanghe joined Slack in 2017 to work on search and machine learning, with a mission to turn workplace conversation into institutional knowledge. Now the company\u2019s Chief Product Officer, she has believed from the start that to achieve this goal, people need to work in the open, keeping conversations, decisions, and work in progress in channels anyone at the company can read and search. In her recent essay The Work is the Conversation, she makes the same case for agents: The conversation around the work is the context that agents need to be useful and finally help us achieve this decades-old goal of turning scattered knowledge into productivity.\u00a0To learn what this looks like in practice at Slack, we talked with Jaime about her best practices for building effective human-agent teams and spreading these new ways of working.Treat your conversation history like a knowledge baseFor years, the promise that workplace conversation\u2014the \"exhaust\" of people working together\u2014would compound into organizational knowledge never materialized.\u00a0\"I have so many research papers from the early days at Slack that showed that, actually, no, conversation doesn't turn into knowledge,\" Jaime says. \"You wish it did, but really it's just a lot of stuff that just hangs out there and people still have to repeat themselves.\"\u00a0Making sense of all that exhaust simply wasn't humanly possible. Now it's an agent's job.How to put this into practiceDefault to public channels: Agents can only learn from what they can see. Decisions made in DMs or private threads are invisible to them\u2014and stay lost to the organization.Ask agents for the reasoning, not just the record: Instead of searching for what was decided, ask an agent to reconstruct why it was decided, and how the context has shifted since.Widen the surface area: Tools like Slack and Claude are stitching meetings, emails, calendars, and document repositories together\u2014the more of that context you connect, the less your team repeats itself.Learn when to handoff tasks between agents and humansThe core rhythm of a human-agent team is a cycle of handoffs. Powered by Claude in Slack, agents handle the production work\u2014drafting, summarizing, monitoring, preparing\u2014and pass the results to a person. The person reviews, decides, and redirects, then hands the work back for agents to carry out the next step.\u00a0To see all this in practice, look no further than how Jaime starts her week.\"It\u2019s Monday morning, and I\u2019ve just had my daily briefing that an agent has built for me,\u201d Jaime says.\u00a0Also waiting for her review is a recap of the previous week's product workshops with flagged escalations, a report on AI developments across the web, briefings for the day's meetings, and a stale bio she'd handed to an agent to rewrite. At the end of each loop, humans review and make decisions based on the agent\u2019s actions.\u00a0How to put this into practice:Start the day with agent-built briefings. Recaps, escalations, meeting prep, and web roundups are great tasks for agents to drive, with human review.Anchor the work in a shared channel. Share all work in a shared channel so that humans and agents can triage it together, with humans leading the charge on prioritization.\u00a0Make lightweight signals actionable. In Jaime's channel, an emoji reaction adds an item to the list and an agent picks up the task.\u00a0Delegate clear roles for agentsWorking with a fleet of specialized Claude agents can feel disorienting if your mental model is a one-on-one chatbot. Jaime's approach is social rather than technical: \"I like to think that agents are kind of like coworkers.\"\u00a0In the same way that human teammates have roles and responsibilities, agents should also have clear goals and focus areas. \"If the value of the agent feels mandated rather than very clearly felt and understood by the people using it, it's really hard to remember what the thing is for,\u201d she says.How to put this into practice:Route routine, transactional tasks to a general agent. Rather than asking people to remember a specialized tool, train an agent to tackle a repetitive task, like filing a help desk ticket or pulling last week's metrics into a status update.Let value be felt, not mandated. If people can't articulate what an agent is for, it may be time to retire it.Default shared channels to public; go private on purposeSlack has recommended public-by-default channels since its earliest days: \"You're building a shared understanding, a shared context for all of the work that's going to come next,\u201d Jaime says.\u00a0She suggests keeping channels public unless there is a specific reason to gate context and knowledge. The most information agents have to pull from and inform their work, the more effective team mates they\u2019ll be.\u00a0Open context compounds\u2014new people onboard into history instead of an empty inbox, and no one repeats themselves. Now agents benefit too, and that context and working memory flows back to humans.\u00a0How to put this into practice:Keep business-as-usual work in the open. Make non-sensitive projects, announcements, and Q&amp;A channels public so that agent coworkers can gain the knowledge they need to be most useful. .Remember your agents read what your team reads. A private channel is a blind spot for every agent that reports on it.Let psychological safety drive the line. Once genuinely sensitive material is walled off, the main reason work retreats into DMs isn't secrecy\u2014it's discomfort with being seen mid-process. People should feel confident doing everyday work in the open, rough drafts and half-formed questions included, trusting their coworkers to meet it in good faith. And that openness compounds: \"you gain trust by giving trust.\"Spread adoption by showing the art of the possibleThe fastest way to learn a new way of working is to watch a teammate do it. Jaime has seen this at Salesforce, where employees share skills, debugging tips, and workflow tricks in a company-wide channel called How I Slackbot, which by her count has thousands of members. In that channel, which is public by default, a trick from a sales process can end up reshaping an engineering process.Inside Slack, a push to get product managers using Claude \"was the most self-organized thing you could possibly imagine.\" One PM got the developer experience lead to help him get set up, then he wrote up a canvas showing what he did and how he did it. Other PMs copied the format. Teams organized workshops and built their own git repos.\u00a0How to put this into practice:Stand up a company-wide show-and-tell channel. Give employees one public place to share skills, debugging tips, and workflow tricks, so a trick from one function can reshape another.Encourage write-ups others can copy. A short \"what I did and how\" doc turns one person's setup into a team template or skill.Measure outcomes, not activitySince her early days at Slack, Jaime has grappled with the question of how to measure productivity. \"Do we want people to send more messages?\u201d she says. \u201cMaybe not. Sending messages might not actually mean that they're getting more out of Slack. More messages can mean people can't find what they need, or can't say what they mean the first time.\"Now, the question of measuring the value of AI looks quite similar\u2014and with something that complex, simple metrics don\u2019t do the job. Token usage tells you the lights are on, but while that\u2019s important to know, it\u2019s not sufficient.\u00a0How to put this into practice:Treat usage metrics as a pulse check, not proof of value. Activity tells you adoption is happening, not that it's working.Be ready to use your own judgment. There's no clean way to prove that how people use these tools leads to better business results. As Jaime puts it, connecting the two still takes \"a lot of leaps of faith,\" and no dashboard or usage stat will prove it for you.Change how you work, togetherJaime's biggest piece of advice for organizations trying to implement human-agent teams is to reimagine every workflow: \"We're going to have to figure out how to change the ways that we're working, not just do more of the same kind of work faster. And that is going to be a team sport.\"Her biggest advice for building an effective human-agent team? Start soon, but start small. Bring a group of people into a shared channel with Claude, give them the same set of resources, and let them work. If Slack's experience is any guide, what they build will spread on its own.",
+    "fetched_at": "2026-08-20T12:42:27.170876+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -735,7 +744,7 @@
     "url": "https://claude.com/blog/the-claude-science-product-guide",
     "published": "2026-08-18T00:00:00+00:00",
     "summary": "Life sciences organizations are at a turning point in their AI adoption journeys. Deloitte's 2026 Life Sciences Outlook found that 78% of biopharma and medtech leaders expect AI to play a central role in driving major change this year, yet only 14% report full implementation of AI tools into their organization\u2019s daily workflows. Anthropic's own internal research, drawn from interviews with researchers across chemistry, physics, biology, and computational fields, found that 91% of scientists want more AI in their research, while 79% named trust and reliability as their number-one barrier to adoption.\u00a0Claude Science (in beta) is Anthropic's answer to this problem: an AI workbench for every digital step of life science, built to run next to the scientist's data and produce results that can be traced, reproduced, and defended. It sits inside a broader Claude product family\u2014including Claude Chat, Claude Cowork, Claude Code, Claude for Microsoft 365, the Claude Platform, and Claude Managed Agents\u2014that life sciences organizations like Novo Nordisk, the Garvan Institute, and Benchling use for the document, regulatory, and enterprise work that surrounds the science. This guide covers which surface to reach for when, then goes deep on deploying Claude Science inside a research organization, with customer examples and a rollout roadmap.\u00a0In this guide, we share:When to use which Claude surface for science, including Claude Science for analysis, figures, and results; Claude Cowork and Claude for Microsoft 365 document and regulatory work; and Claude Code for building production pipelinesHow Claude Science works underneath the hood, powered by a local daemon that keeps data, compute, and agents on your machines and dispatches heavy jobs to your own GPU box, SLURM cluster, or cloud accountThe five design choices that make Claude\u2019s scientific analysis hold up under reviewA three-phase adoption roadmap\u2014Foundation, Pilot, Scale\u2014with what to do and what you'll see at each stage, plus the metrics that show a pilot is workingFunction and workflow use cases across discovery, analysis, and publication, from single-cell RNA-seq clustering to methods-section draftingCheck it out, here.Get started with Claude Science today.\u200d",
-    "fetched_at": "2026-08-19T12:40:25.158479+00:00"
+    "fetched_at": "2026-08-20T12:42:27.170902+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -744,7 +753,7 @@
     "url": "https://claude.com/blog/ai-ci-cd-on-call",
     "published": "2026-08-18T00:00:00+00:00",
     "summary": "Set up your own Claude on-call with our setup kit.A few weeks ago, I was on-call and my colleague Slacked me a message at 10pm: roughly 44 tests on a new service weren\u2019t firing.In the past, I would have stopped what I was doing, sat down with my laptop, sighed wearily, and began an hour-long investigate-and-fix process. But now, my workflow is entirely different: I pull in @Claude, and ask what it sees.\u00a0In this case, Claude found the tests disappeared when a feature flag got turned on that morning, and also that it would be safe to revert. I asked my colleague to revert the flag. Claude pinged me on Slack 3 minutes later to verify the skip rules had indeed been removed and the error rate was back to baseline.For the last several months Claude Tag has been the on-call first responder for CI/CD failures at Anthropic. Not only has this helped with our social lives, it has given every CI incident an instant first responder: Claude authored the first situation report in every recent incident that had one, typically publishing its first analysis within 15 minutes.In this article we\u2019ll walk through what we built and how it works so you can build it yourself and stop dreading your turn in the rotation.Our Claude on call setupBefore we go into each stage of the incident response process, I\u2019ll provide a general overview of our setup here so you have the big picture in mind as we fill in the details.An on-call agent needs memory so it remembers what\u2019s been done; connections and access so it can investigate, understand, and act; schedules so it knows when to get back to work; and instructions so it knows what to do.Claude Tag is the backbone of our on-call agent. Claude Tag holds memory across our on-call Slack channel and the interface to provide per-turn instructions during an incident. Claude also acts in real time to events in the on-call channel and others. The scheduling of routines, or the regular actions Claude takes, happens on this channel as well with natural language prompts like \u201crun CI handoff every Monday at 9:00am EST.\u201dClaude Tag has its own service account and access to the tools an Anthropic CI engineer needs such as Datadog or Grafana. This was set up one time by an administrator for the channel (here\u2019s how).\u00a0In addition to the on-call channel, we set up Claude to watch other relevant channels that also have Claude Tag as a member so it can get additional context like service alerts, configuration changes, or updates on PRs.\u00a0Standing instructions are in markdown files as skills, committed in a GitHub repository. This way multiple teammates can iterate on them and we can manage changes just like we do code. It also includes key information like routing instructions, policies, and a log of lessons learned as part of a self-improvement loop.\u00a0This setup took us hours, not days. We created a generalized on-call setup kit in GitHub that can help get you started with a similar agent. It transforms your team's own incident history into triage playbooks and leaves you with a read-only Claude in your incident channel that diagnoses, escalates, and learns. You can watch it run against a fictional team's history in about ten minutes.To summarize the steps TL;DR fashionYou\u2019ll need a Claude Team or Claude Enterprise planThe organization owner needs to add Claude to the on call Slack channel via Claude TagThe org owner also needs to help connect Claude in the on-call Slack channel to the appropriate connectors, GitHub repo, and set up Claude Code Remote.Add Claude to your incident channel and instruct it to monitor for incidents and immediately triageNow, let\u2019s dive into the details of what this transformation looks like at each step of an incident.DetectionClaude doesn\u2019t just transform how you respond to incidents, it transforms how you detect them in the first place. Previously, there were two major failure modes for detecting incidents.\u00a0It's hard for humans to have the foresight to set perfect rules with perfect thresholds all the time. It's especially difficult when you don't have enough data to analyze traffic patterns.To address this, we have Claude analyze the data and incoming alerts for the first few days of a new service to suggest additional rules and to fine-tune any that are overly broad or narrow.\u00a0The second major failure mode for detecting incidents was alert fatigue: checking and vetting every alert that fires is tedious. However, Claude doesn\u2019t get fatigued the same way a human does.\u00a0Claude monitors every relevant alert in each alert channel and goes through the criteria in the root oncall.md file to determine if it can wait until the morning or if the on-call needs a page. For example, once tuned from analyzing the data, a rule in the file could be, \u201cIf the error rate is greater than 2% for longer than 5 minutes AND it's not a known deploy window, page the on-call otherwise write it to lessons.md.\u201dThere are two other ways the Claude on-call alert process can trigger:A member of the CI team can report an issue in the on-call channel, as was the case in the opening example of 44 missing tests; or\u00a0\u00a0Anyone in the company can open an incident through an internal page. If it\u2019s marked as a CI infrastructure incident then a Slack channel is provisioned for that incident and our on-call Claude picks it up.The key takeaway here is that the alerting process is deterministic, while on-call escalation has both deterministic and agentic paths.\u00a0Triage\u00a0It's one thing to have Claude filter through the alert noise, but the real savings comes from the investigation. Claude posts its first evidence-grounded analysis a median of 14 minutes after an incident opens, and in the fastest cases names the root cause within 4 minutes in its first report.When an alert has been escalated to an incident, Claude is often ready in our Slack channel with a hypothesis grounded in evidence that we can review. Claude Tag kicks off a dynamic workflow with an orchestration agent that spins up executor subagents to investigate each dependency and source of truth.\u00a0For us that\u2019s Grafana, our log store, PagerDuty, GitHub, Kubernetes and Slack incident channels\u2013all wired up via MCP Connectors. Claude can chase multiple leads in parallel, helping to reduce MTTR (mean time to resolution).Executors report the findings back to the orchestration agent which synthesizes and surfaces the information in a coherent SITREP.\u00a0The orchestrator and executor agents aren\u2019t searching blind. They are guided by an investigation skill with more detailed reference markdown files for each bug class.\u00a0For example, a 617 line investigation skill for shadow divergence bugs encodes every step I take during a typical investigation. I built it by troubleshooting with Claude turn-by-turn during one of the incidents and then had it create the file from that experience.Lessons.md also guides Claude\u2019s troubleshooting. This markdown file is a running log of every incident we've resolved: what happened, the root cause, the fix, and the gotcha worth remembering. Claude appends to it on its own automatically. Every new investigation starts by reading it, so Claude's first hypothesis starts with what has happened recently.\u00a0If the same pattern shows up enough times, we promote it into the investigation skill itself. My favorite entry is one Claude wrote about me. I'd made an assumption from a config file before checking the metrics, and the lessons.md file now states, \"query the data first, then theorize. Config tells you what could go wrong; metrics tell you what did.\"Even with these tools and context, Claude doesn\u2019t always get it right the first time. Human intuition and experience matter. Claude Tag allows the team to troubleshoot incidents in multi-player mode. Either of us can steer the investigation or add a hypothesis in real-time, together.ResolutionIf Claude can escalate and troubleshoot alerts, can it fix them too? The answer to this question will vary from team to team, but here\u2019s how we do it.Most deployments within our team happen behind a feature flag. I have created a separate agent in Claude Code, with my permissions, capable of progressive deployment behind each of these feature flags.\u00a0The first stage of our rollout process usually involves Claude managing canary traffic, monitoring for issues, and automatically ramping a given feature flag up or down. This could be an entirely separate article, so I won't go into more detail here.Other resolution paths that Claude Tag helps my team with are:Letting us know if we need to drain or cordon off certain sections of our Kubernetes cluster;.Giving us instructions on how to scale up some of our infrastructure in responses to demand-surges (this is rare but it\u2019s very helpful when Claude comes back with exactly what we can do for mitigation); and, most frequently,Fixes in the form of a PR that the on-call can review, merge, and then deploy for a swift resolution.Verification, communication, and handoffClaude uses many of the same MCP Connectors and tools that it did for its investigation to verify the fix worked as intended. As part of the standing instructions in oncall.md, it writes a post-mortem to lessons.md and for the handoff SITREP.To communicate the full picture across multiple incidents, we created an agent called ci-weather. It compiles information from each incident Slack channel, build metrics, merge queue stats, and deploy lag. Then it posts a newsroom-style report to one public channel anyone in the company can read. Now, our engineers can reference that channel rather than pinging us when they are trying to determine if they should hold their merges or if they\u2019re trying to answer \u201cwhat\u2019s wrong with CI?\u201d.One honest note: we needed to iterate the report format several times. Claude can one-shot a skill that generates a status report, but what makes it readable is team-specific taste. It's human communication, not plumbing.Finally, while Claude keeps a journal for itself in lessons.md, we also want to produce handoff reports for humans as well every Monday. Claude produces daily and weekly summaries so one member of the team can pick up where the other left off.From monitoring incidents to monitoring an incident response systemOur software engineers on average ship 8x as much code per quarter as they did from 2021 to 2025. And while we have kept the quality bar high (every PR has a named human owner, every change requires approval to merge, every change goes through the same set of CI gates), the only way to keep up with agentic coding is agentic CI.Claude has absorbed the tedious parts of my job, the after-hours disruptions and the incident comms, while allowing me to focus on the medium and long term architectural changes that truly move the needle for system reliability.\u00a0The best part of what we have built is that it doesn\u2019t feel scattered. Our on-call processes live in Slack, but now Claude has joined the channel.How to get started:You\u2019ll need a Claude Team or Claude Enterprise planThe organization owner needs to add Claude to the on call Slack channel via Claude TagThe org owner also needs to help connect Claude in the on-call Slack channel to the appropriate connectors, GitHub repo, and set up Claude Code Remote.Add Claude to your incident channel and instruct it to monitor for incidents and immediately triageSet up your own Claude on-call with our setup kit.This article was written by Sachin Malhotra, technical member of Anthropic staff with contributions from Michael Segner, Anthropic staff.",
-    "fetched_at": "2026-08-19T12:40:25.158543+00:00"
+    "fetched_at": "2026-08-20T12:42:27.170961+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -753,7 +762,7 @@
     "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
     "published": "2026-08-17T00:00:00+00:00",
     "summary": "When Brandon Fuller, CTO of ABC Legal, a U.S.-based legal document delivery company, rolled out Claude Enterprise to the company's 1,100 employees earlier this year, something clicked immediately. Teams across the company (service of process, eFiling, and appearance counsel operations, plus marketing, compliance, finance, and more) started building automations on their own, without being asked.\"Our users really flocked to it,\" Fuller recalls. \"They saw the ease of use of connectors and tools, and suddenly we had people all over the organization automating the tasks that had always eaten up their day.\"It was exactly the kind of adoption any CTO hopes for. But Fuller saw an opportunity to go further: what if ABC Legal could also run a fleet of AI agents that were versioned, observable, and always on?That ambition came down to infrastructure. Early agents lived wherever their builder happened to put them, as scheduled tasks on individual desktops. Moving them off personal machines would let them run unattended and give Fuller a single view of what had been built, what it cost, and whether it ran last night.So he deployed Claude Managed Agents: one common deployment structure, shared workspaces, a single audit and billing surface, and always-on agents in the cloud instead of on a person\u2019s laptop.\u00a0As of July 2026, Fuller and his team at ABC Legal have tracked:\u00a050+ agents built with Managed Agents in productionUp to ~50% reduction in the cost of the human tasks some agents cover, before heavy optimization~310 employees across every department using Claude for daily workHere\u2019s how they got there and what they learned in the process.From enthusiasm to engineering: treating every agent like softwareWhen they first deployed Claude Managed Agents, Fuller had the team define every agent as code. He believes this is the natural form for an agent to take. As he explains, \u201can agent is really just structured text, a prompt plus configuration, and anything that is text can live in a repository where the whole company can see it, review it, and improve it.\u201d An agent's prompt, tool list, schedule, credentials, and memory all go into configuration files kept in a git repository alongside the company's software. Nothing about an agent changes except through a pull request someone approves, which gives every agent version history, code review, rollback, and an audit trail.He spent a week building a starter kit with two templates, stored in dedicated git repositories. One is for event-driven agents, which start the moment something happens, like a new job arriving or a document coming back from a court. The other is for scheduled agents, which run on a timer: hourly, daily, or weekly. Each agent lives in its own folder with a standard structure: a JSON config file, a system prompt in Markdown, deployment scripts, and operational documentation. Merging a change into the main branch deploys the agent automatically. A builder never has to write software. They clone the repo, copy a starter template, tell Claude Code what the agent should do, and get back everything the agent needs: config, prompt, credential store, and memory.Bridging the technical divideFuller gathered the company\u2019s 15-person steering committee, drawn from finance, marketing, operations, and development (none of them software developers), and had them clone the repository and build Managed Agents using Claude Code.The goal was to prove that non-developers could build production agents themselves. If every agent had to route through the dev team, that bottleneck would cap how fast the whole company could move. What made it safe is that they were not writing software. Instead, they were filling in configuration and a prompt, and Managed Agents supplied the runtime.\"I had to explain what a PR was to them. A lot of [the non-software engineers] thought it meant running, like a PR, the fastest you can,\u201d he said. \u201cNow they're doing pull requests and sending them to each other.\"Within a week, all 15 employees had working agents. Those builders went back to their teams and trained others. Within a month, roughly 50+ agents were running across ABC Legal. Each agent has a name, an owner, and a single job.An agent for most stages of the legal document processABC Legal now has an agent at most stages of the legal filing process and the operations around it.The AI Code Reviewer reviews every pull request across four codebases, running multi-model analysis to catch security bugs, performance regressions, and committed credentials. Engineers now wait for its review before merging.The EvidenceChain\u2122 Delivery Agent took over a weekly chore an account manager used to do by hand. ABC Legal runs a proprietary site, EvidenceChain.com, where courts, plaintiffs, and defendants look up the record of a service completed in the field, including who the process server was, when they attempted it, and photos of the document delivery. One customer wanted specific records pulled from it on an ongoing basis. The agent now pulls a database report for matching jobs, retrieves each PDF with a browser built into the Managed Agent, and delivers it to the customer's FTP server daily. The account manager who set it up had never automated anything, and built it in about an hour by describing it to Claude Code.The eFiling Rejection Diagnoser fires automatically when a court rejects a filing, reads the job details, checks the court's rules, and posts a diagnosis to Slack in about a minute, work that used to consume hours of an employee\u2019s day. A job-verification agent checks every incoming job against the courts. It navigates a court website in a browser, confirms the hearing or case is filed appropriately and actually occurring on the stated date, then adjusts the job based on what it found, flagging jurisdictions, courts, and statute-of-limitations timeframes.\u00a0The Attorney Coverage Agent works the network of attorneys to get hearings covered, checking availability, emailing them, and reading replies about availability and pricing so a coordinator can confirm coverage.\u00a0In finance, an AR-remittance agent parses a remittance email, builds the NetSuite payment-application file, and posts it to Slack for one-click approval, and then imports it, with a daily agent that renders a capitalize-or-expense verdict on each engineering ticket. Marketing runs a Google Ads analyst that posts a weekly recommendation for the channel lead. In operations, a review agent called Charvis checks completed service jobs and now agrees with the compliance team about 98% of the time.The Service-Overdue-Nudger works the tier-1 layer of ABC Legal's operational backlogs, the repetitive first pass a person would otherwise do, and drafts tiered daily outreach messages for human approval.Making the agents smarter: harvest, tune, repeatABC Legal's agents work under human supervision, posting what they did or what they recommend to Slack, where people reply in threads and react with emoji.Hank, an internal code review agent, posts every review to a shared Slack channel. Each entry names the pull request and the counts that came out of it so the trail of what the agent decided is public and searchable.Fuller saw all that reaction data as a training signal going to waste. Not every agent needs the signal, though. Most of the fleet are single-task runners whose output no one grades, and they work alone. For the agents that do collect graded feedback, ABC Legal uses a three-role architecture: separate agents that share one workspace, environment, and credential vault but run on different schedules. The pattern turns messages in Slack into versioned, human-approved changes to the agent:The Initial Agent does the work, usually in real time as a job comes in or a document comes back, and records an audit trail of each action.The Harvester runs hourly or daily and gathers human feedback from Slack, where it arrives as thread replies and emoji reactions. Each one becomes a labeled data point.The Tuner runs weekly, looks across everything at once, and proposes a change to the prompt or config rather than the model's weights. It drafts only. A human reviews and merges the pull request. In ABC Legal\u2019s self-improving agent loop, an initial agent does the work in real time, a harvester sweeps up human feedback from Slack on an hourly cadence, and a weekly tuner proposes prompt and config changes as a pull request. Agents improve through the same workflows developers already use.One example is \"deliveries-as-code,\" Fuller's agentic system for tuning how work gets routed, which started at Docketly, ABC Legal's 50-person sister company. Docketly organizes its work around deliveries, each with its own ruleset for routing and handling. All 145 or so rulesets are single YAML files in git rather than records in an admin screen, so tuning a delivery means editing a file and opening a pull request.\u00a0Four agents make up the loop: one posts a weekly verdict to Slack, the Harvester turns reactions into labels based on human feedback, the Tuner opens a pull request on the YAML, and a fourth agent pushes the merged config to the production database. That fourth agent only executes what a human has already reviewed and approved. In practice, an emoji reaction flagging a mis-routed delivery can become a merged change to that delivery's routing rules within the week. The review is the only manual step in the loop.Why Claude Managed AgentsFuller evaluated multiple frameworks before settling on Claude Managed Agents as his organization\u2019s agentic harness. His criteria were specific: the platform had to have versioning, observable sessions, workspace billing, model selection, memory primitives, MCP wiring, and, most critically, no infrastructure to babysit.The platform's division of responsibility maps cleanly to how Fuller wants to run things. Anthropic\u2019s managed infrastructure owns everything that makes an agent run: the execution loop, sessions, memory, the console, and the models themselves. ABC Legal owns the prompt, the tool list, the trigger logic, the audit trail, and the feedback loop on outcomes.A few capabilities proved especially important at scale:Versioning: every push creates a new agent version with optimistic locking. Rollback is trivial.Model flexibility: the default is Claude Sonnet for most agents, Claude Haiku for high volume and fast tasks, and Claude Opus when deeper reasoning justifies the cost. Swapping models is a one-line change.MCP wiring and credential vaults: agents connect to ABC Legal's own platform (with over 100 tools available), Metabase for reporting, Slack for human-in-the-loop interaction, and Atlassian for project management.Scheduled deployments: recurring agents run on cron schedules through Bitbucket Pipelines, which already handles repo access, secrets, and billing.ABC Legal tracks every dollar of AI spend, broken out by vendor, tool, team, and use case. Spend climbed as the fleet went live through the spring, then started falling in July while usage kept growing, the result of the efficiency work described below, with a ~50% reduction in cost for the tasks many agents cover and ~310 employees across every department using Claude.\u00a0\u00a0The company's approach to cost is deliberate: push spend toward vertical, operational tools and agents where return is measurable, whilef keeping horizontal chat and ideation usage broad and costs in check. Most agents start with a human in the loop, where the agent looks at the job or ticket and makes a recommendation for a person to review before anything is acted on. The recommendation is either stored in the job and surfaced in a banner so the person can accept or reject it in the flow of their work, or posted to a Slack channel where people can reply in the thread. Those responses build a labeled dataset of good and bad calls, which feeds the harvester and tuner loop and lets the team write evals and benchmark agents across frontier models. Once an agent proves it is as good as or better than the humans on that specific task, it shifts into automation mode and acts on its own, and it stays inside the same measurement framework afterward to watch for any changes in performance.The metric ABC Legal tracks is an efficiency ratio; the value an agent delivers measured against what it costs to run. Every Managed Agent reports its own value back to a data warehouse on each run, in hours and dollars. Agents follow a J-curve, often starting underwater while they are new and running larger models, then flipping positive as the team writes evals, moves to cheaper and faster models, and trims tokens.Best practices for deploying a fleet of agentsFuller\u2019s experience with deploying AI\u2013specifically Claude Managed Agents led him to a few working principles about using the technology:\u00a0\u200dThink of everything as code. \"Code is just structured text. LLMs are text engines,\u201d he said. \u201cThe more of your business you can turn into text in a repo, the more leverage agents give you.\" This applies to traditional software and equally to prompts, schemas, dispatch rules, notification templates, and business configurations.Start with humans in the loop. Every agent begins by posting recommendations for human review. Only after demonstrating consistent agreement with human decisions does it earn the right to act independently. \"Every agent earns trust before it acts alone. It doesn't start there.\"Use the PR as your control surface. \"If you want an agent involved in a decision, make the decision look like a pull request.\" Line-by-line comments, approval workflows, and immutable audit trails come free with version control, and compose naturally with both AI and human review.Invest in the feedback loop. The harvester-tuner pattern means agents improve without retraining. Slack replies and emoji reactions become structured signals that feed back into prompt and config changes, all through the same pull request workflow humans already use.Skip the scheduled-tasks detour. ABC Legal spent real time building scheduled tasks and local routines before moving to Managed Agents, largely because the product had only just launched in beta. Fuller's advice today is to go straight to Managed Agents.Expect the git hurdle, not the AI hurdle. The hard part was getting business users comfortable with cloning a repo and working in Git and pull requests, more than anything about the AI itself. It worked, and fast, but it was a real hurdle, and Fuller would like to see it made easier in the tooling itself.Not every task deserves an agent. The cost is real, so every team has to think in terms of value over cost. The work is picking tractable problems that genuinely save time or create automation, and being willing to say a given task is not worth an agent.What's nextABC Legal's agent fleet continues to grow. In-flight projects include a service photo reviewer, a PagerDuty triage agent, a daily KPI digest, and expanded Tuner loops on existing agents.The team is also identifying more \"X-as-code\" candidates: notification templates, event routing rules, and dispatch logic that can be moved into repositories where agents can read, reason about, and propose improvements.As Fuller puts it: \"We want AI to support a business that can run itself, with employees free to steer it.\"Learn more about Claude Managed Agents.\u200d",
-    "fetched_at": "2026-08-19T12:40:25.158599+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171015+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -762,7 +771,7 @@
     "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
     "published": "2026-08-14T00:00:00+00:00",
     "summary": "TL;DRRun /clear between tasks. This prevents prior irrelevant context from being sent back to the model, which can reduce token usage.Set your model and effort level before you start. Changing either one mid-conversation can bust your prompt cache, which can increase token cost.@-mention files instead of naming them. The file gets attached to your message directly, which saves a Read call, or a search if Claude has to go find it.\u00a0Add quiet flags to noisy commands, or run them in a subagent. Command output is added to the conversation just like a file, and stays there for the rest of the session.Run /context once in a fresh session. It shows what's loaded (CLAUDE.md, MCP tool definitions), so you can cut out anything unnecessary./compact before you take a break from your keyboard. The prompt cache expires after an hour, and summarizing a conversation is much cheaper while it's still cached.Maximizing valueUntil pretty recently, the tools you wrote code with were a flat fee (or free). Your editor cost the same whether you fixed one test or fifty that afternoon, so an individual task didn't really have a price of its own.\u00a0With agentic coding tools like Claude Code, it does. The same completed task can also cost different amounts depending on how you use it.\u00a0In one session, Claude reads the test and the file it covers, makes the edit, and is done in a handful of turns. In another, it greps around the repo first, reads a dozen files on its way to the same two, and every one of those turns also drags along everything else that's been read into the conversation since this morning.It's the same fix, but you spent a different number of tokens on it, and the whole time the model was also having to think about ten files it didn't need.Being efficient with tokens doesn't mean using fewer of them overall. It means making sure the ones you do use go towards the thing you actually asked for.So let's look at what decides the price of a token, then what decides how many of them a session sends, and along the way, what that means for how you run a session.What decides the price of a tokenYou're billed per token, but what you're actually paying for is inference: the time it takes a GPU (or a TPU, or whatever the model happens to be running on) to run the model over your tokens.\u00a0Three things decide how much of that time a token takes: which model you're running, whether it's an input token (going in) or an output token (coming out), and whether it was cached.ModelA bigger model does more work on both input and output tokens. Which model is worth it for which kind of work is a topic on its own, and we covered it in Choosing a Claude model and effort level in Claude Code.\u00a0For this post, all you need to know is that everything else we're about to cover gets multiplied by the model's price: use a larger model when the problem is genuinely hard or ambiguous, and a smaller one when the work is routine.Curves are for illustration purposes only. They do not represent real benchmark data.",
-    "fetched_at": "2026-08-19T12:40:25.158625+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171041+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -771,7 +780,7 @@
     "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
     "published": "2026-08-13T00:00:00+00:00",
     "summary": "JetBrains builds the tools developers use worldwide, from IntelliJ IDEA and PyCharm to the Kotlin programming language, serving more than 12.5 million active users and 88 of the Fortune Global 100. Vladislav Tankov, CTO at JetBrains, spoke with Anthropic about how his team evaluates new models, decides when to use Claude Fable 5, and thinks about data retention and safeguards when working with frontier models.How has frontier AI changed for JetBrains in 2026?I've been with JetBrains for 10 years, and we were among the very first customers of LLM providers. Over the last year, we moved from having AI skeptics among our customers and inside the company to seeing that AI is here to stay. It's a big and foundational change in the technology industry. Literally every skeptic in the company has changed.How do you evaluate new models and decide when to use them?We're a coding company, so we have a big evaluation pipeline: large eval sets on private repositories, including our monorepo. We take a close look at whether a model lives up to its benchmark scores on real work\u2014some models are tuned to score well on public benchmarks but fall down on actual tasks. With a private repository, that's a lot easier to check. We also keep leaderboards for best quality, best cost per task, and fastest model. While Claude Fable 5 is more expensive per token, its cost per task is lower in some cases, particularly for more complicated, long-running work.How did Claude Fable 5 score on your evals relative to previous models?Claude Fable 5 is both more accurate and more efficient than prior models. It posted the best Python pass rate in our suite at 44.3%, against 28.2% for Opus 4.8, a 16-point jump. In a head-to-head comparison, Claude Fable 5 solved 18 Python tasks that Opus 4.8 missed and lost only 2. Its answers are also more trustworthy: when its code ran, it passed our tests far more often than either Opus model. That matters because code that runs but produces wrong answers is the most expensive kind of failure to catch.The efficiency story is just as interesting. Claude Fable 5 needed about 22% fewer steps than Opus 4.8 to reach a solution, so it gets to working code with less trial and error. It also spends its effort in the right places. On Java tasks, Opus 4.8 repeatedly tried to pull in outside resources that almost never help in our environment, while Claude Fable 5 skipped that entirely and worked with the code in front of it. It shows better engineering habits more generally.When do you use Claude Fable 5 over other models?Opus is seen as a workhorse: you can be very sure it will do the work. You go to Claude Fable 5 when you really need good reasoning, when you almost need a partner, and you're not sure yourself how to do the thing. For example, one of our tech leads decided to implement a rich text editor component we had attempted a few times over the years, and Claude Fable 5 almost one-shotted it.Another popular Claude Fable 5 use case is long-running agentic-coding experimentation. We provide an agent running Claude Fable 5 with specifications (in the form of text and images) and make it implement sophisticated IDE-like apps. The interesting thing here is that specifications can also be generated by the agent, based on the existing app. Joining these two components allows us to rewrite the app from one runtime, framework, or language to another in a nearly black-box setup.How are you thinking about safety and data retention with today's frontier models?We're not a company trying to create the safest model ourselves. We expect that the red teaming and everything else done on Anthropic's side is enough to believe the model is safe. Then we take a systematic approach to deployment, where we can guarantee safety: creating the infrastructure and the safety net around the model and the harness, rather than tweaking the model itself.Security is also one of our biggest Claude Fable 5 uses. We run white-box testing against our own products to find vulnerabilities, and our security team is preparing for the fact that not only are we running the model\u2014people outside the company will be running Claude Fable 5, or similar-class models, to probe for vulnerabilities across all of our products. Since we serve large enterprises in regulated industries, it's important for us to be prepared. Claude Fable 5 supports our work rather than blocking.So it's a tight balance: the less aggressive the classifier is on your side, the more vulnerabilities someone will find in our products\u2014including ones nobody knew about.And it's no secret: we'd prefer zero data retention. But I don't see any other way for you to understand what was asked and where a classifier may have worked incorrectly. As long as reviews are only to investigate the most serious cases flagged , I'm okay with it. I think it's a fair tradeoff for access to frontier intelligence that allows my team to do their best work.What's next on JetBrains's AI roadmap?We expect the underlying models built by the LLM providers to keep getting more capable. What matters now is a kind of cockpit for software development: a space in which agents and people collaborate, and where people can manage the development process.\u00a0For JetBrains, it\u2019s a big transformation. We see an opportunity to build the next generation of products across the agentic software development lifecycle that powers that cockpit. Developers will get more and better code shipped with agents, non-technical roles will have a larger role in software creation, and organisations will get the governance and clarity on the return on investment they need.Get started with Claude Fable.",
-    "fetched_at": "2026-08-19T12:40:25.158648+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171065+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -780,7 +789,7 @@
     "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "published": "2026-08-13T00:00:00+00:00",
     "summary": "Claude Tag lets you add Claude to a Slack channel, where it works alongside your team. Claude responds when you @-mention it, or proactively when it thinks it can be helpful.Before, Claude only saw one message at a time, so it made decisions to act proactively based on what was in front of it, but not the wider context of what was around it.Now, Claude uses context from across the channel, as well as its memory and the standing instructions you have given it, to determine when to contribute to the conversation.As a result, Claude is now roughly 30% better at determining when, and when not, to proactively respond.This update comes at no additional cost today. While holding more context does increase Claude Tag\u2019s usage, the additional context Claude Tag holds does not count toward usage or spend limits on any plan.From passive responder to active participantPreviously a lightweight classifier decided when Claude should act. It looked at each new message on its own and made one yes-or-no call.\u00a0For example, here are two engineers chasing the same bug from opposite ends. Neither has a free hour to run it down, and neither message asks for anything.Priya has a theory. Devon has the evidence. Neither message is for Claude, and neither asks for anything.Read one at a time, neither message is for Claude, so the classifier correctly does nothing, twice. Read together, there's an obvious piece of work sitting there. One engineer has a theory, the other has the evidence for it, and nobody has time to check.\u00a0With the classifier removed, Claude uses context across the channel to make one of four moves:\u00a0Reply inline, when the answer is short, verifiable, and something the channel doesn't already know.Start deeper work in a thread, when a message deserves real time.Route the message to work it has in flight, when it adds to a workstream Claude already has open.Say nothing, when nothing is called for.Here's the same conversation with Claude Tag using additional context. Claude picks the second move, even without being @-mentioned. It sees Priya's hypothesis and Devon's evidence, opens a thread with the investigation already running, and pulls both engineers in. It acts within the boundaries of the permissions, tools, and scope you have configured.Same thread, two minutes later. Claude reads the two messages together and starts the work. No @-mention.The conversations aren't walled off from each other. So when Devon posts an update, it lands in the right workstream. When two investigations turn out to be the same bug, that connection gets made.Claude now looks at all messages to understand the full context of the channel, to more accurately determine if it should participate in a conversation unprompted.How Claude decides when not to speakAn annoying agent is worse than an unhelpful one. We built Claude Tag to speak up only when it's useful, and in most channels, on most messages, that means saying nothing.We do this by grading Claude\u2019s channel-by-channel choices against a rubric based on principles like how useful the comment is, how confident Claude is in the response, and whether there is a person better suited to respond.\u00a0Claude also knows when to stop paying attention, similar to how people navigate Slack. It follows a few channels closely while paying less attention to others until someone tags it in. In a channel where, message after message, Claude keeps concluding it has nothing to add, it goes to sleep. A @-mention wakes it instantly.You can also steer its response behavior in plain language: \"Never respond here unless someone tags you,\" or \"Feel free to jump in on anything about the deploy pipeline.\"\u00a0And if you'd rather Claude only spoke in a channel when someone tags it, any member can switch \u2018Respond automatically\u2019 off.\u00a0The first reply is fasterThe additional context also allows Claude to respond more quickly. It acknowledges you in seconds instead of operating silently while it starts up. The work itself takes as long as it always did; what's gone is the silent first minute when you couldn't tell whether it heard you.Live todayThis update is now available across Claude Tag, available for Claude Teams and Enterprise customers. You can get started here. Claude now acts as a more effective collaborator, one that can follow the conversation, decide for itself when to act, and when to stay out of the way.\u00a0Add Claude to one channel and watch what it adds to your conversations. Learn more about Claude Tag.",
-    "fetched_at": "2026-08-19T12:40:25.158678+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171095+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -789,7 +798,7 @@
     "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "published": "2026-08-13T00:00:00+00:00",
     "summary": "In our previous post, we described how we enabled Claude to answer data analytics questions with ~95% accuracy through three primary artifacts:\u00a0A governed semantic layer;\u00a0A set of skill files that encode our analytical conventions; and\u00a0An evaluation suite to measure performance.\u00a0That post focused on Claude Code (the primary development surface for our data scientists and data engineers), and best practices for improving agentic accuracy.This post discusses how the data team at Anthropic applies that foundation to where the rest of the company works using Claude Tag (public beta), which is the foundation for our data analytics agent in Slack. Anyone can ask it data-related questions and receive answers backed by the same governed definitions analysts use.\u00a0Fictional recreation of a Claude Tag conversation for illustrative purposes. Details, names, and tools are not real.Best practices for deploying a data analytics agent in SlackGetting an agent to be accurate and getting it deployed where non-analysts can use it turned out to be quite different motions. We won\u2019t rehash our recommendations on accuracy from our prior post as they\u2019re still applicable here.\u00a0Rather, we\u2019ll cover our five most important learnings over the past year for how to deploy a data analytics agent in Slack and how you should think about distribution, permissions, freshness, and observability.",
-    "fetched_at": "2026-08-19T12:40:25.158695+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171112+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -798,7 +807,7 @@
     "url": "https://claude.com/blog/cowork-chrome-side-panel",
     "published": "2026-08-12T00:00:00+00:00",
     "summary": "The Claude in Chrome side panel is now a Claude Cowork session. Conversations are saved to your history, your skills and connectors work in the browser, and a task you start in a tab can be finished on the Claude desktop, web, and mobile apps. It\u2019s available on Max and Team plans today, and is rolling out to Pro users over the coming weeks.\u00a0Claude in Chrome is a browser extension that lets Claude see the page you're on and take actions in it, including clicking links, typing text, navigating between pages, and filling out forms, using your existing logins.Many of the tools you use every day connect directly to Claude, but others don't, such as internal dashboards, legacy systems, and vendor portals. With Claude in Chrome, Claude can work in these apps through the browser.\u00a0\u00a0Until now, a session in the side panel was separate from those in the Claude apps, so context and conversations didn't carry between them. Now, the side panel runs the same Claude Cowork session you use on desktop, web, and mobile for longer, multi-step work. Because sessions live with your account rather than a single device, you can start work in a browser and pick it up later somewhere else.As an example, say you're putting together a budget spreadsheet and need to pull in invoices from several vendor portals. Now, you can ask Claude in Chrome to collect the amounts and dates, and it will open the tabs, read each invoice, and build the spreadsheet. Then, you can pick the session up in the desktop app to add files from your computer, or import last month's budget and ask what's changed, allowing you to maintain context across surfaces as you work.\u00a0\u00a0Understanding the risks\u00a0Claude in Chrome carries the same risks as any AI agent that acts in a browser, chiefly prompt injection. Malicious actors hide instructions in web content, such as a web page, an email, or a document. These instructions may not be visible to you, but they can redirect Claude to take actions you never intended.\u00a0Since the pilot, we\u2019ve added a check on Claude\u2019s own actions. Use \u201cautomatically approve\u201d and Claude works through a task without stopping for permission at every step. Before anything consequential, like submitting a form, sending a message, or downloading a file, a separate check reviews the action against what you originally asked for and blocks anything that doesn\u2019t match. That creates fewer interruptions while maintaining oversight.\u00a0\u00a0Claude still asks before certain irreversible or costly actions, like making a purchase or sharing personal data. While these measures meaningfully reduce the risk, they cannot eliminate it. Prompt injection is a moving target, so we keep hunting for new attacks and building what we learn into each model we release. We recommend starting on sites you trust, and our safety guide has more best practices.\u00a0Getting startedTo start using Claude in Chrome, install it from the Chrome Web Store, sign in, and open the side panel. The new side panel is available on Max and Team plans today, and is rolling out to Pro users over the coming weeks. On Enterprise plans, Claude in Chrome is off by default. Admins can turn it on and limit it to approved domains. See the admin setup guide.You\u2019ll still need to use the Claude desktop app to work with files on your computer or with other applications. Claude in Chrome doesn\u2019t run on other Chromium browsers or on mobile yet.",
-    "fetched_at": "2026-08-19T12:40:25.158733+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171133+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -807,7 +816,7 @@
     "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
     "published": "2026-08-11T00:00:00+00:00",
     "summary": "Claude's Compliance API now covers Cowork across the desktop app, web, and mobile, as well as Claude Code in the CLI and desktop app. Coverage is in beta for Claude Enterprise customers. Compliance and security teams can pull session content and metadata from both products through the same Compliance API interface they already use for Claude chats.The new endpoints are additive: nothing changes about the data you already pull from the Compliance API today.Security and compliance teams rely on the Compliance API to see how Claude is used across their organization \u2014 for audits and eDiscovery \u2014 without deploying separate logging infrastructure for each surface. Extending coverage to Cowork and Claude Code closes a gap: those sessions now show up alongside Claude chats.\u00a0How it worksThe new session endpoints return a consolidated, server-hosted transcript for each Cowork and Claude Code session, so prompts, responses, and tool activity come back together in a single session record.Each session record carries two kinds of data:Session content: prompts and responses, tool calls content (web and MCP), and skills and artifacts content captured as transcript text.Session metadata: verified user ID and email address, organization ID, session and per-message IDs, and timestamps.This beta doesn't include Claude Code on the web, Claude Code accessed through the Claude Platform, or sessions run on Amazon Bedrock, Google Cloud's Vertex AI, or Microsoft Foundry.Organizations already exporting OpenTelemetry data can keep it running: the Compliance API can work alongside it with no infrastructure required on your side.Getting startedCoverage for Cowork and Claude Code is available today and included with the Compliance API using your existing Compliance Access Key \u2013 there\u2019s no separate integration to build. If it's already enabled for your organization, query the new session endpoints directly. If not, review the Compliance API documentation to enable it.",
-    "fetched_at": "2026-08-19T12:40:25.158751+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171149+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -816,7 +825,7 @@
     "url": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
     "published": "2026-08-07T00:00:00+00:00",
     "summary": "Early in my career in business development, account executives would hand me lists with hundreds of accounts and I\u2019d have to investigate each company, find the right contacts, hunt down emails, and draft outreach. The inbound side had similarly manual and time-consuming workflows.\u00a0When I joined Anthropic last summer, I took over the responsibility of managing our sales inbox. I would spend around 5 hours per day manually responding to inbound interest from prospects, often answering the same or similar questions about our products, on top of managing my own book of business.\u00a0A lot of that work is now set up as skills and scheduled tasks in Claude Cowork. Personalized customer emails are prepared as drafts that I need to review and customize before sending. My outbound work begins with detailed research that I didn\u2019t need to spend hours compiling.\u00a0As a result, my teammates and I spend less time on manual, repetitive work and more time on what matters: helping our customers.\u00a0Here\u2019s how Claude Cowork is upleveling the business development function at Anthropic, allowing us to dedicate more time to strategic work, understanding customer problems, and helping educate them on how Claude can solve them.Automating administrative and repeatable tasksBDRs sit at the beginning of the sales process, qualifying inbound demand and building outbound pipeline for the business. At Anthropic, those motions now run through Claude Cowork first.A foundational piece of our inbound setup is a document where I\u2019ve collected the questions we most commonly receive in our sales inbox, along with our best answers to those questions. This document functions as our sales knowledge base, which Claude reads before drafting any replies we send. Claude helped me create that document (I simply pointed it to the relevant sources of information), and now continuously verifies that it is up to date by flagging information that might potentially be stale, which users can validate.\u00a0The heaviest workflow built on that document is an inbox skill that runs every hour: it scans a rep's inbox, finds every thread that the rep needs to answer, and drafts a reply for the rep to read, edit, and send. This skill is made of a thin system prompt, the knowledge base as context, and a profile of the rep\u2019s writing style (which each of us also creates using a voice skill that reads through documents, messages, and emails we have written). The inbox skill runs on a thin system prompt, the team's sales knowledge base as the source for product facts, and a customized voice profile for each rep.The inbox skill scans a rep\u2019s inbox and leaves drafted replies for review. All information in this preview has been anonymized for publication.I also lean on two lighter skills that help with my administrative workload. Every BDR knows the pain of meeting no-shows and prospects going dark. To address this, I built a skill that watches Gmail and Google Calendar to notify me when that happens, so I can follow up quickly.\u00a0The other skill uses our CRM connector to scan for all new leads and draft a personalized first touch. It runs on a schedule throughout the day to ensure we don\u2019t leave leads waiting.We also have a skill that keeps Salesforce current by reading our internal guidance on opportunity stages and checking it against what's actually happening in Gmail and Gong. If we've met with a customer and moved on to pricing questions, the opportunity should probably progress a stage. Claude proposes each Salesforce update with the evidence behind it and waits for approval. When I edit or reject a proposal, it records the reason why so it doesn\u2019t repeat the mistake.The pipeline scanner skill proposes Salesforce updates for approval by the rep. Shown here with demo data and all information anonymized for publication.Optimizing outbound and revenue workOn average, I work upwards of a hundred accounts at any given time. I\u2019m able to cover all these accounts thanks to a skill that runs as a scheduled task overnight. It prospects across my entire book, observing the current state of each account; for example, who are we in touch with, how do they use Claude today, and what signals are relevant. To accomplish this, Claude connects to Salesforce, sales tools like Apollo and Common Room, Gong, and our data warehouse, performs deep research, and validates it against outbound guidance and ICP criteria that our team has curated.\u00a0These pieces of the skill add context to help Claude work more like a BDR at Anthropic. In the morning, I open up Claude Cowork to a brief, a score, and an outbound play for each account.\u00a0This workflow becomes increasingly useful over time as each BDR can provide feedback on Claude\u2019s results, which then feeds back into the skill. The skill keeps a small memory file and ledger, preventing repetitive or duplicative work.We use this research in follow-up conversations, so our outreach is tailored and when we talk to customers we're informed on their business and close enough to their problems to have a deeper strategic discussion.\u00a0Discovery calls are another part of our outbound motion we are working to improve with Claude. We use a skill that evaluates Gong transcripts against our discovery call playbook and builds a scorecard for each call, with specific feedback based on the conversation. The feedback includes top three things done well, top three areas to improve, an explicit pass or fail score on our criteria, and a single highest-leverage thing to practice next. The call coach skill provides a scorecard for our discovery calls, along with specific recommendations on improving them. Shown here with demo data and all information anonymized for publication.Streamlining one-off requestsOften, requests come to the BDR team in an ad-hoc manner and Claude makes it possible for us to partner with our AEs in a more strategic way. If an AE is curious about usage trends for a top account, we are a prompt away from providing a legible and descriptive dashboard that highlights the relevant trends. \u00a0A spend analysis report generated for target accounts.Working with Claude on data analysis and reporting comes into play in outbound work, too. One of my favorite workflows is running an undiscovered usage prompt. It considers an AE\u2019s full book and finds usage signals on the account level where we do not yet have a sales opportunity. Often, this is a great signal for us to begin reaching out and working together with a customer to optimize their usage and experience with Claude.\u00a0A product-focused sweep of one AE's book returns every account already using the product with no matching opportunity. Shown with demo data and all information anonymized or modified for publication.We also use Claude for event outreach. One of my AEs recently flagged that we have an upcoming Claude Code for Data Engineering webinar and asked if I could find accounts in his book that would be interested in attending. I don\u2019t have a skill for that, but for this type of request a prompt was enough. Claude checked usage data and CRM history across the book, scored each account against our ICP, and flagged the best fits with contacts worth inviting.Asked to find the right accounts for a webinar invite, Claude sweeps the books and scores each account against the team's ideal customer profile.Together, these skills, scheduled tasks, and the context we've curated turn Claude into an always-on business development partner.\u00a0Advice for business development teams on getting started with Claude CoworkBelow, are some tips for business development teams on getting started with Claude Cowork:\u00a0Build the knowledge base before the workflows. Collect the questions your team answers repeatedly, and your best answers, into a single external-facing document. You don't have to write it by hand: point Claude at your relevant product docs and team channels and have it build the first version.Give Claude examples of how your team works. Claude drafts against the context you give it. For outbound, this can include examples of messages that worked and your ideal customer profile. Each rep can also have Claude learn their writing style, so drafts arrive sounding like the sender.Keep a person on every send. Claude can generate drafts, but we still read, edit, and send them.Share skills across the team. Our team keeps its most-used skills in a shared plugin, promoting a skill there once we establish that reps use it consistently in their daily work.Make skills general enough to adapt to the whole team\u2019s way of work. Segments, books, and workflows differ across reps, so we keep shared skills general enough to adapt rather than scoped to one person's routine.Write feedback back into the skills. When you dismiss a hook or correct a draft, have Claude record the reason in the skill so it doesn\u2019t make the same mistake again.My best advice? Just start experimenting. The more context and tools you give it, the more you can get done.\u00a0Watch John demo these skills during our Claude Cowork for Business Development Representatives webinar.Get started with Claude Cowork today.All UI mockups in this article are depicted with synthetic data and do not represent real companies or individuals.",
-    "fetched_at": "2026-08-19T12:40:25.158796+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171194+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -825,7 +834,7 @@
     "url": "https://claude.com/blog/auto-mode-in-production",
     "published": "2026-08-07T00:00:00+00:00",
     "summary": "Auto mode is now the default setting in Claude Code. Instead of asking you to approve every command an agent wants to run, a classifier evaluates each action and blocks ones that look potentially harmful.\u00a0Auto mode\u2019s design resolves a common agentic coding tradeoff: speed vs. safety. Reviewing every command keeps a human in the loop, but once sessions stretch to hours or multiply in parallel, that oversight becomes the bottleneck. Skipping permission checks entirely is faster\u2014and it\u2019s also how prompt injection, scope drift, and the occasional deleted production resource get through.\u00a0Auto mode closes most of that gap. In internal evaluations, the classifier caught more dangerous actions than developers did when clicking through permission prompts by hand, and its performance held up under third-party red-teaming.\u00a0 And because sessions pause less often, Claude works 9x longer between interruptions than under the previous default\u2014across all Claude Code usage.\u00a0To see how auto mode holds up in production, we spoke with teams at Nuro, Gusto, and Garner Health about how and why they use auto mode as their daily driver to balance speed with safety in their production environments.\u00a0Powering longer running autonomous agents at NuroNuro, the physical AI company developing universal Level 4 autonomous driving technology, adopted Claude Code in late 2025, and by March it was the most popular agentic coding tool at the company.\u00a0Before auto mode shipped, staff software engineer Kai Zhou had already started prototyping an internal stand-in: a hook that sent each pending action to a small model, auto-approved the routine 90 percent of the time, and routed anything sensitive to Slack for a human to review. The prototype answered a real tension: engineers hated babysitting approval prompts, but from a company security and legal standpoint, skipping permissions outright was too dangerous to sanction. When auto mode shipped, Kai shelved the side project.\u00a0Today, Kai runs auto mode for everything he writes.\u00a0\"I don't want to sit there and click approve all the time,\" said Kai. \"I use auto mode for 100 percent of my coding work. Most of the time, I open three or four sessions running auto mode in parallel and just check in when I need to.\u201dThe exception is work that touches other teams. For instance, when Claude Code reviews a Pull Request on his behalf, Kai switches back to interactive mode and reviews each one before it goes out.Auto mode doesn\u2019t run unconstrained, either. Nuro leans heavily on skills, and engineers deny the most dangerous commands, like recursive deletes, outright in their settings. The classifier makes its judgment calls inside those guardrails.The bigger auto mode unlock, however, has been the ability to kick off work that keeps running after engineers are done for the day. Specifically, Kai\u2019s team uses auto mode to power long-running research agents that hill-climb the evaluation metrics behind its autonomous-driving stack: tasks with a clear, measurable signal an agent can iterate against on its own.\u00a0Overnight, an agent can study false negatives flagged by the evaluation suite, draft a proposal, run experiments, and keep iterating on the results. The approach extends to any task with a clear evaluation method\u2014another team at Nuro uses it to shrink the memory footprint of a specific binary\u2014because the metric itself tells the agent whether it\u2019s improving or regressing.\"The other day, I kicked off an agent at 10 p.m. and it kept running until 5 a.m.\u2014and it gave me three PRs in the morning,\" Kai said. \"I think it's pretty impressive. Only auto mode enables this kind of workload.\"Shipping PRs faster and safer at GustoAt Gusto, a leading SMB technology company, the move to auto mode started as a proactive security upgrade.Martin Emde, who works on the company's AI Dev Tools team, had watched permission fatigue slow the team down. Auto mode gave them the same velocity without sacrificing control or security, and since adoption took hold across engineering, the overall permissions burden has noticeably declined.Martin has kicked off 2,425 Claude Code sessions since December, with auto mode as his daily driver. Cross-repo work that used to stall on folder-access approvals now runs uninterrupted, and unattended jobs, like compiling daily notes from GitHub, Slack, and Jira, run on their own. In his team\u2019s own analysis, roughly 10% of session transcripts since mid-May 2026 included an auto mode denial, evidence the classifier is doing real work without dragging on legitimate tasks.\u00a0\u201cAuto mode gave us a safer balance between speed and control,\" Martin said. \"We were able to remove the repeated prompts and increase productivity without compromising safety. We can see that auto mode blocks at the right time, which gives us the confidence to move quickly.\"Chad Kunsman, a member of Gusto\u2019s AIT Cloud Engineering team, came to the same conclusion from the other direction. His work\u2014endpoint investigations, log audits, connector management, doc ingestion across a stack of MCP servers\u2014runs in short, twenty-minute bursts rather than overnight marathons. He wasn't looking for longer runs; he wanted the hands-off pace of bypass permissions without the exposure of a bad prompt, or a prompt injection, slipping through.\"Given the protection against prompt injection, and the way it checks that what you're doing actually lines up with what you asked for, it's the better choice than bypass permissions and far faster than permission prompts,\" said Chad.On the rare occasions the classifier does step in, Chad says it's on the mark. \"When it stopped me, it made sense and explained why. It was drifting from what I'd originally asked, and it checked in. It wasn't off base at all.\"Chad still steps out of auto mode for his most sensitive work. When a session has its teeth into production infrastructure\u2014Terraform, AWS, direct POST calls against live APIs\u2014he switches to accept edits and verifies each tool call by hand. \u201cYou have to weigh the amount of time you\u2019re saving against what it could reasonably make a mistake on, and how catastrophic that would be,\u201d he said. \u201cUltimately, you\u2019re still responsible for what happens.\u201dThat judgment operates inside a broader defense-in-depth setup: Gusto routes its MCP traffic through a governed proxy layer with tool guards and prompt inspection, so agents work with tightly scoped permissions before auto mode ever weighs in.\u00a0Accelerating the software development lifecycle (SDLC) at Garner HealthGarner Health, the healthcare technology company, rolled out Claude Code in February to all 550 employees across every function. The tool is wired into all the core systems including Salesforce, Zendesk, and Snowflake, and employees are encouraged to spend about two hours a week automating the most repeatable\u00a0 parts of their job.Before auto mode, that scale came with overhead. Evan Magnussen, Garner's platform engineering manager, describes permission management as a tedious cycle of hand-curating approved command lists and watching piped commands get rejected.Today, Evan and most of his colleagues use auto mode in every session, from researching the codebase to managing external integrations through MCP.\u201cWe've built out a standardized software development lifecycle for the entire engineering organization that is really only possible because of auto mode,\u201d Evan said. \u201cEmployees view it as a weight off their shoulders. They don\u2019t have to monitor their agents for hours on end anymore.\"That lifecycle runs as a plugin of standardized skills. An agent picks up a task, explores the context it has access to, commits context files to the repository, runs what Evan calls \u201cantagonistic research\u201d to pressure-test its own assumptions, and then moves on to implementation\u2014pausing for a human only when it needs context it can\u2019t find on its own. The research-heavy stages, Evan notes, weren\u2019t possible before auto mode.Out of the box, the classifier has needed little tuning. Evan\u2019s one adjustment mirrors Kai\u2019s at Nuro: he configured auto mode not to approve actions that communicate with other people, like sending Slack messages or emails.\u00a0\u201cI personally don\u2019t like Claude to just act on my behalf when I\u2019m communicating with another person,\u201d he said. Teams working on core intellectual property\u2014the most skeptical of skipping permissions before auto mode\u2014learned to tune the classifier\u2019s injected prompts to be more or less permissive for their work.His advice for other enterprises rolling it out? Lean in and build the right controls so that you can empower engineers while ensuring safe deployment. \u201cIf we were to say, everyone go build your own workflows, and we have no telemetry, that would be very dangerous,\u201d Evan said. \u201cBecause we have the telemetry, because we\u2019ve built out workflows that are relatively standard, we have much more confidence.\u201dGet started with auto mode in Claude Code.",
-    "fetched_at": "2026-08-19T12:40:25.158827+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171224+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -834,7 +843,7 @@
     "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
     "published": "2026-08-07T00:00:00+00:00",
     "summary": "We're making auto mode the default in Claude Code. Starting on August 14, new sessions on Pro, Max, and Team plans will run in auto mode. If you've already set a different default yourself, you may get a one-time prompt asking whether you want to switch to auto mode. If you have a pinned default, nothing changes for you. The auto mode classifier uses a small number of extra tokens per tool call, and we're no longer charging Claude Code users on Pro, Max, and Team plans for that classifier overhead, effective today.Auto mode remains opt-in for now on Claude Enterprise, the Claude API, Claude Platform on AWS, Amazon Bedrock, Google Cloud's Agent Platform, and Microsoft Foundry, giving admins time to review the change. In the coming month, working with our cloud partners, we plan to make it the default across all of these and no longer charge for classifier overhead. In the meantime, Enterprise admins can make Claude Code's auto mode the default through managed settings.Auto mode is designed to balance users\u2019 desire not to be interrupted with a system that helps avoid harmful actions: instead of prompts, it routes each tool call through a classifier targeted at blocking actions that are irreversible, destructive, or aimed outside your environment. When the classifier blocks something, Claude usually finds a safer way to proceed on its own or asks you directly for the go-ahead; if it can't make progress\u2014three blocks in a row, or twenty across a session\u2014Claude Code falls back to manual approvals.We spent the last several months testing whether auto mode is as safe or safer than an average user clicking through prompts. We ran internal red-teaming, third-party red-teaming and prompt-injection evaluations, a controlled study with 1,053 paid testers, and analysis of real production sessions. On every measure we tested, auto mode matched or outperformed manual review.Auto mode also lets Claude work autonomously for longer stretches. This makes models built for long-running work, like Claude Opus 5, more practical to leave running for hours on large tasks. Reducing overhead for users also increases output. Among Teams &amp; Enterprise adopters, auto mode users ship about 25% more PRs. Unblocking Claude allows tasks to run longer uninterrupted and get more work done. Teams at Adobe, Nuro, Gusto, and Garner Health already run auto mode as their production default.\u00a0Below, we share the safety data and customer results motivating the change, and how to set a different default if you prefer.Comparing manual review to auto modeData suggests that manual review can become habitual: users approve 97% of permission prompts in Claude Code. While most prompts are likely for safe, routine commands, an approval rate that high suggests many users are clicking through reflexively rather than reviewing each command. These prompts ask developers to make dozens or hundreds of important security decisions every day, often in the middle of projects, which places the review burden on users and increases the chance that something important slips through the cracks. Data also suggests that users more frequently scrutinize and push back on other types of dialogues: for example, when Claude presents a plan for approval, users reject 39% of them. But for individual permissions requests, the rejection rate is only 3%.The same pattern shows up in settings files. As of June 2026, 49.5% of active CLI users have manually created a Bash allow-rule\u20145% allow any shell command outright, and another 43% have interpreter rules like Bash(python:*) or Bash(node:*) that are essentially equivalent in practice\u2014and that share is growing roughly 5 percentage points every 5 weeks. Beyond allow-rules, 62% of users have used bypassPermissions or clicked \u201cdon't ask again\u201d on Bash, and 25% of interactive sessions start in bypass permissions mode.Permission rules still fire before the classifier in auto mode, except for allow rules broad enough to grant arbitrary code execution (e.g. python:*). These arbitrary rules are set aside while in auto mode, since they would let commands skip the classifier entirely. Settings files aren't modified, and the rules apply again the moment you switch to another mode.Improving safety with auto modeResearch conducted internally and through several third parties suggests that auto mode is safer than how a typical user engages with permission prompts today. We tested auto mode against what developers actually approve when they're clicking through permission prompts. Across each of these measures\u2014internal red-teaming, third-party penetration testing, and analysis of real-world sessions\u2014auto mode matched or outperformed human approval. Auto mode outperforms manual permissions on safetyIn a controlled experiment with 1,053 paid professional testers, human review caught just 13.6% of dangerous commands, while auto mode caught 89%.We hired 1,053 paid testers through a research vendor for a coding study. These participants worked in a test environment set up specifically for the study, not in their own codebases or on real projects. Participants knew they were being evaluated, but\u2014following standard blind-study design\u2014weren't told which behavior was being measured. Partway through each session, a single permission prompt was swapped for a clearly dangerous command, and the vendor recorded whether the tester approved it (Note: approving the prompt never resulted in anything dangerous being run; only the text of the prompt testers saw was changed).\u00a0The testers caught the dangerous command just 13.6% of the time (143 of 1,053), while auto mode blocked 89% of the same commands (937 of 1,053). Head to head, auto mode blocked 800 commands that a human approved, while humans blocked only 6 that auto mode allowed. As sessions got longer, humans did worse: they blocked about 17% of dangerous commands early in a session, dropping to about 5% after 50 or more prior prompts, while auto mode's block rate stayed flat regardless of session length.Auto mode prevents more harmful actionsOur research also suggests that auto mode leads to fewer harmful actions than manual permissions mode.We examined how auto mode performs in real usage. From May to June 2026, we examined sessions our safety pipeline had flagged for review, drawn only from accounts that have opted in to data use for training and analysis. We re-graded each one with a model on two 0\u201310 scales. The first was harm severity with 10 being company-wide, irreversible harm, such as leaking a company's entire source code, 7 representing production-level severity such as deleting rows from a production database, and 0 a fully reversible action confined to the local workspace, like overwriting a scratch file. The second was how explicitly the user had asked for the action, so we could separate harmful actions the user directly requested from harmful actions the agent took with less explicit direction.Among the flagged sessions, those that went through manual approval contained serious unintended harm more than twice as often as auto mode sessions. At production-level severity (7+), 6.3% of manually approved sessions contained a harmful action the user hadn't explicitly asked for, compared to 2.4% of auto mode sessions, and the gap held at every severity level we tested.\u00a0Adversarial red-teaming made auto mode strongerWe worked with Apollo Research, a UK-based AI safety startup, on a two-week pilot injecting synthetic attacks into real coding trajectories, across three datasets covering broad failures, data exfiltration, and safety-related threats.The engagement followed a standard find-fix-verify loop. Apollo shared a set of successful attacks along with recommendations to strengthen auto mode. We hardened the classifier against them primarily by giving it more context about the environment it's protecting (repository visibility, git state, and the data-handling rules described below).After hardening, Apollo re-tested on a separate held-out attack set that we never had access to. Auto mode caught about half of the attacks it previously missed, at a cost of missing about 2% of attacks it previously caught. Since we couldn't tune against the held-out set, this suggests the hardening generalizes to new attacks rather than patching the specific ones Apollo shared. Across both the shared and held-out sets, the classifier's miss rate fell from 12% to 7%.These attacks are synthetic and adversarial by design, built to find where the classifier fails, and more malicious than anything Claude would do unprompted. The 7% miss rate is measured against this set and should not be taken as the miss rate on real traffic.Auto mode reduces prompt injection riskWith auto mode enabled, no attack in an independent evaluation was successful against any of our models. GPT-5.6 Sol running in Codex v0.144.5 Auto-review permission mode had a 5.83% attack success rate. GPT-5.6 Sol was run on \u201cmax\u201d reasoning effort to test performance with its highest level of reasoning, and all Claude models were run on high effort. The auto mode classifier adds an additional layer of defense against prompt injection attacks that try to force the agent to deviate from the user\u2019s instructions. When running with auto mode, tool results are scanned by probes for potentially malicious instructions, and auto mode checks that actions are aligned with user intent. We tested auto mode compared to an unguarded model to illustrate the power of this defense-in-depth approach.We commissioned an evaluation from a third party, Trajectory Labs, who tested different models within the latest publicly available versions of Claude Code and Codex as of July 17th 2026.1 They tested 72 indirect prompt injection scenarios held out from Anthropic. Each scenario was tested 10 times. Successful attacks would, in a non-testing environment, result in irreversible actions that could harm the user such as sensitive-data exfiltration, financial fraud, or credential phishing. The attacks were optimized against Claude Opus 4.7, which is not in the reported set, so every model in the evaluation faced them as unseen attacks. In addition to auto mode, the evaluations looked at Claude Code\u2019s bypassPermissions mode and Codex\u2019s Full Access mode.Both Codex and Claude Code were evaluated using an identical browser integration produced by Trajectory Labs, PBC. This integration provides a set of MCP tools which are a thin wrapper around common Chrome APIs such as `navigate`. Safeguards built into first-party browser integrations such as the Chrome extensions provided by OpenAI and Anthropic were not tested. As such, these results should be viewed as a measurement of the underlying model, rather than the complete set of safeguards which might exist in a given deployment.In this evaluation, none of the 720 attack attempts succeeded against Claude Fable 5, Opus 5, or Sonnet 5 running auto mode. On the other hand, 5.83% of the attacks succeeded against GPT-5.6 Sol running Codex's Auto-review mode. Notably, this is greater than the 0.09% average attack success rate against our latest models running in bypassPermissions mode without additional safeguards. The tests showed a 19.03% attack success rate against GPT-5.6 Sol when running in Full Access mode. Attack success rates differ between tasks where tools return results as text and tasks that require interacting with a browser through screenshots, as shown below.Auto mode protects against prompt injections both in tool calling and browser GUI use. OpenAI models showed higher attack success rates on browser tasks in a third-party evaluation. Three incidents auto mode prevented inside AnthropicAuto mode is also the default for all Claude Code internal usage at Anthropic. Here are three actions the classifier prevented internally:An off-network data leak: When an upload to an internal drive failed, Claude's fallback was to publish the same report to a public code-sharing site. Auto mode denied the fallback and prompted the user for next steps.A destructive mass operation: In a long-running session, Claude attempted a mass process kill across roughly two thousand pods and queued deletions that would have torn down hundreds of GPUs of in-flight training jobs. Auto mode flagged the destructive commands before execution.Over-broad privilege escalation: Asked to provision read-only billing access, Claude reached for a cloud role that grants full administrative control at the account root. Auto mode caught the mismatch between what was requested and what roles would have been granted.In each case, Claude either found a safer path on its own or checked in with the user before proceeding.Making auto mode even safer\u00a0We\u2019re continuously investing in new auto mode features that make it safer and easier to ship production code. Recent examples include:\u00a0Hard denies: Data exfiltration, like sending your code or secrets somewhere external, sits in a category the classifier is designed to never approve. To run an action like that, you have to switch out of auto mode or run the command yourself. Hard deny rules are customizable via settings so you can add more rules that you never want allowed even when requested by users in your organization.Rules for data access and sharing: The classifier now carries explicit rules distinguishing secrets and potentially sensitive/confidential information\u2014and where each can be accessed and shared. To make those rules enforceable, it also checks whether the destination of a git push or pull request is public, private, or trusted before the action runs. The same push can be routine or an exfiltration depending on where it lands: code that belongs in your team's private repository shouldn't end up in a public one, and the classifier is now designed to flag when this might happen.Checking git status before destructive git actions: Before a command that could discard uncommitted work, like git reset --hard, the classifier sees the repository's current git status, letting auto mode know what is being reset.Prompt injection screening: When Claude pulls content from external sources, like web pages, file contents, or tool outputs, an API-side probe checks that content for attempts to hijack Claude's behavior. When something looks like an injection attempt, a warning is added to Claude's context before the result is shared with the user.Auto mode in production\u00a0Teams are already running auto mode as their production default:Adobe's merchandising platform team is responsible for keeping pricing and promotional pages accurate and current across 90+ countries and 30+ languages on Adobe.com. They built an agentic loop to build and verify those pages, running it in auto mode so engineers receive finished PRs for review.\u00a0Nuro runs auto mode across its research and engineering orgs, using it to power overnight research agents that hill-climb evaluation metrics and return finished PRs for review by morning.Gusto adopted auto mode to end the permission fatigue that was pushing engineers toward bypassing permissions checks entirely. About 10% of sessions since mid-May include a classifier denial\u2014evidence it's doing real work without slowing legitimate tasks.Garner Health pushed auto mode as the default to all 550 employees via managed settings, standardizing a company-wide software development lifecycle (SDLC) that no longer depends on hand-curated command allowlists.",
-    "fetched_at": "2026-08-19T12:40:25.158880+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171278+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -843,7 +852,7 @@
     "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
     "published": "2026-08-06T00:00:00+00:00",
     "summary": "Now in public beta, self-hosted environments let you run Claude Code sessions on your own infrastructure. Start a session from the web, mobile, desktop, or a routine, and it runs inside your network, next to your internal services, toolchains, and security controls, rather than on Anthropic-hosted infrastructure.For most enterprises, we strongly recommend our hosted offering for operational simplicity with no infrastructure to run or maintain. Self-hosted environments are for teams whose network, tooling, or compliance requirements call for keeping agent execution on infrastructure they control. If you go this route, plan to staff engineering to own setup and ongoing maintenance.Why self-hostWe saw organizations in our preview program adopt self-hosted environments for a few key reasons:Network access: sessions run inside your network and can reach internal services, databases, and registries without exposing them to the public internetCustomizability: pre-install compilers, SDKs, and internal CLIs in your environment so every session starts ready to buildCompliance: source code and build artifacts stay on infrastructure you control",
-    "fetched_at": "2026-08-19T12:40:25.158894+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171291+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -852,7 +861,7 @@
     "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
     "published": "2026-08-06T00:00:00+00:00",
     "summary": "Anthropic is working with Millennium, one of the world's largest alternative investment management firms, to co-develop a digital risk analyst: an AI teammate to work alongside and under the supervision of the firm's risk managers to surface new risk insights and form opinions on risk exposure across asset classes.Claude and Claude Code are already used broadly across Millennium today - from trading desks and engineering to core business functions. Millennium\u2019s digital risk analyst extends their use of Claude by helping risk managers expedite and enrich analysis of risk positions.Evaluating financial risk with Claude\u00a0Investment firms have spent decades using technology to improve risk measurement, moving from traditional assessments to more complex real-time scenario analysis. Millennium\u2019s digital risk analyst is designed to tackle critical workflows, powered by Millennium\u2019s proprietary data and Claude\u2019s frontier intelligence.\u00a0The digital risk analyst retains and recalls information over time, applying new reasoning capabilities to help explain daily risk changes. These findings are then validated and enriched by Millennium\u2019s human risk managers.\u00a0\u201cAt Millennium, we believe AI can help set a new bar for what our people can achieve,\u201d said Vlad Torgovnik, Chief Information Officer, at Millennium.\u00a0 \u201cOur work with Anthropic is a great example of this and shows how AI is driving innovation in core parts of our business while keeping human judgment at the center of decision making. We are excited to continue our work with an industry leader finding new ways AI can add value to our business.\u201d\u00a0\u00a0\u00a0How Millennium employees use ClaudeMillennium was an early adopter of Claude and Claude Code. Employees use Claude Code to write software, build products, and improve workflows, including across many of Millennium's 340+ investment teams.The digital risk analyst provides secure, auditable analysis by logging its reasoning, testing its actions in sandboxed environments, and requiring human experts to evaluate and approve its decisions. Millennium's risk experts are building it with Anthropic's research and applied AI teams working alongside them in Millennium\u2019s AI lab.\u00a0Millennium is using its internal AI lab to continue pushing the frontier, pressure testing Anthropic's latest Claude models against ambitious use cases, and putting Claude to work innovating in a fast-paced environment.\u00a0\"Financial services requires AI that people can trust in complex, demanding environments,\u201d said Belinda Neal, Managing Director, Financial Services, at Anthropic. \u201cMillennium has been an early adopter of Claude and Claude Code, and our work with its risk teams will show how AI can inform the analysis that risk managers at Millennium make every day.\u201d\"Claude can reason through risk positions, explain daily changes, and carry what it learned into the next question,\u201d said Peter Nolan, Head of Asset and Wealth Management, at Anthropic. \u201cMillennium\u2019s risk managers will use frontier intelligence to deliver automated recommendations with the goal of saving valuable time.\u201dLearn more:Learn more about Claude for financial services, or contact our team to talk about what Claude can do inside your firm.",
-    "fetched_at": "2026-08-19T12:40:25.158911+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171308+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -861,7 +870,7 @@
     "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
     "published": "2026-08-05T00:00:00+00:00",
     "summary": "Inference hooks lets your compliance team inspect and enforce policy on every prompt and tool call response before they reach Claude \u2014 across Claude Enterprise surfaces including chat, Claude Code, Claude Cowork, and more. Your DLP server makes the call to block or allow, and Claude enforces that decision in real time, blocking unapproved content before it reaches Claude.Security teams require every channel where employees can move sensitive data to pass through an inspection point their team controls. Until today, native inline enforcement was limited to Claude Code's client-side hooks. Inference hooks closes the gap with a single enforcement layer that covers every Claude Enterprise surface without separate integration work or agent per product.\u00a0How inference hooks worksWhen an organization turns on inference hooks, every inference request routes through a signed WebSocket connection to a security server. Before the model starts generating, Claude sends the prompt and its surrounding context to your server. Your server returns a verdict \u2014 allow or deny \u2014 and Claude only proceeds once it has one.\u00a0 The same check runs on tool calls: when Claude calls a tool \u2014 including tools connected through MCP, skills, and plugins \u2014 the tool's response is checked before it's sent back to the model.Ways to use inference hooksExtend your existing DLP program to Claude. Inference hooks uses an open, webhook-based protocol with a published schema. That makes deployment easy \u2014 just point it at the same server your other tools already report to including Netskope, Palo Alto Networks, Proofpoint, Zscaler or an AI security server you built in-house.Cover chat, Claude Code, Cowork, and additional Claude Enterprise products with one configuration. Turn on inference hooks once at the organization level and it applies to Claude Enterprise surfaces, including tool calls made through MCP connectors, skills, and plugins.Simplify rollout with shadow mode (always allow), role-based exclusions, and percentage-based rollouts. Customize failure-policy tolerance, timeouts, and other settings to match your organization's risk tolerance.Getting startedInference hooks is available today in beta for Claude Enterprise customers. Read the documentation to configure your organization's DLP server and start enforcing policy across Claude Enterprise surfaces.For security vendors, inference hooks is built on a webhook-based protocol with a documented schema, so you can build an integration, and Claude Enterprise customers can point their organization at your platform.",
-    "fetched_at": "2026-08-19T12:40:25.158927+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171324+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -870,7 +879,7 @@
     "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "published": "2026-08-04T00:00:00+00:00",
     "summary": "Businesses use Claude in many ways, from rolling it out to thousands of employees to startups and single teams building applications on the Claude Platform. Cost matters to all of them.In this post, we explain how IT admins can use the controls available today for seeing and managing what Claude costs, along with some best practices for deciding where to spend.Useful ways to think about cost\u00a0It\u2019s helpful to measure AI\u2019s cost-per-outcome instead of token consumption as the primary metric of value. Here are two questions to ask about a project:What would this work have cost without AI, whether in resources, time, or never attempting the project at all?Is a model completing a task that is hard and requires judgment and reasoning, or is it just large, meaning a high volume of straightforward work?\u00a0\u00a0The answer to the first question is specific to your business and needs\u2014no vendor can measure it for you. The second question can be addressed by matching the model to the work. Assigning a less expensive model complex reasoning often makes the finished task more expensive, because it burns tokens on retries and needs more human correction. Putting a frontier model on basic document processing pays for capabilities the task never uses.\u00a0Claude\u2019s family of models gives you choice:\u00a0Fable for the hardest problems;Opus for long-horizon work and coding;\u00a0Sonnet for everyday work and analysis;\u00a0Haiku for high-volume and routine tasks.\u00a0For any of these, effort controls dial up or down how much the model \u201cthinks\u201d when it solves a problem, and the advisor tool lets smaller models consult a frontier model only when it hits a wall.\u00a0Many organizations use several models, often on the same project. For example, an insurance company might put a frontier model helping an adjuster evaluate a complex commercial claim while Haiku tags and triages the documents feeding into it.How to see and control your spendThe controls you have access to depend on whether Claude is running as a product for your employees or as an API behind your applications. The first puts controls with the admin, and the second with the engineers who build on it, and most large customers use both.Cost controls for Claude EnterpriseWe generally suggest working through these in order, since it's hard to set a sensible limit before you've seen a month of real usage.\u00a0Access gating lets an admin determine the groups and custom roles that can use products like Claude Code and Claude Cowork, rather than an all-at-once switch. Start with one team, watch the results, and expand department by department.Model controls work at two levels. Entitlements determine which models a team can access, while defaults set which model a new conversation starts on. Admins can entitle teams doing your hardest work to the most capable models, and default everyone else to Sonnet.Hard spend caps place ceilings on usage. Set them once you know your baseline for the full organization, for individual users, or for a group, in which case each member gets the limit. Caps bind right away.Admins can also automate the review of spend limit increase requests, identify members close to their spend limit, and find members with rapidly changing usage.\u00a0Tools to observe Claude usageUsage data is available to view in the admin dashboard, to send to your systems, or to ask Claude about directly. Here are three features IT admins can use to better understand their organization\u2019s Claude usage:\u00a0Usage analytics break spend down by person, team, and model. Data exports closely match invoices so that you can better reconcile usage with a bill.\u00a0The Analytics API makes the same data available to the systems a team already uses. Connect it to business intelligence tools, finance systems, and internal dashboards, so Claude spend can be evaluated alongside other costs like budgeting and forecasting.Analysis with analytics chat lets admins ask about usage in plain language. Ask \"Who are our top spenders this month?\" or \"Which team's usage grew fastest this quarter?\", without pulling a full report.\u00a0Controls for building on the APIThe Claude Console offers controls to organizations and developers building on the Claude Platform. Workspaces separate API usage by product, team, or environment, and it has its own line in your cost and usage reporting\u00a0Useful cost levers on the Claude Platform include:Prompt caching stores content that gets reused across requests, so the model doesn\u2019t reprocess it every time. Turn it on if you send the same reference material with every call, which can cost 10% of the normal input rate on cache hits.\u00a0Batch processing runs jobs that don't need an immediate answer at half price like an e-commerce company classifying its catalog overnight. Move anything that can wait; batch discounts stack with caching.The effort parameter controls how much reasoning the model does on a given call. Dial it down for routing and extraction, but turn it up for the final recommendation, so you pay peak rates only on the calls that need them.\u00a0The advisor strategy has a smaller model like Sonnet call a frontier model at key moments, like evaluating work before it ships. Run most of a task on a smaller model and pay for the larger model only where its judgment is applied.\u00a0Used together, these features can routinely cut the cost of a production workload substantially before anyone touches a budget line.Getting startedCost controls are available in Claude Enterprise today. To see plans and pricing, visit claude.com/pricing. Enterprise organizations can get started directly with the Claude Enterprise offering. Developers can find Workspaces, caching, and batch documentation at docs.claude.com.",
-    "fetched_at": "2026-08-19T12:40:25.158968+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171365+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -879,16 +888,7 @@
     "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "published": "2026-07-28T00:00:00+00:00",
     "summary": "The fifth spec release of the Model Context Protocol, MCP 2026-07-28, is live today. The latest spec moves MCP to a stateless core, while hardening authorization and graduating official extensions. Support is being rolled out across Claude products.What's new in MCP\u200dMCP recently surpassed 400M monthly SDK downloads, a 4x increase this year, and has become the industry standard for connecting AI agents to applications. MCP 2026-07-28 is one of the most significant spec releases to date:Stateless core. MCP moves from a bidirectional stateful protocol to a request/response model. Servers can now deploy on serverless and edge infrastructure. This simplifies the experience of building MCP servers for Claude and scaling their usage as they grow in adoption.\u00a0Standardized extensions. MCP Apps and Tasks now ship under a versioned extensions framework, giving developers a formal path to add capabilities like interactive UIs and long-running work without changing the core protocol.Auth hardening. Authorization now aligns with production OAuth 2.0 and OIDC deployments, so MCP servers connect to enterprise identity systems like Entra or Okta without workarounds.Companies across the ecosystem have been building on the new spec alongside the MCP community since beta:",
-    "fetched_at": "2026-08-19T12:40:25.158984+00:00"
-  },
-  {
-    "source": "Anthropic (unofficial mirror)",
-    "source_type": "rss",
-    "title": "Claude models explained: choosing the best model for your use case",
-    "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-    "published": "2026-07-24T00:00:00+00:00",
-    "summary": "Our advice: start smartOne of the most frequent questions we hear is \u201cwhat model should I choose for this workload?\u201d As we have released more model classes and versions, the answer has become more nuanced.This article covers those details including a description of each model class, the top questions to ask when selecting a model, and other best practices.But to put aside the nuance for a moment, our default recommendation is to start with the most intelligent generally available model and use effort level to dial in performance and cost.\u00a0Cost-per-task is often lower for more intelligent models, especially at lower effort levels, even if the price-per-token is higher. This is because more capable models often take fewer turns and less thinking time to get most tasks right. Starting with a smaller model can also make it harder to distinguish between model failures and setup failures.\u00a0Of course, as use cases arise that are more latency or cost-sensitive, you can test lower tier models until you find your ideal fit.\u00a0Some organizations may also choose to start with the most cost effective model and move up classes until the quality bar is met. We include both directional approaches in our documentation on model selection.The Claude model familyMythos / FableMythos is Anthropic\u2019s most capable model class, with frontier capabilities across domains. This model class is especially capable at coding, long-running agent tasks, and solving problems AI has not reliably handled before.\u00a0The Mythos class ships in two packages of the same underlying model. Claude Mythos is for trusted organizations handling dual-use cybersecurity and biology work while Claude Fable is packaged with additional safeguards that make the model safe for use by the general public. Both require limited data retention so they can be used safely.OpusOpus is our powerful model class for reasoning-intensive enterprise tasks. Opus models consistently rank among leading models on key industry benchmarks such as GDPval-AA for knowledge work and Terminal-Bench 2.1 for agentic coding.The choice between Opus and Fable may not seem clear on the surface, as both excel at coding, long-running agents, and knowledge work. In real-world situations, larger models such as Fable tend to have more wisdom, creativity, and writing skills despite having similar benchmark scores to models such as Opus.The general rule of thumb is if your evals or internal testing show Opus struggling on some tasks, then Fable is the answer. If Opus already clears the quality bar, then its speed and price profile may make it the better choice.SonnetSonnet is our versatile model class for everyday tasks. Sonnet provides a balance of performance, cost, and speed for the widest set of general purpose use cases, including high-volume sub-agents in multi-agent orchestration setups.\u00a0HaikuHaiku is our lowest cost and fastest model class. Haiku models are designed for high-frequency workloads where latency and cost matter.How to choose which Claude model is best for your workloadOur model classes don\u2019t specialize in one type of work. We don\u2019t recommend one model class for finance and another for science. Every Claude model is trained to excel in areas like coding, agentic tasks, and knowledge work.\u00a0The main difference across model classes is in how hard a problem they can reliably carry, and what that capability costs in price and speed. When choosing a model, ask:How hard is this task? If it typically takes a lot of time, involves multiple steps, or is previously unsolved then a more capable model class is appropriate.What are the latency needs? If the model is involved in high-frequency customer facing workloads, then Sonnet is often the best choice.\u00a0What are the access constraints? Mythos is only available to organizations under Project Glasswing. Not all organizations make all model classes available to all roles.\u00a0What are the unit economics? Higher volumes of production may be more appropriate for lower classes of models, particularly if evaluations show those tasks are completed satisfactorily. Models are priced differently per token and will have different price-per-task costs based on their capabilities and effort level.Effort level also impacts the balance of quality, speed, and cost. Higher-class models at higher efforts offer the best possible performance, and higher-class models at lower efforts can sometimes be more efficient than smaller models.\u00a0Curves are illustrative and not plotted from benchmark data.Curves are illustrative and not plotted from benchmark data.To learn more read Choosing a Claude model and effort level in Claude Code.Combining models\u2019 strengths with the advisor strategyThe advisor strategy allows faster, lower-cost worker models to call more intelligent models to check their plan and evaluate their work, leading to improved performance.This method, where the executor model is coached only when needed, improves performance by a substantial amount. For example, on SWE-bench Pro Sonnet 5 with a Fable 5 advisor is within 10% of Fable 5\u2019s score at 63% of the price of using Fable 5 for the whole task.How evals and benchmarks help with model choiceTwo common ways to see if model capabilities are sufficient for your needs are to use standard benchmarks and custom evaluations.\u00a0Benchmarks are a set of pre-determined tasks or scenarios, often for a specific domain, with known solutions. These can be helpful directional guides for evaluating capabilities across model classes and providers. The challenge arises when evaluating powerful models, such as Opus and Fable, which can solve almost all of the questions on the test (often referred to as saturation).In these cases, we recommend organizations use the models on real workloads or test them with their own evaluations to make a decision on which model is the right choice. Typically, evaluations are a curated set of problems drawn from production \u2014 including difficult tasks where your current tools fall short, with success criteria your team defines.This is where the capability and creativity of frontier models start to separate from the pack and from one another. We\u2019ve written extensively on the best practices for developing custom agent evaluations.Making the smart choiceThere is no one-size-fits-all approach to AI model selection, which is why we make multiple model classes available. Ultimately, the best way to select a model is to understand the basics of each model class and understand your use case in-depth. That means building, maintaining, and deploying strong evaluations.",
-    "fetched_at": "2026-08-19T12:40:25.159020+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171381+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -897,7 +897,7 @@
     "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "published": "2026-07-24T00:00:00+00:00",
     "summary": "I\u2019ve written previously about how to best prompt the newest generation of Claude 5 models and work with them iteratively to discover what you want to build.But when you send a message to Claude, the prompt is only a small part of the context it gets. Much of your context is assembled from your system prompt, Skills, CLAUDE.md files, memory, and other sources. We call this context engineering, and it makes a big impact on the results you generate when using Claude Code or in building your own agents.Unlike a prompt, context is used generally across many requests, so it cannot be as specific.\u00a0 How do you build these general prompts and guidance for Claude, especially when you don\u2019t know what a user\u2019s prompt might be?This can be surprisingly difficult as Claude\u2019s own capabilities evolve. Most recently, we noticed a large jump in the way we prompt the newest generation of Claude models. We removed over 80% of Claude Code\u2019s system prompt for models like Claude Opus 5 and Claude Fable 5 with no measurable loss on our coding evaluations.Here\u2019s what we\u2019ve learned about prompting this new class of models, and how you can utilize it to update your context engineering. We\u2019ve put these best practices in `claude doctor;` use the command /doctor in Claude Code to rightsize your skills, and CLAUDE.md files.Unhobbling ClaudeOverall, we found that we were overconstraining Claude Code, both through our system prompt and in our CLAUDE.md files and skills.\u00a0For example, when we read transcripts of our own internal usage of Claude Code, we see several conflicting messages in a single request like \u201cleave documentation as appropriate,\u201d or \u201cDO NOT add comments\u201d as our system prompt, skills, and user requests clash with each other.\u00a0Generally, Claude can interpret the user\u2019s intent to get to the right answer, but Claude must think more carefully about these overlapping and conflicting messages before deciding what to do.And while these constraints were once needed to avoid worst case scenarios, we have since found we can delete many of them and let the model use surrounding context and judgement instead.Additionally, Claude Code now has many more tools. Claude used to rely on CLAUDE.md as a source of memory, information, and guidance. Now we have memory, artifacts, and skills, which Claude can use to create new ways of loading and sharing context across sessions.",
-    "fetched_at": "2026-08-19T12:40:25.159035+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171395+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -906,7 +906,16 @@
     "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
     "published": "2026-07-24T00:00:00+00:00",
     "summary": "In the fall of 2025, I was the only product designer on Claude Code for VS Code, working with two engineers to reimagine everything Claude Code does for a friendly interface outside the terminal. We shipped the beta at the end of September, Opus 4.5 arrived in November, and the Claude Code team started shipping fast and aggressively. The engineers were shipping far more than before, while I was still delivering at the pace I always had. I needed to find a way to catch up.Claude Code runs in the terminal, where everything is text-based, and my first attempt treated it that way: I copied output into Claude, added screenshots, and asked, \"Here's a feature we want to add. Why don't you design it?\" The results weren't good. For a month or so, as a side project, I kept looking for ways to improve Claude\u2019s design output.Giving Claude an HTML playgroundEventually I stumbled onto the answer: Claude is really good with HTML. We think of HTML as the format for websites, but it's also a rich, interactive visual medium: anything you can make in a slide deck, a video file, or a PDF, you can make in a web page. So I prompted Claude to make HTML, and gave it a split-view interface where you could chat on the left and see the output on the right.That was useful, but product design is driven by applying knowledge of the product and brand you work on, so as a next step I spent a while distilling the essence of Anthropic's brand (the fonts, colors, assets, and principles our products use) into prompts. This way, when I type my prompt into the tool, the output is compliant with the Anthropic brand guide.I put all that into a small internal prototype and shared it with the team. Product designers picked it up immediately for interactive prototypes. Making a click-through prototype in traditional design tools means mocking up every state of every screen and wiring them together by hand. Here, you hand Claude your assets and say: make it work. Every artifact it delivers has a link you can share the way you'd share a doc.How Claude Design became a medium for visual workI first realized how compelling Claude Design was at an idea pitch session during an Anthropic Labs team offsite: every person there threw together slides using it, often in the middle of the meeting before their turn to present. That session convinced the Labs team to staff it, and Claude Design went from a side project to a real project.We stopped describing it as a tool for product mockups. Claude Design became a tool for producing any kind of visual communication: slide decks, landing pages, one-pagers you print as a PDF, emails, animations, visuals to share on social media. I think of it as one click above product design: you collaborate with Claude on visuals whose main job is communication and ideation.\u00a0As models get better at vision, so does the range and quality of work Claude Design can do. Our latest Opus-class model, Claude Opus 5, is better than previous Opus models at reading the charts, diagrams, and screenshots, making it powerful when paired with Claude Design for creating presentation-worthy decks and memos.What Claude Design is not meant to doClaude Design doesn't have an image model and isn\u2019t built for image generation, so it's a poor fit for logo design\u2014though that hasn\u2019t stopped people from trying. The better approach here is to bring in the logo and assets you already have. The rest of the product works the same way: Claude creates options and starting points so you don\u2019t have to stare at a blank canvas, and you choose what's good on its own, or as a combination of multiple versions.\u00a0And if you're shipping production software, stick with Claude Code. Claude Code is for coding; Claude Design is for the other parts of the design work: early ideation, collaboration, or getting buy-in on a direction before anyone commits to building it. The two work together round-trip, so you can sync a prototype you started in Claude Code to Claude Design for iteration and editing on the canvas, or hand off a prototype you\u2019re ready to build from Claude Design to Claude Code. As models get better at building production software, the work that matters most moves earlier in the process: having good ideas, getting everyone aligned, and collecting feedback while an idea is still early.\u00a0How I use Claude Design in my daily workI use Claude Design every day for what you\u2019d call bread-and-butter design work: wireframing early ideas, or generating 15 versions of a flow to collect feedback from colleagues. Some recent examples from my own work:The Claude Design intro animation. The animation that plays when you sign up for Claude Design was made in the tool itself, but not directly: I'm not an animator, so I first had Claude Design build me a bespoke video editor, then used that editor to make the animation.A subway-times app with adjustable animation controls for dialing in the physics of the motion.\u00a0Instagram-style color controls. I asked Claude to let me tweak an app's color scheme with sliders and presets rather than describing colors in words.\u00a0A redesign of Claude Design itself. Two teammates, Helen and Andrew, and I have been riffing on a new design for the editor, inside the tool. We won't ship it as-is, but it's how we explore what the product could become.Best practices for using Claude DesignDo the thinking before you prompt. The best and most efficient way to get output that matches your vision, is to tell Claude what you need up front. I spend a lot of time writing prompts before I design. Sometimes I dictate them in Claude Design with the voice button. Other times I type them in the Notes app on my phone from the couch, or record a voice note on a walk and paste the transcript later. Whichever method of communicating you prefer, figure out what you want while you're away from the computer, so Claude can execute your exact vision when you sit down.Tell Claude what it should look like. Left undirected, Claude picks one of its favorite aesthetics. You'd probably recognize them. Head that off by specifying fonts and colors, or providing a moodboard of images for inspiration, or asking Claude to brainstorm font-and-color pairings and going back and forth until a pairing feels right.\u00a0Turn recurring work into a design system. Upload your brand files and assets such as logos, slide decks, screenshots, typography specs, and anything else you reuse, and Claude will analyze them and generate a design system. This way, each artifact you make afterward starts from your choices, rather than a blank slate.Ask for ten options, then remix. Most of them won't be good, and that's fine; one or two will be. Then say, \"I like option B and a little of option D. Give me five riffs that smoosh those together.\"\u00a0Sketch what you can't describe. If you have a layout in your head and no words for it, draw it on paper and upload a photo.Point and talk. Instead of writing a paragraph identifying which element you mean, click on it and speak. You need to have dictation enabled on your device, then select \u201ccomment\u201d and click into the comment box. Your words will appear in the comment box as if you are typing.Wireframe first when fidelity doesn't matter. Asking for wireframes is much faster, and it keeps Claude focused on the higher-level structure of a design instead of the visuals. This is a great way to try many different ideas quickly.Make the last mile manual. Use the direct editing tools (rearrange, delete, edit text, resize, change colors) for final touches instead of prompting for them. Direct edits use no tokens, and small calls like sizing and alignment are better eyeballed anyway.Give Claude your real context. If you're designing a feature for an existing app or website, connect GitHub: Claude will fetch your components and existing screens and use them as a starting point, and with a few tries it can recreate your existing designs with pretty high fidelity. Web search and MCP connections work in Claude Design too, whenever the design depends on outside information.Keep working alongside Claude. You don\u2019t have to wait for Claude to deliver a finished result before prompting new changes or tasks. You can queue up multiple messages at once, or keep talking while Claude is still working on the previous turn.Make it aliveThere's a Bret Victor talk every designer should watch at some point, called Stop Drawing Dead Fish. From the blurb: \"Everything we draw should be alive by default.\"I'd encourage designers, in Claude Design or any other tool, to think about how to make their creations alive. My favorite Claude Design creations are the ones that don't fit into existing boxes: docs with interactive simulations, slide decks that talk to you, diagrams that are also videos, designs that are also their own editors. Code, specifically HTML, is an amazing medium for creativity, and it's finally somewhat easy for designers to create with.Claude Design took its current shape because people at Anthropic kept finding uses I hadn't planned for; it is now available in beta on Claude Pro, Max, Team, and Enterprise plans. Try it and take it somewhere we haven't thought of yet.This article was written by Nate Parrott, a product designer at Anthropic, and expresses his opinions, usage patterns, and advice on Claude Design.\u200d",
-    "fetched_at": "2026-08-19T12:40:25.159076+00:00"
+    "fetched_at": "2026-08-20T12:42:27.171433+00:00"
+  },
+  {
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "title": "5 new ways to level up your learning with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "published": "2026-08-19T19:00:00+00:00",
+    "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+    "fetched_at": "2026-08-20T12:42:27.497528+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -915,7 +924,7 @@
     "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "published": "2026-08-17T08:00:00+00:00",
     "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-    "fetched_at": "2026-08-19T12:40:25.479768+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497541+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -924,7 +933,7 @@
     "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
     "published": "2026-08-13T16:45:00+00:00",
     "summary": "The video shows Sheets canvas in action.",
-    "fetched_at": "2026-08-19T12:40:25.479780+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497548+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -933,7 +942,7 @@
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "published": "2026-08-11T17:00:00+00:00",
     "summary": "AMIE promotional video",
-    "fetched_at": "2026-08-19T12:40:25.479787+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497555+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -942,7 +951,7 @@
     "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
     "published": "2026-08-10T14:30:00+00:00",
     "summary": "Advisor UI in Google Ads and Google Analytics",
-    "fetched_at": "2026-08-19T12:40:25.479794+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497562+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -951,7 +960,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "published": "2026-08-04T13:00:00+00:00",
     "summary": "July AI recap header",
-    "fetched_at": "2026-08-19T12:40:25.479801+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497569+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -960,7 +969,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
     "published": "2026-08-03T15:00:00+00:00",
     "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-    "fetched_at": "2026-08-19T12:40:25.479807+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497576+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -969,7 +978,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
     "published": "2026-07-28T16:00:00+00:00",
     "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-    "fetched_at": "2026-08-19T12:40:25.479813+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497582+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -978,7 +987,7 @@
     "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
     "published": "2026-07-28T13:00:00+00:00",
     "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-    "fetched_at": "2026-08-19T12:40:25.479820+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497589+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -987,7 +996,7 @@
     "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
     "published": "2026-07-28T13:00:00+00:00",
     "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-    "fetched_at": "2026-08-19T12:40:25.479827+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497596+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -996,18 +1005,128 @@
     "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "published": "2026-07-22T13:00:00+00:00",
     "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-    "fetched_at": "2026-08-19T12:40:25.479834+00:00"
+    "fetched_at": "2026-08-20T12:42:27.497623+00:00"
   },
   {
     "source": "Hacker News",
     "source_type": "hn",
-    "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "published": "2026-08-20T11:42:20Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801592+00:00",
+    "hn_score": 34,
+    "hn_comments": 53
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Don't Paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "published": "2026-08-20T08:20:44Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801644+00:00",
+    "hn_score": 595,
+    "hn_comments": 283
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "DFlash 2: Keep Drafting Parallel",
+    "url": "https://inco.ai/blog/dflash2/",
+    "published": "2026-08-19T20:28:43Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801649+00:00",
+    "hn_score": 89,
+    "hn_comments": 17
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Unsloth Dynamic 3.0 GGUFs",
+    "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "published": "2026-08-19T18:36:45Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801652+00:00",
+    "hn_score": 295,
+    "hn_comments": 102
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "OpenRouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "published": "2026-08-19T17:32:38Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801655+00:00",
+    "hn_score": 891,
+    "hn_comments": 456
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+    "url": "https://github.com/onecli/onecli",
+    "published": "2026-08-19T16:29:02Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801657+00:00",
+    "hn_score": 80,
+    "hn_comments": 24
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Mathematics in the age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "published": "2026-08-19T15:14:25Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801659+00:00",
+    "hn_score": 186,
+    "hn_comments": 219
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "published": "2026-08-19T14:48:39Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801662+00:00",
+    "hn_score": 199,
+    "hn_comments": 69
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "published": "2026-08-19T13:28:44Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801664+00:00",
+    "hn_score": 21,
+    "hn_comments": 21
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
     "url": "https://theremin.bizibah.com/",
     "published": "2026-08-19T10:15:00Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832602+00:00",
-    "hn_score": 70,
-    "hn_comments": 38
+    "fetched_at": "2026-08-20T12:42:27.801666+00:00",
+    "hn_score": 287,
+    "hn_comments": 96
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Does AI stop children from learning?",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "published": "2026-08-19T06:13:31Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801668+00:00",
+    "hn_score": 25,
+    "hn_comments": 10
   },
   {
     "source": "Hacker News",
@@ -1016,9 +1135,9 @@
     "url": "https://www.cerebras.ai/cs4",
     "published": "2026-08-19T00:28:18Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832619+00:00",
-    "hn_score": 343,
-    "hn_comments": 214
+    "fetched_at": "2026-08-20T12:42:27.801670+00:00",
+    "hn_score": 459,
+    "hn_comments": 269
   },
   {
     "source": "Hacker News",
@@ -1027,9 +1146,9 @@
     "url": "https://linear.app/data",
     "published": "2026-08-18T22:08:07Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832623+00:00",
-    "hn_score": 156,
-    "hn_comments": 121
+    "fetched_at": "2026-08-20T12:42:27.801672+00:00",
+    "hn_score": 191,
+    "hn_comments": 112
   },
   {
     "source": "Hacker News",
@@ -1038,9 +1157,20 @@
     "url": "https://artificialanalysis.ai/models/glm-5-3",
     "published": "2026-08-18T22:06:10Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832626+00:00",
-    "hn_score": 131,
-    "hn_comments": 50
+    "fetched_at": "2026-08-20T12:42:27.801674+00:00",
+    "hn_score": 147,
+    "hn_comments": 55
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+    "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+    "published": "2026-08-18T19:24:05Z",
+    "summary": "",
+    "fetched_at": "2026-08-20T12:42:27.801676+00:00",
+    "hn_score": 21,
+    "hn_comments": 2
   },
   {
     "source": "Hacker News",
@@ -1049,9 +1179,9 @@
     "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
     "published": "2026-08-18T17:24:53Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832628+00:00",
-    "hn_score": 304,
-    "hn_comments": 465
+    "fetched_at": "2026-08-20T12:42:27.801679+00:00",
+    "hn_score": 311,
+    "hn_comments": 497
   },
   {
     "source": "Hacker News",
@@ -1060,8 +1190,8 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
     "published": "2026-08-18T16:54:42Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832631+00:00",
-    "hn_score": 68,
+    "fetched_at": "2026-08-20T12:42:27.801681+00:00",
+    "hn_score": 77,
     "hn_comments": 30
   },
   {
@@ -1071,9 +1201,9 @@
     "url": "https://think-twice.me/?p=102",
     "published": "2026-08-18T15:21:29Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832633+00:00",
-    "hn_score": 35,
-    "hn_comments": 5
+    "fetched_at": "2026-08-20T12:42:27.801684+00:00",
+    "hn_score": 42,
+    "hn_comments": 8
   },
   {
     "source": "Hacker News",
@@ -1082,9 +1212,9 @@
     "url": "https://github.com/mukundzha/avouch",
     "published": "2026-08-18T13:13:17Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832635+00:00",
+    "fetched_at": "2026-08-20T12:42:27.801686+00:00",
     "hn_score": 22,
-    "hn_comments": 25
+    "hn_comments": 27
   },
   {
     "source": "Hacker News",
@@ -1093,9 +1223,9 @@
     "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
     "published": "2026-08-18T10:13:28Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832637+00:00",
-    "hn_score": 586,
-    "hn_comments": 408
+    "fetched_at": "2026-08-20T12:42:27.801688+00:00",
+    "hn_score": 610,
+    "hn_comments": 418
   },
   {
     "source": "Hacker News",
@@ -1104,8 +1234,8 @@
     "url": "https://news.ycombinator.com/item?id=49340013",
     "published": "2026-08-18T01:28:48Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832640+00:00",
-    "hn_score": 260,
+    "fetched_at": "2026-08-20T12:42:27.801691+00:00",
+    "hn_score": 272,
     "hn_comments": 166
   },
   {
@@ -1115,8 +1245,8 @@
     "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
     "published": "2026-08-18T00:29:15Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832642+00:00",
-    "hn_score": 92,
+    "fetched_at": "2026-08-20T12:42:27.801694+00:00",
+    "hn_score": 94,
     "hn_comments": 38
   },
   {
@@ -1126,8 +1256,8 @@
     "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
     "published": "2026-08-17T23:12:51Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832645+00:00",
-    "hn_score": 39,
+    "fetched_at": "2026-08-20T12:42:27.801696+00:00",
+    "hn_score": 40,
     "hn_comments": 2
   },
   {
@@ -1137,9 +1267,9 @@
     "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
     "published": "2026-08-17T21:47:30Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832647+00:00",
+    "fetched_at": "2026-08-20T12:42:27.801698+00:00",
     "hn_score": 57,
-    "hn_comments": 203
+    "hn_comments": 208
   },
   {
     "source": "Hacker News",
@@ -1148,9 +1278,9 @@
     "url": "https://openrouter.ai/openai/gpt-5.6-sol",
     "published": "2026-08-17T21:03:18Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832649+00:00",
-    "hn_score": 623,
-    "hn_comments": 445
+    "fetched_at": "2026-08-20T12:42:27.801700+00:00",
+    "hn_score": 629,
+    "hn_comments": 448
   },
   {
     "source": "Hacker News",
@@ -1159,9 +1289,9 @@
     "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "published": "2026-08-17T20:46:10Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832651+00:00",
-    "hn_score": 1028,
-    "hn_comments": 776
+    "fetched_at": "2026-08-20T12:42:27.801703+00:00",
+    "hn_score": 1046,
+    "hn_comments": 825
   },
   {
     "source": "Hacker News",
@@ -1170,9 +1300,9 @@
     "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "published": "2026-08-17T19:47:15Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832654+00:00",
-    "hn_score": 1079,
-    "hn_comments": 676
+    "fetched_at": "2026-08-20T12:42:27.801705+00:00",
+    "hn_score": 1091,
+    "hn_comments": 687
   },
   {
     "source": "Hacker News",
@@ -1181,8 +1311,8 @@
     "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
     "published": "2026-08-17T19:06:11Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832656+00:00",
-    "hn_score": 129,
+    "fetched_at": "2026-08-20T12:42:27.801708+00:00",
+    "hn_score": 131,
     "hn_comments": 6
   },
   {
@@ -1192,7 +1322,7 @@
     "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
     "published": "2026-08-17T18:25:53Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832658+00:00",
+    "fetched_at": "2026-08-20T12:42:27.801710+00:00",
     "hn_score": 23,
     "hn_comments": 0
   },
@@ -1203,129 +1333,8 @@
     "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "published": "2026-08-17T18:10:16Z",
     "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832660+00:00",
+    "fetched_at": "2026-08-20T12:42:27.801712+00:00",
     "hn_score": 93,
     "hn_comments": 17
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-    "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-    "published": "2026-08-17T17:55:50Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832663+00:00",
-    "hn_score": 41,
-    "hn_comments": 2
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-    "published": "2026-08-17T17:25:17Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832665+00:00",
-    "hn_score": 373,
-    "hn_comments": 176
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-    "url": "https://speko.ai/",
-    "published": "2026-08-17T15:36:18Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832667+00:00",
-    "hn_score": 116,
-    "hn_comments": 67
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Anthropic's War on open source AI",
-    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-    "published": "2026-08-17T15:24:34Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832669+00:00",
-    "hn_score": 151,
-    "hn_comments": 59
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-    "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-    "published": "2026-08-17T14:30:09Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832671+00:00",
-    "hn_score": 58,
-    "hn_comments": 49
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "published": "2026-08-17T14:18:38Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832673+00:00",
-    "hn_score": 422,
-    "hn_comments": 155
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "How to disable or avoid intrusive AI",
-    "url": "https://www.librarian.net/notoai/",
-    "published": "2026-08-17T14:07:56Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832676+00:00",
-    "hn_score": 335,
-    "hn_comments": 195
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "published": "2026-08-17T13:44:23Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832678+00:00",
-    "hn_score": 159,
-    "hn_comments": 316
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-    "url": "https://1667.ai/",
-    "published": "2026-08-17T13:35:31Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832680+00:00",
-    "hn_score": 37,
-    "hn_comments": 93
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: Sokoban AI Solver",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "published": "2026-08-17T13:07:00Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832682+00:00",
-    "hn_score": 69,
-    "hn_comments": 42
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Stripe to Buy OpenRouter for $7B",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "published": "2026-08-17T13:00:44Z",
-    "summary": "",
-    "fetched_at": "2026-08-19T12:40:25.832685+00:00",
-    "hn_score": 97,
-    "hn_comments": 45
   }
 ]
