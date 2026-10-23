@@ -2,11 +2,38 @@
   {
     "source": "OpenAI",
     "source_type": "rss",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "published": "2026-10-23T17:00:00+00:00",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
+    "fetched_at": "2026-10-23T16:27:10.646495+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "published": "2026-10-23T00:00:00+00:00",
+    "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "fetched_at": "2026-10-23T16:27:10.646516+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "published": "2026-10-22T19:00:00+00:00",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "fetched_at": "2026-10-23T16:27:10.646525+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
     "title": "What FDE means at OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means",
     "published": "2026-10-22T06:00:00+00:00",
     "summary": "What forward deployed engineering means at OpenAI",
-    "fetched_at": "2026-10-22T16:37:17.367041+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646533+00:00"
   },
   {
     "source": "OpenAI",
@@ -15,7 +42,7 @@
     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "published": "2026-10-22T00:00:00+00:00",
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "fetched_at": "2026-10-22T16:37:17.367060+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646540+00:00"
   },
   {
     "source": "OpenAI",
@@ -24,7 +51,7 @@
     "url": "https://openai.com/index/att-legal",
     "published": "2026-10-21T17:00:00+00:00",
     "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "fetched_at": "2026-10-22T16:37:17.367070+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646548+00:00"
   },
   {
     "source": "OpenAI",
@@ -33,7 +60,7 @@
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
     "published": "2026-10-21T21:00:00+00:00",
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "fetched_at": "2026-10-22T16:37:17.367077+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646555+00:00"
   },
   {
     "source": "OpenAI",
@@ -42,7 +69,7 @@
     "url": "https://openai.com/index/openai-models-google-cloud",
     "published": "2026-10-21T12:00:00+00:00",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
-    "fetched_at": "2026-10-22T16:37:17.367086+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646563+00:00"
   },
   {
     "source": "OpenAI",
@@ -51,7 +78,7 @@
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "fetched_at": "2026-10-22T16:37:17.367095+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646570+00:00"
   },
   {
     "source": "OpenAI",
@@ -60,7 +87,7 @@
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "published": "2026-10-21T13:00:00+00:00",
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "fetched_at": "2026-10-22T16:37:17.367103+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646577+00:00"
   },
   {
     "source": "OpenAI",
@@ -69,7 +96,7 @@
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "published": "2026-10-21T04:50:00+00:00",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "fetched_at": "2026-10-22T16:37:17.367109+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646583+00:00"
   },
   {
     "source": "OpenAI",
@@ -78,7 +105,7 @@
     "url": "https://openai.com/index/cloudflare-cyber",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "fetched_at": "2026-10-22T16:37:17.367116+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646590+00:00"
   },
   {
     "source": "OpenAI",
@@ -87,7 +114,7 @@
     "url": "https://openai.com/index/building-chatgpt-ad-stack",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "fetched_at": "2026-10-22T16:37:17.367123+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646596+00:00"
   },
   {
     "source": "OpenAI",
@@ -96,7 +123,7 @@
     "url": "https://openai.com/index/empowering-cyber-defenders",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "fetched_at": "2026-10-22T16:37:17.367130+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646603+00:00"
   },
   {
     "source": "OpenAI",
@@ -105,7 +132,7 @@
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "published": "2026-10-20T10:00:00+00:00",
     "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "fetched_at": "2026-10-22T16:37:17.367143+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646609+00:00"
   },
   {
     "source": "OpenAI",
@@ -114,7 +141,7 @@
     "url": "https://openai.com/index/terminal-x",
     "published": "2026-10-20T07:00:00+00:00",
     "summary": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol.",
-    "fetched_at": "2026-10-22T16:37:17.367150+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646621+00:00"
   },
   {
     "source": "OpenAI",
@@ -123,7 +150,7 @@
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "fetched_at": "2026-10-22T16:37:17.367158+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646627+00:00"
   },
   {
     "source": "OpenAI",
@@ -132,7 +159,7 @@
     "url": "https://openai.com/index/low-resource-programming-languages",
     "published": "2026-10-19T12:00:00+00:00",
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "fetched_at": "2026-10-22T16:37:17.367165+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646635+00:00"
   },
   {
     "source": "OpenAI",
@@ -141,16 +168,7 @@
     "url": "https://openai.com/index/itau-generative-ai",
     "published": "2026-10-16T19:00:00+00:00",
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
-    "fetched_at": "2026-10-22T16:37:17.367172+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "published": "2026-10-16T00:00:00+00:00",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-    "fetched_at": "2026-10-22T16:37:17.367181+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646642+00:00"
   },
   {
     "source": "OpenAI",
@@ -159,7 +177,16 @@
     "url": "https://openai.com/index/benefit-street-partners",
     "published": "2026-10-16T00:00:00+00:00",
     "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "fetched_at": "2026-10-22T16:37:17.367188+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646648+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "published": "2026-10-16T00:00:00+00:00",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+    "fetched_at": "2026-10-23T16:27:10.646655+00:00"
   },
   {
     "source": "OpenAI",
@@ -168,7 +195,7 @@
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "published": "2026-10-15T19:00:00+00:00",
     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "fetched_at": "2026-10-22T16:37:17.367196+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646662+00:00"
   },
   {
     "source": "OpenAI",
@@ -177,7 +204,7 @@
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "published": "2026-10-15T13:00:00+00:00",
     "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "fetched_at": "2026-10-22T16:37:17.367203+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646668+00:00"
   },
   {
     "source": "OpenAI",
@@ -186,7 +213,7 @@
     "url": "https://openai.com/index/sullivan-cromwell",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "fetched_at": "2026-10-22T16:37:17.367210+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646675+00:00"
   },
   {
     "source": "OpenAI",
@@ -195,7 +222,7 @@
     "url": "https://openai.com/index/amp-beyond-coding",
     "published": "2026-10-14T12:00:00+00:00",
     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "fetched_at": "2026-10-22T16:37:17.367216+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646681+00:00"
   },
   {
     "source": "OpenAI",
@@ -204,7 +231,7 @@
     "url": "https://openai.com/index/sentinelone",
     "published": "2026-10-14T12:00:00+00:00",
     "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "fetched_at": "2026-10-22T16:37:17.367223+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646688+00:00"
   },
   {
     "source": "OpenAI",
@@ -213,7 +240,7 @@
     "url": "https://openai.com/index/third-moment-research",
     "published": "2026-10-14T07:00:00+00:00",
     "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "fetched_at": "2026-10-22T16:37:17.367231+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646695+00:00"
   },
   {
     "source": "OpenAI",
@@ -222,7 +249,7 @@
     "url": "https://openai.com/index/block-ai-powered-security",
     "published": "2026-10-14T07:00:00+00:00",
     "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "fetched_at": "2026-10-22T16:37:17.367238+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646704+00:00"
   },
   {
     "source": "OpenAI",
@@ -231,7 +258,7 @@
     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "published": "2026-10-14T00:00:00+00:00",
     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
-    "fetched_at": "2026-10-22T16:37:17.367285+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646710+00:00"
   },
   {
     "source": "OpenAI",
@@ -240,7 +267,7 @@
     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
     "published": "2026-10-13T12:00:00+00:00",
     "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "fetched_at": "2026-10-22T16:37:17.367299+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646716+00:00"
   },
   {
     "source": "OpenAI",
@@ -249,7 +276,7 @@
     "url": "https://openai.com/index/asana-browser-agent",
     "published": "2026-10-09T07:00:00+00:00",
     "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "fetched_at": "2026-10-22T16:37:17.367306+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646723+00:00"
   },
   {
     "source": "OpenAI",
@@ -258,7 +285,7 @@
     "url": "https://openai.com/index/sophos",
     "published": "2026-10-09T07:00:00+00:00",
     "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "fetched_at": "2026-10-22T16:37:17.367313+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646729+00:00"
   },
   {
     "source": "OpenAI",
@@ -267,7 +294,7 @@
     "url": "https://openai.com/index/oracle",
     "published": "2026-10-08T16:00:00+00:00",
     "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "fetched_at": "2026-10-22T16:37:17.367320+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646736+00:00"
   },
   {
     "source": "OpenAI",
@@ -276,7 +303,7 @@
     "url": "https://openai.com/index/pollo-ai",
     "published": "2026-10-08T12:00:00+00:00",
     "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "fetched_at": "2026-10-22T16:37:17.367328+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646744+00:00"
   },
   {
     "source": "OpenAI",
@@ -285,7 +312,7 @@
     "url": "https://openai.com/index/legalon-halves-codex-costs",
     "published": "2026-10-08T12:00:00+00:00",
     "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "fetched_at": "2026-10-22T16:37:17.367334+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646750+00:00"
   },
   {
     "source": "OpenAI",
@@ -294,7 +321,7 @@
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "published": "2026-10-08T00:00:00+00:00",
     "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "fetched_at": "2026-10-22T16:37:17.367341+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646759+00:00"
   },
   {
     "source": "OpenAI",
@@ -303,7 +330,7 @@
     "url": "https://openai.com/index/teens-learn-and-plan",
     "published": "2026-10-07T12:00:00+00:00",
     "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "fetched_at": "2026-10-22T16:37:17.367348+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646767+00:00"
   },
   {
     "source": "OpenAI",
@@ -312,7 +339,7 @@
     "url": "https://openai.com/index/radisson",
     "published": "2026-10-07T07:00:00+00:00",
     "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "fetched_at": "2026-10-22T16:37:17.367355+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646774+00:00"
   },
   {
     "source": "OpenAI",
@@ -321,7 +348,7 @@
     "url": "https://openai.com/index/gpt-6-for-everyone",
     "published": "2026-10-07T00:00:00+00:00",
     "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "fetched_at": "2026-10-22T16:37:17.367361+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646780+00:00"
   },
   {
     "source": "OpenAI",
@@ -330,7 +357,7 @@
     "url": "https://openai.com/index/jump-trading",
     "published": "2026-10-06T12:00:00+00:00",
     "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "fetched_at": "2026-10-22T16:37:17.367372+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646787+00:00"
   },
   {
     "source": "OpenAI",
@@ -339,7 +366,7 @@
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "published": "2026-10-06T12:00:00+00:00",
     "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "fetched_at": "2026-10-22T16:37:17.367380+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646793+00:00"
   },
   {
     "source": "OpenAI",
@@ -348,7 +375,7 @@
     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "published": "2026-10-06T10:00:00+00:00",
     "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "fetched_at": "2026-10-22T16:37:17.367387+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646800+00:00"
   },
   {
     "source": "OpenAI",
@@ -357,7 +384,7 @@
     "url": "https://openai.com/index/atlassian-partnership",
     "published": "2026-10-06T16:00:00+00:00",
     "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "fetched_at": "2026-10-22T16:37:17.367393+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646806+00:00"
   },
   {
     "source": "OpenAI",
@@ -366,7 +393,7 @@
     "url": "https://openai.com/index/eu-text-provenance",
     "published": "2026-10-05T15:00:00+00:00",
     "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "fetched_at": "2026-10-22T16:37:17.367400+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646812+00:00"
   },
   {
     "source": "OpenAI",
@@ -375,7 +402,7 @@
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "published": "2026-10-05T10:00:00+00:00",
     "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "fetched_at": "2026-10-22T16:37:17.367407+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646818+00:00"
   },
   {
     "source": "OpenAI",
@@ -384,7 +411,7 @@
     "url": "https://openai.com/index/practical-guide-building-gpt-6",
     "published": "2026-10-02T16:15:00+00:00",
     "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "fetched_at": "2026-10-22T16:37:17.367413+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646824+00:00"
   },
   {
     "source": "OpenAI",
@@ -393,7 +420,7 @@
     "url": "https://openai.com/index/chatham-financial",
     "published": "2026-10-02T00:00:00+00:00",
     "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "fetched_at": "2026-10-22T16:37:17.367420+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646830+00:00"
   },
   {
     "source": "OpenAI",
@@ -402,7 +429,7 @@
     "url": "https://openai.com/index/the-eternal-complement",
     "published": "2026-10-01T17:00:00+00:00",
     "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "fetched_at": "2026-10-22T16:37:17.367427+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646850+00:00"
   },
   {
     "source": "OpenAI",
@@ -411,7 +438,7 @@
     "url": "https://openai.com/index/albertsons-reimagining-retail",
     "published": "2026-10-01T16:00:00+00:00",
     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "fetched_at": "2026-10-22T16:37:17.367433+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646856+00:00"
   },
   {
     "source": "OpenAI",
@@ -420,7 +447,7 @@
     "url": "https://openai.com/index/the-den-family-social",
     "published": "2026-10-01T00:00:00+00:00",
     "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "fetched_at": "2026-10-22T16:37:17.367439+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646863+00:00"
   },
   {
     "source": "OpenAI",
@@ -429,7 +456,7 @@
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "published": "2026-09-30T10:30:00+00:00",
     "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "fetched_at": "2026-10-22T16:37:17.367446+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646869+00:00"
   },
   {
     "source": "OpenAI",
@@ -438,7 +465,7 @@
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "published": "2026-09-30T10:00:00+00:00",
     "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "fetched_at": "2026-10-22T16:37:17.367452+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646875+00:00"
   },
   {
     "source": "OpenAI",
@@ -447,7 +474,7 @@
     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "published": "2026-09-29T17:00:00+00:00",
     "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-    "fetched_at": "2026-10-22T16:37:17.367459+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646884+00:00"
   },
   {
     "source": "OpenAI",
@@ -456,7 +483,7 @@
     "url": "https://openai.com/index/devday-2026-recap",
     "published": "2026-09-29T10:00:00+00:00",
     "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "fetched_at": "2026-10-22T16:37:17.367465+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646891+00:00"
   },
   {
     "source": "OpenAI",
@@ -465,7 +492,7 @@
     "url": "https://openai.com/index/introducing-dots",
     "published": "2026-09-29T00:00:00+00:00",
     "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "fetched_at": "2026-10-22T16:37:17.367471+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646903+00:00"
   },
   {
     "source": "OpenAI",
@@ -474,7 +501,7 @@
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
-    "fetched_at": "2026-10-22T16:37:17.367477+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646909+00:00"
   },
   {
     "source": "OpenAI",
@@ -483,7 +510,7 @@
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "fetched_at": "2026-10-22T16:37:17.367484+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646915+00:00"
   },
   {
     "source": "OpenAI",
@@ -492,7 +519,7 @@
     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "published": "2026-09-28T07:00:00+00:00",
     "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "fetched_at": "2026-10-22T16:37:17.367491+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646922+00:00"
   },
   {
     "source": "OpenAI",
@@ -501,7 +528,7 @@
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "published": "2026-09-28T00:00:00+00:00",
     "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "fetched_at": "2026-10-22T16:37:17.367500+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646928+00:00"
   },
   {
     "source": "OpenAI",
@@ -510,7 +537,7 @@
     "url": "https://openai.com/form/codex-originals",
     "published": "2026-09-28T00:00:00+00:00",
     "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-    "fetched_at": "2026-10-22T16:37:17.367507+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646935+00:00"
   },
   {
     "source": "OpenAI",
@@ -519,7 +546,7 @@
     "url": "https://openai.com/index/proaction",
     "published": "2026-09-25T19:00:00+00:00",
     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "fetched_at": "2026-10-22T16:37:17.367514+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646941+00:00"
   },
   {
     "source": "OpenAI",
@@ -528,7 +555,7 @@
     "url": "https://openai.com/index/lowes",
     "published": "2026-09-25T07:00:00+00:00",
     "summary": "Lowe\u2019s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-    "fetched_at": "2026-10-22T16:37:17.367520+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646947+00:00"
   },
   {
     "source": "OpenAI",
@@ -537,115 +564,7 @@
     "url": "https://openai.com/index/wayfair",
     "published": "2026-09-25T00:00:00+00:00",
     "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "fetched_at": "2026-10-22T16:37:17.367527+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Two years of OpenAI Academy",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "published": "2026-09-23T16:00:00+00:00",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "fetched_at": "2026-10-22T16:37:17.367533+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "published": "2026-09-23T13:00:00+00:00",
-    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "fetched_at": "2026-10-22T16:37:17.367540+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "published": "2026-09-23T12:00:00+00:00",
-    "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "fetched_at": "2026-10-22T16:37:17.367553+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "published": "2026-09-23T12:00:00+00:00",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "fetched_at": "2026-10-22T16:37:17.367560+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "published": "2026-09-23T12:00:00+00:00",
-    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "fetched_at": "2026-10-22T16:37:17.367566+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
-    "published": "2026-09-23T12:00:00+00:00",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "fetched_at": "2026-10-22T16:37:17.367573+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Introducing MentalHealthBench",
-    "url": "https://openai.com/index/introducing-mentalhealthbench",
-    "published": "2026-09-23T10:00:00+00:00",
-    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-    "fetched_at": "2026-10-22T16:37:17.367579+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "published": "2026-09-23T02:00:00+00:00",
-    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-    "fetched_at": "2026-10-22T16:37:17.367586+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "published": "2026-09-23T01:00:00+00:00",
-    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-    "fetched_at": "2026-10-22T16:37:17.367592+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "published": "2026-09-23T00:00:00+00:00",
-    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "fetched_at": "2026-10-22T16:37:17.367599+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Better prompt caching for GPT-6",
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "published": "2026-09-22T21:00:00+00:00",
-    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-    "fetched_at": "2026-10-22T16:37:17.367605+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "published": "2026-09-22T18:00:00+00:00",
-    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "fetched_at": "2026-10-22T16:37:17.367611+00:00"
+    "fetched_at": "2026-10-23T16:27:10.646953+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -654,7 +573,7 @@
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "published": "2026-10-22T14:30:24+00:00",
     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "fetched_at": "2026-10-22T16:37:18.104649+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028394+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -663,7 +582,7 @@
     "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "published": "2026-10-15T16:08:03+00:00",
     "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "fetched_at": "2026-10-22T16:37:18.104662+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028407+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -672,7 +591,7 @@
     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "published": "2026-10-14T02:00:14+00:00",
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "fetched_at": "2026-10-22T16:37:18.104670+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028414+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -681,7 +600,7 @@
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "published": "2026-10-13T19:43:07+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104677+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028422+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -690,7 +609,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "published": "2026-10-13T16:01:58+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104683+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028429+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -699,7 +618,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "published": "2026-10-13T16:01:52+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104689+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028435+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -708,7 +627,7 @@
     "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "published": "2026-10-06T19:57:04+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104696+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028441+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -717,7 +636,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "published": "2026-09-30T20:01:45+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104702+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028448+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -726,7 +645,7 @@
     "url": "https://deepmind.google/blog/introducing-synthid-bio/",
     "published": "2026-09-30T15:03:07+00:00",
     "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "fetched_at": "2026-10-22T16:37:18.104709+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028454+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -735,34 +654,34 @@
     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "published": "2026-09-24T16:20:39+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104715+00:00"
-  },
-  {
-    "source": "Google DeepMind",
-    "source_type": "rss",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "published": "2026-09-23T16:00:57+00:00",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "fetched_at": "2026-10-22T16:37:18.104722+00:00"
-  },
-  {
-    "source": "Google DeepMind",
-    "source_type": "rss",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "published": "2026-09-23T15:25:14+00:00",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.104728+00:00"
+    "fetched_at": "2026-10-23T16:27:11.028460+00:00"
   },
   {
     "source": "Hugging Face",
     "source_type": "rss",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "published": "2026-10-22T16:11:31+00:00",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "published": "2026-10-23T16:15:50+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520405+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359008+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "published": "2026-10-23T00:00:00+00:00",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:11.359022+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "published": "2026-10-22T22:24:34+00:00",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:11.359030+00:00"
   },
   {
     "source": "Hugging Face",
@@ -771,7 +690,7 @@
     "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "published": "2026-10-22T07:51:31+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520419+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359038+00:00"
   },
   {
     "source": "Hugging Face",
@@ -780,7 +699,7 @@
     "url": "https://huggingface.co/blog/nvidia/kumo-relational",
     "published": "2026-10-21T18:26:30+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520428+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359045+00:00"
   },
   {
     "source": "Hugging Face",
@@ -789,7 +708,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "published": "2026-10-21T17:35:36+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520436+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359052+00:00"
   },
   {
     "source": "Hugging Face",
@@ -798,7 +717,7 @@
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "published": "2026-10-21T16:04:43+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520444+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359058+00:00"
   },
   {
     "source": "Hugging Face",
@@ -807,7 +726,7 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "published": "2026-10-21T14:58:18+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520451+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359069+00:00"
   },
   {
     "source": "Hugging Face",
@@ -816,7 +735,7 @@
     "url": "https://huggingface.co/blog/hf-torchtpu",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520459+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359077+00:00"
   },
   {
     "source": "Hugging Face",
@@ -825,7 +744,7 @@
     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520467+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359083+00:00"
   },
   {
     "source": "Hugging Face",
@@ -834,7 +753,7 @@
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520475+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359090+00:00"
   },
   {
     "source": "Hugging Face",
@@ -843,7 +762,7 @@
     "url": "https://huggingface.co/blog/hf-torchneuron",
     "published": "2026-10-19T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520482+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359097+00:00"
   },
   {
     "source": "Hugging Face",
@@ -852,7 +771,7 @@
     "url": "https://huggingface.co/blog/reflection-beam",
     "published": "2026-10-16T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520490+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359104+00:00"
   },
   {
     "source": "Hugging Face",
@@ -861,7 +780,7 @@
     "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "published": "2026-10-15T09:08:45+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520497+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359111+00:00"
   },
   {
     "source": "Hugging Face",
@@ -870,7 +789,7 @@
     "url": "https://huggingface.co/blog/meta-muse-spark-open",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520505+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359118+00:00"
   },
   {
     "source": "Hugging Face",
@@ -879,7 +798,7 @@
     "url": "https://huggingface.co/blog/flux-3",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520516+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359124+00:00"
   },
   {
     "source": "Hugging Face",
@@ -888,7 +807,7 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "published": "2026-10-13T17:05:48+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520524+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359132+00:00"
   },
   {
     "source": "Hugging Face",
@@ -897,7 +816,7 @@
     "url": "https://huggingface.co/blog/building-with-ml-intern",
     "published": "2026-10-08T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520531+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359139+00:00"
   },
   {
     "source": "Hugging Face",
@@ -906,7 +825,7 @@
     "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "published": "2026-10-07T13:21:03+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520539+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359146+00:00"
   },
   {
     "source": "Hugging Face",
@@ -915,7 +834,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "published": "2026-10-03T22:56:48+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520546+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359153+00:00"
   },
   {
     "source": "Hugging Face",
@@ -924,7 +843,7 @@
     "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "published": "2026-10-02T04:01:31+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520554+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359160+00:00"
   },
   {
     "source": "Hugging Face",
@@ -933,7 +852,7 @@
     "url": "https://huggingface.co/blog/open-tts-leaderboard",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520562+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359167+00:00"
   },
   {
     "source": "Hugging Face",
@@ -942,7 +861,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "published": "2026-09-29T13:07:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520569+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359174+00:00"
   },
   {
     "source": "Hugging Face",
@@ -951,7 +870,7 @@
     "url": "https://huggingface.co/blog/Hcompany/holo4",
     "published": "2026-09-28T09:44:05+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520576+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359181+00:00"
   },
   {
     "source": "Hugging Face",
@@ -960,7 +879,7 @@
     "url": "https://huggingface.co/blog/rl-environments",
     "published": "2026-09-28T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:18.520584+00:00"
+    "fetched_at": "2026-10-23T16:27:11.359187+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -969,7 +888,7 @@
     "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
     "published": "2026-10-05T00:00:00+00:00",
     "summary": "In our series, How startups build with Claude, we look at the decisions behind AI products. Here, we explore how Cresta brought its expertise building AI-native customer experience into Conductor, an agent that helps developers build and improve other agents.\n\n\n\n\nThe quick pitch\n\n\n\n\nName\nCresta\n\n\nFounded\n2017\n\n\nCEO\nPing Wu\n\n\nGrowth\n$270M+ raised. $100M+ ARR. Helping organizations like United Airlines, CVS Health, and Marriott deliver exceptional customer experiences\n\n\n\n\nBuilding enterprise AI agents for customer experience use cases requires understanding the context embedded across a wide range of customer interactions. For example, customers may:Ask for a refund without saying which purchase they mean,\u00a0Report a billing problem and a login issue in the same message, or\u00a0Request a refund after the return window has closed.\u00a0To respond correctly, the agent may need to check what the customer bought, the refund policy, their account history, or the payment status.Cresta sees these interactions at volume. Its platform powers customer experience, AI agents that handle conversations on their own, provide real-time guidance for the human agents working alongside them, and surface conversation intelligence that shows the business where to improve.\u00a0Building and maintaining customer experience agents requires organizations to make key decisions on operating requirements: what the agent needs to know, which systems it must access, and where its behavior should be flexible or deterministic. Cresta wanted to make that judgment available to more teams without each one starting from scratch.\u00a0Conductor is the result: a natural language agent builder that helps teams turn complex business context into production-ready agents. Users describe what they want to build, and Conductor guides the work from a grounded blueprint through implementation, evaluation, and optimization.Cresta originally built an early version of Conductor using Claude Sonnet and Claude Opus to help internal teams support customer deployments. The open question was whether Cresta could turn that system into a product customers could use to build agents directly within the platform.To carry out open-ended development work, Conductor uses the Claude Agent SDK as a general-purpose harness to gather context, use tools, write and run code, and adapt based on the results.\u201cWe used Claude Code internally as a dev tool because it was very effective at the software development aspects of building an agent,\u201d said Renjie Li, Engineering Lead for Cresta Conductor. \u201cThe Claude Agent SDK gave us a way to use that same agentic development harness programmatically. With Conductor, we\u2019ve connected it with Cresta\u2019s deep conversation intelligence, CX expertise, evaluations, and runtime to give users the agent-building experience we wish we\u2019d had from day one.\u201dCresta reports that in early use cases across Cresta and its partners, Conductor cut initial deployment time roughly in half.\u00a0A meta-agent that helps build the next agentConductor is a self-improving meta-agent built on established best practices for CX agent development. As teams build and refine more agents with it, they capture their own proven patterns, workflows, and expert judgment. This creates a knowledge flywheel that makes future development faster and more consistent.After launch, production interactions, workflow outcomes, and feedback become new signals for the next improvement.\u00a0Conductor helps builders turn what they learned from an agent build into a reusable memory artifact, capturing patterns, business rules, and evaluation approaches. They can then share it as skill with the rest of the team, so others can build from the same proven practices.Making the important decisions easierWriting the first prompt is only one part of building a useful agent. One of the harder calls is where a conversation should stay flexible and where it needs explicit business rules and controlled tool behavior.\"You don't want to go too deterministic, otherwise you create a giant decision tree trying to map out every possible branch\u2026 but there are enterprise-critical workflows that you need to make sure work all the time, especially for highly regulated industries with low risk tolerance,\" said Renjie. \"Conductor helps discover and harden those deterministic requirements and the implementation with the flexibility to improve the overall experience.\"Conductor draws on historical conversations to help teams identify where a human should stay in the loop and where the model can be given room to adapt. Once those boundaries are set, developers still need to test the deterministic pieces against the requirements they're meant to enforce, and revise those tests as the underlying business rules change.\u00a0How Cresta evaluates ConductorConductor is measured on how well it builds agents. To that end, Cresta runs Conductor through a set of build tasks:Build a new agentWrite a test case for oneChange an agent that already existsPerform root cause analysisFinishing the task is not the only bar. The team also looks at the outcomes, how Conductor got there, and what it used along the way.\n\n\n\n\nEvaluation\nQuestion it answers\n\n\n\n\nOutcome\nDid Conductor produce the requested, usable artifact?\n\n\nExecution path\nDid it use the appropriate tools and required context?\n\n\nQuality\nHow does the result compare with a curated reference?\n\n\nResource use\nHow much time and model usage did the task require?\n\n\n\n\nThose same tasks function as a safety net. When a new Claude model is launched or the Conductor framework is updated, Cresta reruns its evaluations. It uses the same tasks and same scoring to identify what improved and what still needs work before anyone commits to the change.That same evaluation discipline is built into Conductor, which allows its users to check and see if their agents are performing as intended. Conductor turns requirements and edge cases captured during the build phases into tests within its evaluation module.\u00a0Teams can then monitor the workflows that need to work every time as policies, connected systems, and conversation patterns change. That gives them a practical way to update an agent as the business changes without losing the reliability of the workflows they have already hardened.Building Conductor on the Claude Agent SDKCresta designed Conductor as the CX-specific control plane for agent development. It brings together conversation data, domain expertise, and development practices, then governs each agent run through policy, observability, verification, and feedback-driven improvement.The Claude Agent SDK sits beneath Conductor as a general-purpose execution harness. It manages the work of gathering context, calling tools, and writing and running code; Conductor layers Cresta's CX workflows, tools, and domain context on top.The team evaluated the SDK against the work Conductor needed to perform: tasks with multiple steps, substantial context, and repeated tool use. Its review covered data privacy, tenant architecture, organization-level key distribution, controls, and observability across the implementation.\"Anthropic gives us a strong, general-purpose foundation for agentic software development. That lets us put our engineering investment where Cresta creates the most durable customer value,\" said Xiangru Chen, VP of Engineering at Cresta.Putting Cresta's engineering expertise directly in customers' handsConductor started inside Cresta, helping its own forward-deployed team learn which development tasks could become repeatable, where context mattered most, and what builders needed to inspect along the way. Its success in that internal work gave the team confidence to bring the same capabilities to customers and partners.For any team whose product deploys custom agents faster than its engineers can hand-build them, Cresta's approach is a useful reference point: with agents or meta-agents, the work after the initial build is often the hardest part.See how Conductor turns business context into better agent design, implementation, and ongoing improvement.\n\n\n\n\nBest practices from the Cresta team\n\n\n\n\nDogfood your products\nConductor ran as an internal tool first, and only became a product once its output matched what an engineer with deep AI expertise would build.\n\n\nFocus on your unique advantages\nCresta drew a hard line between the expertise only they could bring (their conversation data and understanding of customer experience) and what they could take off the shelf from the Agent SDK, and refused to build anything on the wrong side of it.\n\n\nWhat parts of your agent need to be deterministic\nHarden the enterprise-critical workflows that can never go wrong and leave the rest flexible, or you won't end up with the interactive agentic experience you want.\n\n\nGetting to production is the easy part\nThe initial build is only about 20% of the effort, the other 80% is the testing, optimization, and continuous improvement that follows, so design your tooling around the iteration loop, not the launch.",
-    "fetched_at": "2026-10-22T16:37:18.782134+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620516+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -978,7 +897,7 @@
     "url": "https://claude.com/blog/claude-code-mods",
     "published": "2026-10-01T00:00:00+00:00",
     "summary": "Today we're introducing mods, small TypeScript functions that change how Claude Code works. A mod can rewrite a prompt, add new UI, replace a built-in feature, or add entirely new functionality. You can write a mod yourself, or ask Claude Code to write one for you. Mods ship inside plugins, so you install and share them like any plugin. They work in the Claude Code CLI and desktop app.Mods run with the same access to your machine as Claude Code itself. They aren\u2019t sandboxed, and you should only install mods from sources you trust, the same way you'd install any code on your computer.To see what mods can do, read our guide to building your first mod.Why we built modsDevelopers have asked for more control over how Claude Code works, without waiting for us to ship a feature. Hooks helped give users some of this control, but hooks can't rewrite events, draw new UI, or replace features. Mods can.We want Claude Code to feel like yours, so you can shape it to the way you work. We shared the design for mods on GitHub before launch to get feedback from developers. Thank you to everyone who weighed in.How mods workEach time Claude Code does something, it emits an event. Examples include calling a tool, asking for permission, and drawing part of the screen. A mod is a function that hooks into one of these events. A mod can run before the event, after it, or instead of it. It can also wrap the event, running code both before and after. With one function, a mod can:Rewrite a prompt before it reaches the model.Block, rewrite, or retry a tool call.Approve or deny a permission request.Redact secrets from tool output before Claude reads it.A mod can also change what you see. It can edit or replace part of the interface Claude Code draws, like a tool result or a question from Claude. It can add buttons and inputs, and other mods can respond when you press them. Today, a mod can target the terminal, the desktop app, or both.When several mods hook the same event, they run in the order they load. The first mod to load sees the event first and the result last. This lets you stack mods from different authors.You can also use Claude Code to mod Claude Code. Ask Claude to create a mod, and it can write the TypeScript, install it, and hot reload it in your session.Swap built-in features for your ownSome built-in features of Claude Code now ship as mods. For example, the built-in /diff feature is now a mod, so you can turn it off (in /plugin) or replace it with your own version. We plan to move more built-in features to mods over time, so you can pare Claude Code down to a small core and add back only what you want.Mods for teams and enterprisesMods ship inside plugins, so your existing plugin controls apply. Admins can allow or block plugin marketplaces. On Team and Enterprise plans, an owner sets this in the admin console. On Claude API and third-party API plans, admins push managed settings to users' machines.On Team and Enterprise plans, and on any machine with managed settings, a built-in mod called sec-default (\u201csecurity default\u201d) loads first. It stops mods that users install from doing risky things, like overriding your permission deny rules. You can view the source code to see what it restricts. Admins can load their own mods first instead. If you do, add sec-default to your list to keep its restrictions.Teams can also use mods to build their own controls and functionality. For example:CI/CD status: a mod can show your pipeline\u2019s status in a pane beside the conversation, and update it as builds pass or fail.Production safeguards: a mod can require confirmation before any command touches production config.Audit logging: a mod that loads first can record every call that every other mod makes.Getting startedMods are available today in the Claude Code CLI and desktop app. Install plugins that include mods from the Claude directory or by running /plugin in the CLI. To share a mod, package it in a plugin and submit it to the directory.\u00a0To build your own mods, read our getting started guide or see the documentation.",
-    "fetched_at": "2026-10-22T16:37:18.782171+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620553+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -987,7 +906,7 @@
     "url": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "As a sales leader, it pains me to admit that not long ago, people who wanted to buy Claude for their company weren\u2019t getting the answers they needed quickly enough. They had filled out our Contact Sales form but would wait too long to hear back, sometimes for multiple days. Most of their questions were simple: what a plan costs, whether there's a seat minimum, or whether we can meet HIPAA\u2019s contract requirements. The answers were in our documentation and support articles, but customers wanted someone to walk them through, quickly.So we built a buying agent on Claude Managed Agents (beta) that takes a prospect from \"I want Claude for my company\" to a completed purchase. The buying agent now holds thousands of conversations a day, answers customers\u2019 most pressing questions, and gets them through checkout. The customers it escalates to our team arrive educated and more ready to make purchase decisions: they turn into opportunities more than twice as often as leads from the old form, and close about five days faster. We intentionally left this experience as opt-in, meaning our customers choose at the start if they\u2019d like to talk to an agent or sales rep based on their preference.Why the old inbound process brokeBefore building the buying agent, our inbound process was fairly straightforward. A buyer filled out a form. The lead was routed to a business development rep, who qualified it and passed it to an account executive. That still works well when a team can talk to everyone who\u2019s interested in the product.\u00a0We had tens of thousands of inbound requests every month, and our inbound BDR team couldn\u2019t keep up. Reps spent their days answering questions the docs already covered, and we didn\u2019t have an effective way to reach all of the customers in the queue. This wasn't the experience we wanted for our customers.We wanted every customer to get a knowledgeable answer at any hour and in any language, and to be able to buy however they preferred, which often means without talking to a sales rep. We wanted our reps to spend their time on the conversations where they can change the trajectory of the outcome.A buying agent that closes the gapWe deployed the agent where customers were already asking questions: on our Contact Sales and Pricing \u00a0pages, inside the product, and in our emails. Any customer can find the buying agent within our Claude.ai product, it\u2019s a simple chat experience to help customers understand what plan is best for them. A customer describes what their team needs, the agent asks a few follow-up questions, and it then answers the ones about pricing, security and data before recommending a plan and seat count. Each conversation ends one of three ways:Purchase. The buyer goes straight to checkout.Hand-off. For larger or more complex deals, the agent passes the buyer to a rep along with the full conversation details.A quick answer. Sometimes that's all a customer needs.We built the agent to follow the same work of our sales reps, which means understanding what the customer is trying to solve, what their current Claude usage looks like, and how we can best help them.Why did we use Claude Managed Agents?\u00a0Under the hood, the buying agent is simple: a prompt, a handful of tools, and Claude, running on Claude Managed Agents. Because the platform takes care of hosting, session management and tool orchestration, our engineers spent their time with sales designing the buying experience instead of building the infrastructure.We ultimately landed on Managed Agents for the following reasons:\u00a0Fast to production. One engineer built the initial buying agent on Managed Agents in just a few weeks.\u00a0Tech &amp; non-tech contributors. Engineering owned the code, but sales and content leads reviewed and edited the system prompt directly in the Console. Changes went to our staging agent first, so anyone could try a tweak before it reached customers.Focus on the domain, not the harness. Managed Agents runs the agent loop, sessions and hosting. We spent our time on the prompt, the tools, and the knowledge base\u2014the three things that are specific to selling.Versioning makes iteration less expensive. Every change to the agent is saved as its own version. We were on v7 about a week into internal testing, and we kept shipping prompt changes weekly after launch. When needed, we could easily point new sessions back to a previous version.\u00a0Flexibility to support more use cases. Today, customers discover the agent on our website. Managed Agents supports scheduled runs, which gives us a path to explore other types of customer engagement.\u00a0What we learned building the buying agentGive Claude a goal, not rules. Explaining the goal of the agent worked better than a detailed list of instructions. For example, something as simple as \"Your goal is to understand customer requirements, qualify prospects, and recommend the best plan\" was more effective than listing out every qualification requirement in a flowchart.\u00a0Less is more. We experimented with prompts of varying lengths, complexity, and structure, and found the maxim of 'less is more' works best. Models today can understand complex, nuanced goals and work backwards from them. In practice, that has meant getting out of Claude's way by giving it the knowledge and context it needs to be successful, such as what seat-based pricing covers or when billing cycles run.Use SMEs in the development loop. This is something that is becoming increasingly valuable in a world where agent coding is speeding up development cycles. By virtue of saving time using Managed Agents and Claude Code, our engineers were able to spend more time with the sales team to shape a customer-centric experience . We were able to test the agent early and often, leading to quick iterations.Focus on what\u2019s right for the customer. The agent often points small teams to our Team plan instead of Enterprise, because that's the right answer for them in some cases. We decided that's a feature. A buyer who lands on the right plan instead of being upsold is more likely to stay and have a better experience.Treat every agent to rep escalation as feedback. Each time the agent passes a buyer to a rep, it explains why. Early on, most of those reasons were things customers couldn't yet do on their own with our self-service products. Those reasons shaped how we improve the experience, and the share of conversations that needed a person to help close the deal has fallen by about half.What changed for customers\u00a0The agent now holds thousands of conversations a day, around the clock. Customers get their questions answered instantly instead of waiting for a scheduled call or exchanging emails over multiple days. A lot of our customers actually prefer to talk to an agent rather than a human, because it can give them quick, informed answers as questions arise. Many of our new self-serve Enterprise customers talk to the buying agent before they buy, and we've found that those who talked to the agent beforehand had a better understanding of what they were buying.How the agent changed our sales organizationThe agent changed what our reps spend their days. We've now been able to focus the majority of the team's time and energy on educating customers earlier in their buying journey, having more live customer conversations and spending time in person at events.\u00a0The most impactful change has been that our reps now get more informed leads, convert leads to sales opportunities more often than our old contact form, and they close about five days faster.\u00a0 A rep starts the conversation already knowing what the customer needs, what they've been told, and how we can best help them.For example, one of our inside sales reps, Ojas, used to exchange about 10 emails to close a deal; now it takes about six. He\u2019s been able to 2.5x his output on closed won deals since launching the Buying Agent as it allowed him to focus on highly educated and ready customers who just needed help getting across the line.\u00a0Not long ago, inbound was a queue our team couldn't keep up with. Now it's a conversation any buyer can start at any hour, and our reps spend their time more efficiently. The buying agent is our first step toward agents across the whole customer relationship.Ready to build your own? Learn more about Claude Managed Agents, or talk to our team about bringing agents to your sales motion.This article was written by Carl Johnson, with contributions from Izzy Lee, Bobby P., Lina Ochman, Yana Gevorgyan, Jerico Johns, and Taylre Duarte.",
-    "fetched_at": "2026-10-22T16:37:18.782213+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620597+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -996,7 +915,7 @@
     "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "Today, Claude for Government is generally available for federal and state agencies. The platform, which delivers Claude's coding and agentic work capabilities through a FedRAMP High authorized environment, has been in public beta since July.\u00a0Agencies access capabilities comparable to Anthropic\u2019s commercial customers, without compromising compliance requirements. New capabilities generally arrive on the commercial release cadence.\u00a0Claude works directly with files on the desktop, allowing agency staff to use skills, plugins and projects for memo creation, RFP reviews, casework, and other tasks. With Claude Code, public sector teams can build and modernize the software systems that underpin public services.\u00a0Claude for Government governance controls are purpose-built for public sector agencies. Administrators can set configuration defaults as well as allocate and control spending across departments. Security teams and authorizing officials get audit logs and documentation that supports the agency ATO process. Procurement officers can contract with Anthropic directly and award on general-availability terms.The Claude Code command-line interface and Claude for Microsoft 365 are also rolling out in early access through the same environment and with the same administrative controls.Configuration view in the admin consoleBilling, administration, and oversightNo seat fees. Agencies pay for usage in fixed increments with a hard not-to-exceed cap, so spend does not exceed what an agency has obligated. Administrators define user tiers with spend and model limits per group, track usage by user and by model, and get burndown alerts before a balance runs low.Spend analytics view in the admin consoleAdministration that matches how departments are organized. Department-level administrators allocate prepaid usage to sub-agencies while each manages its own users. Agencies connect their own identity provider for single sign-on, with self-serve setup in the admin portal.\u00a0 SCIM group mappings set rate limits, dollar caps, and allowed models for each seat tier. Layered configuration sets defaults for sub-agencies, including what Claude can connect to and which features are available.Oversight by design. Administrative actions are recorded in an audit log that organization administrators can review. Sensitive operations on Anthropic's side require two-person approval. Usage exports are metering data only, so agencies can answer ATO and IG requests without moving sensitive material. Conversation history stays local on the agency-managed device.Getting startedClaude for Government is generally available to federal and state agencies today. Agencies do not need a separate cloud-provider relationship to get started. Existing customers can move to the desktop application and bring their conversation history with them through an in-app import.Our FedRAMP Secure Configuration Guide is available through Anthropic's trust center. The application deploys through standard agency MDM platforms.New agencies can request access at claude.com/solutions/government. To join the early access for Claude Code CLI or Claude for Microsoft 365, contact our public sector team.",
-    "fetched_at": "2026-10-22T16:37:18.782237+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620621+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -1005,7 +924,7 @@
     "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
     "published": "2026-09-29T00:00:00+00:00",
     "summary": "This is the third post in our series on building human-agent teams. The first shared what we\u2019ve learned working with multiplayer AI at Anthropic. The second shared how Slack turns workplace conversation into the context agents need. This one looks at what changes when agents operate on the same platform where teams work.Years before they introduced AI agents, teams at Asana were iterating on ways to encode structure and accountability into how teams work together. They ultimately built the Work Graph\u00ae model, which maps out every task, project, goal, and conversation on a web of relationships, with defined owners, contributors, and dependencies.\u00a0When they started building AI agents, they decided that rather than adding new context structures for AI, agents would operate within this same model. They would have defined roles, be assigned tasks, read and write messages, and show up in activity feeds alongside human collaborators\u2014with additional safeguards around what agents can access, and share.\u00a0We talked with Arnab Bose, Asana\u2019s Chief Product Officer, about how Asana\u2019s own teams use Claude and work alongside these agents, where Claude models power complex tasks: how each agent gets its role and access, who trains it, how work stays visible to everyone, and the types of jobs agents have on human-agent teams at Asana.\u00a0Think through and structure your work before agents act on itFor Asana employees, Claude is the default AI tool, connected to the platforms employees use to work, including Google Drive, Slack, and of course, Asana.\u00a0\"A person makes sense of their day by taking unstructured data, an idea they have, a conversation in Slack, a meeting recording in Zoom, a Databricks report, information from Google Docs,\u201d Arnab says. \u201cThey talk it through with Claude, and then they can pump all of that into the structure that Asana provides with projects and tasks.\" Once the structure is in place, agents can act on it, with the three capabilities we described in the first post of this series, Building effective human agent teams: persistent memory, their own credentials, and shared context.How to put this into practice:Start with your own ideas. Bring the unstructured pieces of your day, an idea, a Slack conversation, or notes spread across docs, to Claude.Debate and discuss with Claude. Use it as a thinking partner: talk the idea through until the next steps are clear.Log the actionable items to the Work Graph. Move what's actionable into projects and tasks, where agents and colleagues can pick it up.Give every agent a role and the tools and access it needsAsana employees can work with AI agents in any project like they would with a human colleague. Humans design the teams they work on; each employee gets a list of recommended agents they can use to augment their teams\u2019 goals.\u00a0Agents are built around roles or types of work, for example, content writer, insights analyst, project manager, work intake specialist, campaign analyst, or campaign coordinator. Each agent comes with pre-built skills based on Asana\u2019s research into how its customers do that work, and with the integrations they would need, such as Hubspot or a document drive.\u00a0Each agent also has a profile page that lists its name and purpose, the people who can use it, the administrators, instructions, skills, integrations, and permissions. Asana gives you the tools to make access intentional. \u201cAsana is a contained work surface,\u201d Arnab says. \u201cYou could choose to grant access to a specific set of projects versus everything, or a specific set of documents, or a combination of documents and apps.\u201dLike human users, agents are subject to explicit access controls, but have an additional safeguard: Asana says an agent\u2019s effective access is bounded by the permissions of the person who triggers it. This allows agents to have broad access to public content, while minimizing the risk of anyone accessing information the agent has learned in a private context.\u00a0\u00a0How to put this into practice:Define the role before you create the agent. Think about the types of jobs that agents can do on your team, then write down the agent\u2019s purpose, instructions, and which specific jobs it owns, the way you would for a new hire\u2019s first quarter.\u00a0Scope access. Decide which projects and documents the agent can read, which applications it can access, and which actions it can take.\u00a0\u00a0Name users and admins separately. Many people can work with an agent, but only a small, named group should govern what it can access and how it behaves.\u00a0Separate working with an agent from training itA key feature of Asana\u2019s agents, which it calls AI teammates, is shared memory, which enables an agent to retain information from previous instructions, allowing multiple users to reuse that memory to complete tasks or jobs faster. \u201cAI teammates can be coached and trained as if they were a person on your team,\u201d Arnab says.There is one role-based restriction in how shared memory works. While anyone can give an agent feedback on a task, only admins and editors can commit feedback to permanent memory, as well as undo, or delete from that memory. For everyone else, the feedback they provide applies only to the current task.\u00a0The split is intentional, Arnab says. Asana's communications team hold the pen on the company's voice and tone, so they would be the editors and admins of an agent that writes. Arnab can draft with it, but he can't modify its behavior. And most people never need to touch the machinery at all: \"Not everybody on the team needs to understand these concepts, like skills and behavior and memory. There are one or two people on the team who become experts, they set it up correctly, and all the other human beings on the team get the same benefits going forward.\"How to put this into practice:Decide who trains each agent, and who works with it. Identify subject matter experts inside your business who can help build the agents that the team uses. Everyone else can provide feedback on tasks, but cannot rewrite the agent.\u00a0Match editors to expertise. The team that owns the standard the agent applies, like brand voice or planning conventions, owns (or administers) the agent.\u00a0Build the memory as you work. Feedback can improve the agent with time. Ask the agent to remember decisions worth keeping, or delete ones that are no longer relevant or true.\u00a0Keep the agent\u2019s work where everyone can see itSimilar to how agents in Slack post transparently in channels, when a task is assigned to an AI teammate everyone can see that an agent is doing it, and what it does. The agent posts activity, including its research plan and the steps it took, so everyone with access to that task can read what it did, comment, and steer it toward the result they want.\u00a0When Asana\u2019s communications team asked Arnab to review a briefing document for a speaking engagement, he @-mentioned the agent on the task and asked it to also factor in his talk track from an earlier talk. The message was brief because he had used that agent many times and the material he referenced was already in the Work Graph. A colleague on the communications team could see his request and the agent\u2019s response, and go back and forth with the agent at the same time.\"You could probably get great quality responses from a one-on-one AI agent if you are highly AI fluent, get that document out, and post it back into Slack or into Asana,\" Arnab says. \"But at that point, the other human beings who are reviewing that content don't know what the prompt was and what the back-and-forth was. If they disagree with some of the guidance you provided, that's impossible for them to get aligned on.\" On a shared task, the request, the pushback, and the output are in one place, and the people reviewing the output can also revise the instructions that produced it.How to put this into practiceBring in agents where your team reviews work. This way, the request, the agent\u2019s steps, and the results are in one place, and reviewers can change the instructions or the output.Make agent work visibly agent work. This way, people will know the work is being done by an AI agent rather than a human colleague.Enable reviewers to coach the agent\u2019s work. Asana\u2019s agents post their plan and steps in the shared task, so other reviewers can provide further instructions or feedback.Three jobs Asana has handed to agentsClaude powers any agentic work that generates documents or runs complex tasks at Asana. Here are three examples from different teams across the company:\u00a0Answering product questions from a Slack channelAs Asana launches features, sellers and customer success staff can ask questions in a shared Slack channel. Before AI teammates, the same questions were posted repeatedly and subject-matter experts were @-mentioned each time. A searchable knowledge base wasn\u2019t a practical solution, Arnab says, because the answers are nuanced and they change. \"You kind of need to have some amount of taste-making around what is the current state of the product,\" he says.Those questions still go to Slack, because that's the simplest place for the field to ask. Now, an Asana app in the channel turns each question into an Asana task, and an agent picks it up. If approved guidance exists, the agent replies with source links. If there is no approved answer and the question points to a gap in the product, the agent creates a task in the product team's intake project and adds it to the backlog. And if the same question keeps coming up and the agent keeps posting the same record, it creates a task for the enablement team to update the training material and documentation.\u00a0This process frees up valuable time for the enablement team to focus on strategic, higher priority work, while also informing other areas of the business. For example, if there are a lot of questions on a particular topic around a new product, that\u2019s a signal for the enablement team to focus on it with extra training or information.\u00a0Briefing executives on at-risk renewalsAsana's Chief Customer Officer, Josh Abdulla, used to produce a weekly at-risk renewals briefing for the executive team based on updates from customer success managers (CSMs) who flagged at-risk renewals and updated accounts as conditions changed. Across thousands of customers globally, the volume of updates made it impossible to stay current without a dedicated person synthesizing them, which was tedious work, and it made the process reactive. \"Josh knew about problems when leaders told him, not when the data first showed it,\" Arnab says.The customer experience organization built an agent AI teammate in Asana called At-Risk Renewal. It reads every at-risk renewal task across the global portfolio, including each CSM's updates, status notes, and comments, and generates a structured daily digest organized into three buckets: positive momentum, negative momentum, and recommended follow-ups. It runs a global view first, then cuts by region, and pushes the digest automatically each morning to the Chief Customer Officer, the Chief Revenue Officer, and every regional customer success leader. Because the digest lands in a shared space, those leaders can ask follow-up questions, such as what the leading indicators were behind a particular account's churn forecast, and coach the agent to remember things for the next run, so the report improves each morning.\"They could probably have Claude generate a report for themselves,\" Arnab says. \"But how do we get to the place where there's standardization of the report, there's a shared workspace, and it keeps getting better with every single run?\"Planning engineering cycles with CommandWhen Asana ran automated coding loops on its own product, its cycle times and releases slipped, because the cycles were getting bloated by automatically generated changes. The loop itself has become common at software companies: gather customer feedback from various channels, synthesize it, and trigger coding agents to turn it into pull requests (PRs). \"Code generation is now no longer the bottleneck,\" Arnab says. \"The bottleneck is around planning, decision-making, and refinement.\" Asana's engineering organization now runs on Command by Asana, a product for managing large engineering teams, and uses it to manage that loop.In Command, a team space holds a group of 10 to 12 engineers who work on one product. Agents populate the team's unplanned board with tickets pulled from customer feedback and from comments in the team's feedback channel in Slack. People decide what moves from that board into the cycle, and Command predicts time to completion for the cycle with optimistic, balanced, and conservative estimates.\u00a0A ticket can be assigned to a person or to a coding agent, and because the cycle data is all in one place, a manager can ask in chat why a release is off track and what tradeoffs would bring it back. Command answers from the data with what's driving the signal and which changes to trade. All of it is exposed through Asana's MCP server, the connection that lets an assistant like Claude read it, so someone like Arnab or his CTO counterpart can ask Claude what's on track without opening Command.\u201cHumanity thrives when teams can work together effortlessly, and today every team is part human, part agent,\u201d Arnab says. \u201cThat\u2019s the kind of work we design for: one shared context that both humans and agents can work from, with a distinct identity for every agent so its contributions and access can be audited, and a durable record of what agents can learn so the team\u2019s knowledge compounds instead of evaporating.\u201d",
-    "fetched_at": "2026-10-22T16:37:18.782308+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620674+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -1014,7 +933,7 @@
     "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
     "published": "2026-09-28T00:00:00+00:00",
     "summary": "NVIDIA today announced the Open Agent Safety Platform, an open software platform and reference system design for strengthening AI security. Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack.\u00a0Claude Managed Agents, a suite of composable APIs for building and deploying production-grade agents at scale, holds the credentials an agent needs in a vault so the agent never sees them. Open source NVIDIA OpenShell software is designed to control what the agent can execute and reach while it works. Customers who are using Managed Agents with OpenShell can limit what an agent can do, review what the agent did and confirm that the limits are in place.\u00a0Companies are moving from using AI to answer questions to deploying agents that handle complex work across business units, use proprietary data and take actions on behalf of users. As models improve, agents find more uses and get more access. The more access an agent has, the more its company needs to control and check what it does.\u00a0Protection in layers\u00a0Protection starts with safeguards inside the model. Managed Agents and NVIDIA Open Shell add limits that sit outside the model and apply to what the agent does. Each layer is designed to enforce its limits independently, so protection doesn't depend on any single layer. The layers are modular, so companies can adopt the ones that fit their setup.\u00a0Claude Managed Agents does the work and holds the credentials\u00a0With Managed Agents, the agent loop runs on a separate server from the sandbox, the isolated environment where the work happens. Credentials, meaning passwords and access keys, are held in a separate vault, so the agent never sees them.\u00a0Managed Agents also provides audit trails, which record what each agent did, and integration with a company's existing access controls. Companies can bring their own sandbox setup and choose where and how it runs.\u00a0NVIDIA OpenShell sets what an agent can reach\u00a0OpenShell is open source secure runtime software from NVIDIA. It governs and monitors all AI agent behavior and enforces policies for every action. OpenShell blocks everything unless a rule allows it. It checks each tool an agent tries to use and applies rules to the files, network connections and data the agent accesses. The rules are enforced outside the agent, and OpenShell logs every decision it allows or blocks.\u00a0Teams can start with narrow permissions, review the log, and use Claude to tighten the rules toward the least access a task needs. OpenShell's policy prover then uses mathematical proof to confirm what the agent can reach under the rules the team wrote.\u00a0What Claude Managed Agents includes\u00a0Production-grade agents with secure sandboxing, authentication, and tool execution handled for you.\u00a0Long-running sessions that operate autonomously for hours, with progress and outputs that persist even through disconnections.\u00a0Multi-agent orchestration, where agents can spin up and direct other agents to parallelize complex work.\u00a0Trusted governance, giving agents access to real systems with scoped permissions, identity management, and execution tracing built in.\u00a0How teams use Managed Agents\u00a0Notion lets teams hand work to Claude inside their workspace. Engineers use it to ship code, and other employees use it to produce websites and presentations. Dozens of tasks can run in parallel while the team works on the results together.\u00a0Rakuten runs specialist agents across engineering, product, sales, marketing, and finance, each deployed within a week.\u00a0Asana built AI Teammates, agents that work alongside people in Asana projects, take on tasks and draft deliverables. Using Managed Agents, the team added advanced features faster than it could have otherwise.\u00a0Availability\u00a0Managed Agents is available today. It can operate in a sandbox you control either running on your own infrastructure, or with a managed provider. NVIDIA OpenShell is open source under the Apache 2.0 license and available on GitHub and NVIDIA's developer resources page.",
-    "fetched_at": "2026-10-22T16:37:18.782332+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620699+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -1023,7 +942,7 @@
     "url": "https://claude.com/blog/build-plugins-for-claude",
     "published": "2026-09-25T00:00:00+00:00",
     "summary": "Every day, millions of people connect Claude to their apps, work tools, and data. Today, we're making it easier for developers to reach them. Plugins package MCP connectors, Agent Skills, or both, and are the main way to build third-party extensions for Claude. Build a plugin, submit it through the new directory submission portal, and once approved, it's listed in the Claude directory.\u200dSubmit and track plugins in the directory submission portalThe directory submission portal is open to developers on paid Claude plans. There are two ways to submit and get your plugin published in the Claude directory:Single MCP connector: point to your remote MCP server.Plugin bundle: combine MCP servers and skills, host them on GitHub, and submit the repo. In Claude Code, plugins can also include LSPs, commands, hooks, and agents.\u00a0Whichever path you choose, the portal will guide you from submission to launch. You can:Auto-validate your plugin. Each submission is checked and safety-scanned as soon as you submit, so you catch issues early.Review status and feedback. See where your plugin is in the review process, results from the safety scan, and recommended changes.Publish when you\u2019re ready. Once approved, you decide when to publish your plugin in Claude.Stylized view of review status and recommended changes for a plugin. Data is illustrative.Monitor and improve your plugin once it's publishedOnce your plugin is live, usage analytics show installs by product surface and version, so you can prioritize fixes and features for your users. On the discovery side, you\u2019ll see how often your listing is viewed and which searches lead people to it, so you can refine it to reach new users.Stylized view of usage metrics for a published plugin. Data is illustrative. Bring a rich experience to users with MCP 2.0 and its extensionsClaude supports the latest MCP spec, commonly referred to as MCP 2.0, which includes a stateless core. You can improve the experience of using your plugin with two MCP extensions: MCP Apps, for interactive UI inside chat, and Enterprise Managed Auth, for zero-touch OAuth for enterprise users. Support for more MCP features and extensions is coming soon.Start building plugins for ClaudePlugins are the main way for third-party developers to create extensions for Claude. Over the coming weeks, one discovery experience will roll out across Claude and Claude Code. Skills and MCP connectors stay as building blocks, and the Claude directory will continue to list them. In the future, developers will be able to turn their connector listing into a plugin. If you have an existing skill, connector, or plugin on the Claude directory, you do not need to make any changes.To get started with building plugins, read our docs for how to build a plugin and submit your plugin here.",
-    "fetched_at": "2026-10-22T16:37:18.782360+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620726+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -1032,7 +951,7 @@
     "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
     "published": "2026-09-24T00:00:00+00:00",
     "summary": "We estimate Claude Opus 5.5 costs about 40% less to run than Opus 5 for typical workloads billed by token. For developers, exactly how those savings stack up matters.\u00a0If you pay by the token, you will see the greatest cost difference for longer-running, higher context sessions\u2013the exact type of Claude Code sessions that have become more prevalent in the last six months.\u00a0This post will dive into the mechanics of what makes Opus 5.5 cost effective for how developers are coding today (and likely tomorrow).Claude Code trendsWe've pulled aggregate data on how developers have been using Claude Code from March to September 2026. As model capabilities improve, developers have been deploying agents in increasingly sophisticated ways. The number of prompts per session has been steady, but we found some interesting behaviors:Claude works 3.3x longer on each prompt with more than 40% more model calls per prompt. There are 68% fewer interruptions.Developers are about twice as likely to have a tool server connected or use a skill and a third less likely to paste text into a prompt.Context per request has grown 2.6x. The input to output token ratio moved from 189:1 to 324:1.All of this points to developers aiming a harder working, better informed Claude toward bigger, more open-ended tasks. For these types of sessions, the economic impact of context engineering is compounded.\u00a0Simply put, Claude reads more tokens. You need to make sure all the context you are providing is necessary, and that as much of that context as possible is reading from cache.\u00a0What makes Opus 5.5 cost effective for long, context heavy sessionsThere are three changes that make long-running, context-heavy sessions more cost effective: changes to pricing, model behavior, and the Claude Code harness. Let\u2019s look at each.Cache is cheapFor usage billed by the token, we reduced the cost of input and output tokens 20%, and we dropped the price of reading a cached token 60%. The latter reduction is significant because cache reads make up the majority of agentic and coding work costs.\u00a0And as we just discussed, context per request has increased roughly 2.6x in six months, which means savings are trending in the right direction. The same price change for those billed by token saves more on today's Claude Code traffic than it would have six months ago, because more of the bill is now re-read context.\u00a0As of the publication date, a cached token on Opus 5.5 costs a fifth of what it does compared to competing models while outperforming them.Claude Code is better at using the cacheThis is less specific to Opus 5.5, and more the result of many of the Claude Code features we\u2019ve added in the last six months. Given the coding session trends we just discussed, you would expect a higher rate of cache misses, but the opposite is true. Input that misses the cache decreased by more than 50%.\u00a0For example, we made it harder to unintentionally break your cache with smaller papercuts like refreshing a login. We also made it harder to break with larger actions, like adding instructions mid-conversation or loading tools on demand. For newer models like Opus 5.5 and Fable 5.1, you can now change effort levels during your sessions without resetting your cache.We also made the cache more useful for longer-running and delegated sessions. Developers on API keys and cloud providers can now set a one-hour cache lifetime (which subscribers already had) and forked subagents start from the parent's cache instead of paying for the same context again.\u00a0The same task, but with fewer turnsOpus 5.5 can need fewer turns than other models to accomplish the same task. Zeta Labs saw fewer turns and tool calls per task than Opus 5, but at nearly half the cost and twice as many of their hardest tasks completed.This won't hold for every task. In The cost of a task on Opus 5.5, Addy wrote, \"On a well-scoped task, both models finish in about the same number of turns, and the price cut is all you get. The gap should be biggest on open-ended tasks, where a model can spend many turns on the wrong idea. No single number holds for every codebase, so measure it.\"In other words, simple, short, and mechanical tasks will take the same amount of turns while longer, harder tasks have more potential for Opus 5.5 to avoid burning tokens on the wrong approach. A reduced turn is even more cost efficient than a cached token.Also worth noting, especially as Claude works longer unattended or uninterrupted, is that Opus 5.5 generates output more than 30% faster than Opus 5. While this doesn\u2019t increase cache hit rate or use less tokens, it means waiting less on long runs.Protect your cached readsAs agentic coding has matured, organizations have shifted from asking developers to scale at all costs to asking developers to scale efficiently. Run /usage in Claude Code to see how much of your usage is cached reads. Then protect that number:\u00a0Pick your model at the start of a session rather than switching midway,\u00a0Compact before you step away rather than after, and\u00a0If you're on an API key or cloud provider, set the one-hour cache lifetime for long sessions.\u00a0Point Opus 5.5 at the open-ended, context-heavy work where those habits compound, and see What a task costs on Opus 5.5 for the worked numbers.",
-    "fetched_at": "2026-10-22T16:37:18.782391+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620759+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -1041,34 +960,7 @@
     "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
     "published": "2026-09-24T00:00:00+00:00",
     "summary": "Claude Tag (beta) lets you add Claude to a Slack channel, where it works alongside your team. Until now, Claude could only use the connectors an admin attached to the channel, and most organizations keep that list short on purpose: they want access to follow the person, not the channel.\u00a0Now Claude can use your own connectors for a request you make in a channel. For example, your calendar, your drive, your assigned accounts on the CRM, or your staging deploys. If you have connected it to your Claude account, you can access it in the channel.\u00a0You decide how information is surfaced from when you ask Claude to access your connectors. You can review each response before it posts. Alternatively, you can use auto mode to post automatically unless Claude determines there is sensitive content that needs your review. On\u00a0 Enterprise plans, admins will be able to require review for everyone. Personal connectors provide admins more governance options. They can provide access to a shared set of tools under an agent identity, have channel members only use personal connectors to rely on existing role-based access, or decide tool by tool.\u00a0Personal connectors in Claude Tag are rolling out now on Team plans, with Enterprise to follow.\u00a0Using personal connectorsMost of what people need in a channel sits behind their own login: a time that works on your calendar, your open deals, a plan only you can open. Now you can ask for those in the channel too.For example, here's Priya in #checkout-migration, a channel connected to GitHub. She asks: \"@Claude check my Google Drive doc 'Checkout migration, Q3' against what we've shipped. What's still open?\"Priya asks Claude in #checkout-migration to check her plan against what shipped. The channel reaches GitHub. Only Priya can open the doc.Claude reads the merged pull requests through the channel's GitHub connector. The doc is one only Priya can open. Before, Claude would have stopped there.\u00a0Now Claude reads the doc through Priya's Google Drive connector, separately from the channel's work, and posts what shipped and what's left. Priya's plan isn't sensitive, so she uses auto mode and Claude screens the comparison before it posts. For a document she'd rather check first, she can switch to review mode and see the response before the channel does.The same thread. Claude's reply with the comparison, and the review prompt showing what will post before it does.Everything Claude does through your connector appears in that tool's own log under your account, the way your direct-message work does today. The channel's own work stays under its service account, the one your security team already follows.You decide what Claude reaches and what the channel sees, the same as when you use your connectors in a direct message, and you can disconnect a connector at any time.Where the channel's own connectors still matterPersonal connectors don't run unattended. Scheduled routines, and anything Claude starts on its own, use the connectors an admin attached to the channel. Tools that are needed for unattended actions, or actions the entire channel relies on, should use shared connectors.\u00a0For example, you may want to add Claude to your #on-call channel to help with CI triage and response. Claude can identify and help remediate issues (even after work hours) if you set up shared connectors to your runbook, monitoring tools, and deployment history.A channel that solely relies on personal connectors suits closely supervised work. For example, collaboratively drafting an RFP response may require pulling data from pricing or other sensitive sources that are not provisioned to the entire channel. Anything Claude posts is visible to everyone in the channel.What's nextThere's nothing to install. When a request of yours needs one of your connectors, Claude asks you the first time, then uses it in the thread.Ask @Claude in a channel for what only you can reach. Learn more about Claude Tag.",
-    "fetched_at": "2026-10-22T16:37:18.782412+00:00"
-  },
-  {
-    "source": "Anthropic (unofficial mirror)",
-    "source_type": "rss",
-    "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-    "url": "https://claude.com/blog/claude-marketplace",
-    "published": "2026-09-23T00:00:00+00:00",
-    "summary": "Starting today, the Claude Marketplace brings plugins and connectors, agents and products, and service partners into one place. For customers, it provides a single destination to find the right tools and services. For builders and partners, it offers an easier way to reach teams using Claude.For customers: discover tools and services to help you do more with ClaudeThe Claude Marketplace is where teams find what they need to expand how they use Claude. You can:Add connectors and plugins. Choose from more than 2,000 available today, including Atlassian, Google, Microsoft, Notion, Salesforce, and more.Buy agents and products. Use a portion of your committed Anthropic spend on Claude-powered software from companies like CrowdStrike, Cursor, Harvey, Legora, Lovable, and Snowflake.Scale with service partners. Connect with a consulting partner or system integrator from the Claude Partner Network, such as Accenture, Boston Consulting Group, or Deloitte, to build your AI strategy and roll Claude out across your organization.For builders and partners: get discovered by teams using ClaudeCompanies that build tools, products, or services for Claude customers can be listed in the Claude Marketplace. Pick the path that fits what you offer:Building for teams that use Claude? Create a connector or plugin using the Model Context Protocol (MCP) and Agent Skills, the open standards pioneered by Anthropic.Selling a Claude-powered agent or product? Apply to list it on the marketplace. Teams can then use a portion of their committed Anthropic spend to buy it.Offering consulting or systems integration? Join the Claude Partner Network to appear in the marketplace, where Claude customers can find and connect with you.",
-    "fetched_at": "2026-10-22T16:37:18.782428+00:00"
-  },
-  {
-    "source": "Anthropic (unofficial mirror)",
-    "source_type": "rss",
-    "title": "How to prepare for AI-driven code modernization projects",
-    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-    "published": "2026-09-23T00:00:00+00:00",
-    "summary": "In our Notes from the Field series, Anthropic forward deployed engineers share best practices inspired by real customer deployments. In this article, we share our experience managing large code modernization projects.Code modernizations once scoped as multi-year, all-hands efforts can now finish in months (or weeks), but the organizational work on either side often remains the same.\u00a0For example, every change to a critical banking system must go through change management, review, and approval. It is a robust process because regulators, auditors, and the business require it.\u00a0Those processes are what make critical systems trustworthy, and they were built on the assumption that a human wrote each change and a human would review each diff. Once agents accelerate writing the changes, the bottleneck shifts from producing changes to mobilizing the organization around them.This article covers the work enterprises must do before the modernization takes place: defining what done means, what evidence a change must carry, how certified changes will reach production, and what has to be staged so the run can start.\u00a0We break this process into six steps:Define the target: the tech stack and behavior the modernized code must have.\u00a0Create the certificate: the conditions that the changes must meet to be considered correct in the target state.\u00a0Set the promotion policy: the path by which certified changes get into production at the rate they\u2019re produced.\u00a0Put the prerequisites in place: environment, CI/CD, review capacity, and approvals.Build and refine the agentic workflow: the custom Claude Code dynamic workflow that distributes the modernization across many smaller parallel subagent workstreams that produce the changes. This is built around the target, certificate, and promotion policy.Run the modernization: prove the workflow end to end on a small partition of the codebase, then scale.\u00a0Step 1: Define the targetThe target is the end state of the modernization. The desired end state determines which of the three kinds of modernization you are doing, detailed in the table below.\u00a0Determine the modernization type\n\n\n\n\n\n\n\n\n\n\n\nType\nWhat it is\nChoose when\nThe target is\n\n\n\n\nUplift\nSame-stack version bump (e.g., C++11 \u2192 C++20).\nThe stack is fine but the version has fallen behind: end-of-life runtimes, unpatched security issues, dependencies you can no longer upgrade.\nA runtime version and package set.\n\n\nTransform\nCross-stack rewrite that keeps behavior fixed (e.g., COBOL \u2192 Java).\nThe stack is the problem to resolve and the behavior is trusted.\nEverything needed for an uplift, plus the language, frameworks, and architectural conventions the new code must follow.\n\n\nReimagine\nGreenfield rebuild on a new architecture with modified behavior.\nThe behavior needs to be changed alongside the code.\nEverything needed for a transform, plus a written behavioral spec for the new system.\n\n\n\n\nDetermining which type of modernization to do is often debated inside an organization. In our experience, the people closest to production want the stack swapped with behavior held constant to contain risk (transform modernization). On the other side are often the engineers who have lived with the codebase and want the modernization to pay down tech debt, plus other business stakeholders who want to take the opportunity to name new requirements (reimagine modernization).\u00a0Both positions are reasonable, but if the question is left unresolved it resurfaces later as an argument over whether a given change is \u201ccorrect.\u201d Building consensus on which path to take adds initial friction, but streamlines the project as a whole.Map the codebase and create the behavioral specUnderstanding the current system is often a good first step for defining the target. Extracting what the old code actually does and creating an inventory of current behavior makes it easy to decide if parts should be changed or dropped, and so whether the modernization is a transform or a reimagine. This also often reveals unknown business logic and edge cases.\u00a0Claude can do much of that discovery by mapping dependencies and documenting workflows that nobody remembers building. The code modernization plugin\u2019s assess, map, and extract-rules commands mine business rules with source citations that engineers can then review.\u00a0However, Claude\u2019s discovery alone may not capture how a legacy system fully behaves. Interviews with business users and developers, and internal documentation, can fill those gaps. Context gathering may take some time upfront, but the quality of that context shapes every decision the workflow makes later.For a reimagine, defining the target requires additional work: a detailed behavioral spec should be written down and agreed with user groups.An interactive dependency map example from the code modernization plugin.\u00a0Establish the project\u2019s justification and goalsAlongside defining the target, the organization should consider why the modernization is worth undertaking at all. Modernizing legacy systems can reduce ongoing maintenance and operational costs, however, in our experience, cost reduction has not been the driving goal of most modernization projects.Risk reduction is often the most important modernization benefit. Consider the risk of not doing the modernization when debating whether or not to undergo the project.\u00a0For example, a system carrying unpatched vulnerabilities can mean a cyber breach or an outage severe enough to put the business itself at risk. An unsupported runtime or a shrinking pool of engineers who understand the system exacerbates the risk.\u00a0Agentic coding tools like Claude Code have shortened modernization timelines, but budgets are still hard to estimate, which leads to inertia. We have released the costs of some of our large-scale modernizations as have others. These can serve as a rough baseline, and we have additional guidance on budget projections at the bottom of this guide.\u00a0The main challenge in initiating these projects is usually building the internal consensus and commitment from the teams that own the system, and the teams that depend on it. Building the business case and setting the goals of the project, often at the leadership level, make this part of the process easier. This also helps anchor the tradeoffs in the certificate and promotion policy that follow. When stakeholders disagree over how much risk a change can carry, the risk of not modernizing is the counterweight.\u00a0Step 2: Define the certificateThe certificate is the set of conditions or tests that every modernization change must meet. Pick the conditions that give the strongest cumulative evidence that the change is correct against the target.\u00a0Each condition should be checkable without a human in the loop, so the agentic workflow can iterate on a change until it meets the certificate or flag it for human review if it can\u2019t.\u00a0What goes into the certificate depends on the target, but will usually draw from this list:The original test suite passesClaude-authored tests written during the modernization all passTest coverage meets an agreed thresholdPerformance benchmarks stay within an agreed boundIndependent adversarial reviews by Claude, each in a fresh context window, find no blocking issuesFor user interfaces, Claude-driven computer use finds no regressionsCurrent and target versions produce the same output from the same input, which can be live, recorded, or Claude-generatedPersisted state and wire formats round-trip between current and target versionsChanges run in staging for an agreed period with no regressions in error rates, latency, or alertsStatic analysis and security scans show no new findingsFor compiled targets, the build is clean and type checks passWrite the certificate with the people who will review and promote changes into production. Bring in the developers, user groups, and business leads who depend on the codebase now, while the certificate and agentic workflow are still being designed.\u00a0Their expertise shapes what the certificate measures, and their early involvement is what earns their buy-in when changes reach review. A good check on the finished certificate is whether they would be comfortable merging on the certificate's evidence alone. If they see their own bar in it, the promotion policy in Step 3 can be lighter.\u00a0What the certificate checks against, and how, depends on the modernization type.\u00a0For an uplift modernization, parity is against the original codebase, and the original test suite can be the core of the certificate.\u00a0For a transform modernization, parity is also against the original codebase, but the original test suite rarely runs on the new stack. Replay of production traffic, differential testing between old and new, and a prod-parallel deployment do most of the work instead.\u00a0For a reimagine modernization, the certificate is anchored in the behavioral spec. This is the hardest case. A spec is less objective than an existing system to diff against, so a larger degree of model judgement is involved, which can lead to more variable outcomes. Here, the certificate leans on tests written from the spec, independent adversarial reviews by Claude that check each change against the sec, and differential checks where the new system keeps the old one\u2019s behavior. Expect to revise the certificate as the spec is clarified: gaps in the spec show up here first.Older systems often have thin test coverage, flaky tests, and little telemetry. Part of defining the certificate is identifying these gaps. If it will be difficult to support a strong certificate, one of the most useful things to do at this step is to use Claude to build the missing evidence, whether that\u2019s standing up a prod-parallel setup, building a replay harness, or writing more tests.\u00a0Step 3: Set the promotion policyAgents will produce changes far faster than any human team can review them diff-by-diff. The promotion policy is a tiered review path\u2013written down and agreed in advance\u2013that sets the depth of human review for a change, so the modernization can finish on an acceptable timeline.\u00a0Like the certificate, work this step with the reviewers, and fit it into your organization's existing change-management process wherever you can. The details will differ by organization and the risk tradeoffs it faces, but a few rules hold everywhere:Tier changes by blast radius and agent confidence. Use your organization's own change or risk classification if it has one. Keep full human review for critical paths.Fix recurring flags at the source. Group and analyze the flagged changes over time. When the same kind of flag keeps recurring, fix the cause in the agentic workflow or the certificate rather than reviewing each one.Design the output format with the reviewers. Agree on what information and format make review the fastest, and what signals give more confidence than others. Have them review early sample outputs in Step 5.Allocate SME time effectively. SMEs won't read every final diff, but their judgment is still the scarce input. Make it easy for them to go straight to the changes in the highest-risk tiers, and to the flagged agent decisions within each one, without wading through large diffs. A small number of expert hours then covers the changes that carry the most risk.Many of these rules front-load SME hours by engaging them early in the project. Their feedback tunes the certificate and the agentic workflow before the full modernization begins.Their sign-off on the samples also becomes further justification for a lighter review path where there is high confidence. This is the reverse of the traditional, non-agentic pattern, where review happens at the end.The path of a change from generation to production.The promotion policy should also reflect where the modernization sits on the spectrum between speed and review depth. A modernization racing to a hard deadline, such as a runtime losing support, needs a faster policy with lighter human review and an explicit agreement to accept more risk per change.\u00a0A modernization on a longer timeline can afford deeper human review and a slower cutover. Stakeholders will land on different points of this spectrum depending on their risk appetite and constraints so it is worth locking in before the work starts.In a regulated environment, taking a lighter human review path for any change can cause real discomfort. Individual approvers hesitate to sign off because they carry the risk of a bad change, while leadership carries the larger risk of an aging system.\u00a0In our experience, it is best to have the directive for the promotion policy come from the top of the organization. It is also better to agree on it beforehand so responsibility for a bug that reaches production is shared, not pinned on whoever approved the change.All of this still depends on a certificate detailed enough to serve as real evidence, and on reviewers who understand how Claude arrived at a change well enough to trust it.\u00a0Step 4: Put the prerequisites in placeMuch of this step runs through teams outside the modernization: platform or infrastructure for the host, QA or release engineering for test capacity, security and compliance for approvals. Each of those teams often has its own backlog or approval process, so open the conversations early, as soon as you have identified the requirements, often while Steps 1 through 3 are still underway.EnvironmentA dedicated remote host for running the workflow with the codebase and other relevant sources reachable by ClaudeTest capacity as required by the certificateAnything that strengthens the certificate: production telemetry, a prod-parallel setup, or production data for replayCodebase and CI/CDA dependency map of the codebase, grounded in build and compile logs; import analysis; or runtime traces. Note: The plugin\u2019s map command is a good starting point, but depending on the size and age of the codebase, more extensive upfront work may need to be donePlanned treatment of any dependencies or packages, as part of the target definitionA compatibility check ready to add to CI/CD, if neededAn agreed code-freeze policy, if you are modernizing in placeA communication plan for active developers covering any code freezes and new compatibility requirementsTeams and reviewAgreement from other teams that depend on the codebase on how they take part, like signing off on the certificate or reviewing under the promotion policy, with reviewer time set asideSecurity and complianceA model access path for Claude Code approved for source codeLeast-privilege access for the agentic workflow: write only to modernization branches and no production credentialsSecrets and PII scrubbed or masked from the modernization branchEvery change traceable and PR linked to an agent transcript and certificate evidenceLicense and vulnerability checks on new dependenciesStep 5: Build and refine the agentic workflowUse Claude Code to develop a customized dynamic workflow for modernizing the codebase.\u00a0We recommend starting with the code modernization plugin, and putting everything the workflow may need on the file system or over MCP, where Claude can reach it. This includes the target, certificate, promotion policy, codebase, documentation, and whatever data sources or tooling the certificate requires. You can give this article to Claude as context too. This forms the central knowledge base for the project.With that in place, building the modernization workflow is the easy part. Have SMEs review Claude\u2019s work as needed, including any codebase-specific skills or extracted rules before anything downstream relies on it.\u00a0Refine what you've built by applying it to small parts of the codebase, with SMEs reviewing the changes it produces, the agents\u2019 process, and the evidence the certificate was met.\u00a0You should modify the workflow, not each change, when issues surface. The goal is confidence that, once scaled, changes will meet the certificate almost everywhere and reviewers will be comfortable merging under the promotion policy.\u00a0Step 6: Run the modernizationFirst, complete the modernization end to end on a small part of the codebase, including reviewing and landing the changes through the promotion policy. Fix anything that doesn\u2019t work while it\u2019s still cheap, repeat the process until you are confident, then scale to the full codebase.\u00a0While transform and reimagine modernizations involve building the target alongside the existing system and cutting over once complete, an uplift has a second option: modernizing in place on the live codebase while development continues.\u00a0This is the usual choice when the system cannot be down, or when the codebase changes so quickly that it\u2019s difficult to keep a separate modernized copy up to date. What we have seen work in this case is splitting the codebase into logical partitions from the leaves inward; freezing and modernizing one partition at a time; and gating CI/CD so new commits cannot undo a partition once it has been modernized.\u00a0A note on costWe often get asked what a modernization like this will cost in tokens. Each modernization effort is different, but the main cost drivers include:How much of the codebase has to be read versus changed;How involved the certificate is (verification, not writing the change, is usually the larger share in a regulated environment);How much new test writing and test repair the certificate demands; and\u00a0How much reconciliation work comes from other teams merging around you while the run is in progress.When completing the modernization on a small part of the codebase, measure token-usage and use that to extrapolate for the rest of the run. Treat anything the pilot couldn\u2019t see, such as reconciliation on a live codebase, as an unknown. This way you can get an estimate for the cost floor for the full modernization.\u00a0Measurements from the pilot also show where to optimize your agentic workflow for cost. Find the parts of the workflow that consumed the most tokens and consider how to make them more efficient. Move compute-heavy verification signals behind cheaper gates so they only run once easier checks have passed.\u00a0Consider using models like Sonnet that balance cost and capability for the mechanical, high-volume work the certificate fully checks. Keep more intelligent models for hard transformations and the adversarial reviews that verify correctness.\u00a0You can also escalate to a more expensive model when a less expensive one fails to meet the certificate, but analyze retry rates carefully while piloting, since several cheap attempts can cost more than one expensive one. If you give Claude access to both the workflow and the pilot data, it can do much of this analysis with you.\u00a0Beyond the modernizationThe modernized codebase is one output. The others are the workflow that produced it, a written certificate for what counts as correct, a promotion policy your change-management process has already accepted, and an evidence trail for every change that landed. Codify the playbook as a reusable asset, so the pattern is already in place for the next upgrade or rewrite.Our forward deployed engineers work through these steps with customers on their most critical systems. If you're preparing a modernization, talk to our team.Additional resourcesThe public codemod plugin for Claude CodeThe AI-Native SDLC playbookCode modernization playbookCOBOL Modernization with AI: Breaking the Cost Barrier",
-    "fetched_at": "2026-10-22T16:37:18.782531+00:00"
-  },
-  {
-    "source": "Anthropic (unofficial mirror)",
-    "source_type": "rss",
-    "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-    "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-    "published": "2026-09-23T00:00:00+00:00",
-    "summary": "Companies building with Claude also rely on other software to get the work done, like Snowflake to store and analyze their data or Vercel to run their apps. Claude Marketplace lets companies with an Anthropic commitment put part of it toward tools their teams already rely on, so one investment covers more of what their teams use every day, without a new budget request.Here's how CodeRabbit, Power Digital and ThoughtSpot used Claude Marketplace to expand their work with Vercel and Snowflake.Power Digital runs its clients' data on SnowflakePower Digital is a marketing agency that builds Nova, a platform for its teams and clients. Clients connect their data through Nova, which runs on Snowflake and powers reporting, in-house tools and models that improve marketing performance. Snowflake lets Power Digital set up secure data environments for each client quickly, and with Snowflake Cortex AI it runs models like Claude directly on that data within their existing governance framework.Claude now runs across Power Digital, from client deliverables and finance operations to the models built into its own products. Usage has grown from about 12 engineers in January to more than 800 people today.\u200dA Snowflake customer for five years, Power Digital expanded its Snowflake commitment through Claude Marketplace this year. Because the spend comes from a budget that's already approved, its teams can quickly scale their Snowflake usage.\u201cWe\u2019ve centralized so much of how we run on Claude, and we manage hundreds of tools across the company. Claude Marketplace let us bring Snowflake, which holds our clients\u2019 data, into the same Anthropic commitment. By the time we asked, the contract was already being drawn up,\u201d said John Saunders, Senior Vice President, Innovation at Power Digital.ThoughtSpot builds AI analytics on SnowflakeThoughtSpot's agentic analytics platform delivers decision-ready insights to business users, grounded in their company's semantic and context layer to deliver trusted answers through deterministic and verifiable queries.\u00a0To power their AI features, ThoughtSpot uses Snowflake's inference API to run models like Claude directly against customers' data inside Snowflake, keeping the data, business context, access controls and AI inside one ecosystem. ThoughtSpot applied its purchase of Snowflake's inference API to its existing Anthropic commitment, so its product team could start building with the API on budget already set aside.\u201cOur Agentic Analytics platform runs on Claude, so buying Snowflake\u2019s inference API through Claude Marketplace was the natural path. We applied a commitment we\u2019d already made, so the purchase came out of budget we\u2019d already approved,\u201d said Francois Lopitaux, SVP Product Management at ThoughtSpot. ThoughtSpot is also growing alongside Claude. Its AI analyst, Spotter, is available as a connector for Claude, so users can analyze their data, build and explore dashboards, and take actions without leaving Claude.\u201cSpotter, our AI analyst, is already in Claude\u2019s connectors directory, and we\u2019d like to sell our agentic products through the marketplace ourselves so our customers can do exactly what we just did,\" Lopitaux added.CodeRabbit runs its coding agents on VercelCodeRabbit builds on Claude to validate AI-generated code so engineering teams can control what ships. Its agents write and test code, so they need a safe place to run it. Vercel Sandbox runs each agent's code in an isolated Linux microVM with its own filesystem and network, away from other jobs and CodeRabbit's own systems. Vercel Workflows coordinates the work, so long-running jobs can pause, resume and finish without hitting a time limit.When CodeRabbit's engineering and product leaders wanted to move from a pay-as-you-go Vercel plan to a committed one, the company funded the upgrade from its recently expanded Anthropic commitment. With the budget already approved, the deal closed within a week.\u200d\u201cThe value for us is flexibility: backing the tools our engineers trust with a budget we\u2019ve already approved. The fact that we can deliver that same value to our customers directly on the Claude Marketplace is the ultimate win-win,\u201d said Blair Pierson, Head of Global Partnerships, CodeRabbit.Snowflake and Vercel grow with customers building on ClaudeFor sellers like Snowflake and Vercel, Claude Marketplace is a way to reach customers who already build on Claude and offer those with an Anthropic commitment a faster way to buy.\u201cAI is trusted when it\u2019s grounded in data and context. Claude runs directly in Snowflake, so our customers\u2019 governance, context and permissions are already in place as the foundation for trusted insights on day one. Claude Marketplace makes it easy to extend that relationship, letting customers direct part of their Anthropic commitment straight to Snowflake for AI workloads. It\u2019s a motion we\u2019re growing with Anthropic across our shared accounts,\u201d said Omar Bed-Mohamed, Director, Enterprise Technology Partnerships, Snowflake.\u201cThe Claude Marketplace enables customers like CodeRabbit to quickly procure Vercel's Agentic Infrastructure and scale their platform. We look forward to helping run agents for every company building on Claude,\u201d said Zack Ciesinski, Head of Product Partnerships, Vercel.Buying through Claude MarketplaceBuilding with Claude often means pulling in the data platforms and infrastructure your teams already depend on. Claude Marketplace lets customers put part of their Anthropic commitment toward partners like Vercel, Snowflake, and more, so teams spend less time on procurement and more time on what they're building.Using your Anthropic commitment this way is in limited preview. If you have one, talk to your account team or submit a request to see if you're eligible. Learn more about Claude Marketplace.",
-    "fetched_at": "2026-10-22T16:37:18.782562+00:00"
+    "fetched_at": "2026-10-23T16:27:11.620780+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1077,7 +969,7 @@
     "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "published": "2026-10-21T04:00:00+00:00",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-    "fetched_at": "2026-10-22T16:37:19.105928+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988651+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1086,7 +978,7 @@
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "published": "2026-10-13T16:00:00+00:00",
     "summary": "TBD",
-    "fetched_at": "2026-10-22T16:37:19.105940+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988663+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1095,7 +987,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "published": "2026-10-07T12:00:00+00:00",
     "summary": "Overview of Playground",
-    "fetched_at": "2026-10-22T16:37:19.105949+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988671+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1104,7 +996,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "published": "2026-10-02T15:00:00+00:00",
     "summary": "A video showing the September AI updates",
-    "fetched_at": "2026-10-22T16:37:19.105956+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988677+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1113,7 +1005,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "fetched_at": "2026-10-22T16:37:19.105965+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988685+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1122,7 +1014,150 @@
     "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "published": "2026-09-23T18:00:00+00:00",
     "summary": "Google Beam promotional animation",
-    "fetched_at": "2026-10-22T16:37:19.105973+00:00"
+    "fetched_at": "2026-10-23T16:27:11.988692+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+    "url": "https://www.thisandthat.chat/enron/",
+    "published": "2026-10-23T12:02:53Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377399+00:00",
+    "hn_score": 26,
+    "hn_comments": 22
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+    "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+    "published": "2026-10-23T06:41:11Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377417+00:00",
+    "hn_score": 133,
+    "hn_comments": 145
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI compute is the new oil\u2013and needs a new market",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "published": "2026-10-22T23:45:16Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377422+00:00",
+    "hn_score": 50,
+    "hn_comments": 54
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+    "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+    "published": "2026-10-22T20:51:23Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377424+00:00",
+    "hn_score": 88,
+    "hn_comments": 55
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "published": "2026-10-22T18:44:36Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377427+00:00",
+    "hn_score": 226,
+    "hn_comments": 43
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "published": "2026-10-22T18:32:57Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377429+00:00",
+    "hn_score": 77,
+    "hn_comments": 43
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "United Airlines CEO Calls for National Wealth Tax",
+    "url": "https://firstformoney.com/united-airlines-ceo-calls-for-national-wealth-tax-inheritance-tax-i-would-pay-them/",
+    "published": "2026-10-22T18:31:35Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377431+00:00",
+    "hn_score": 39,
+    "hn_comments": 24
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Award-winning AI literature",
+    "url": "https://jamesyu.org/award-winning-ai-literature/",
+    "published": "2026-10-22T18:28:26Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377433+00:00",
+    "hn_score": 64,
+    "hn_comments": 74
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "published": "2026-10-22T18:28:16Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377435+00:00",
+    "hn_score": 137,
+    "hn_comments": 80
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "published": "2026-10-22T18:02:54Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377437+00:00",
+    "hn_score": 87,
+    "hn_comments": 44
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "published": "2026-10-22T17:44:06Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377439+00:00",
+    "hn_score": 470,
+    "hn_comments": 205
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "published": "2026-10-22T16:08:00Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377441+00:00",
+    "hn_score": 579,
+    "hn_comments": 550
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Important updates to AI use on Etsy",
+    "url": "https://www.etsy.com/seller-handbook/article/1522733284810",
+    "published": "2026-10-22T15:18:17Z",
+    "summary": "",
+    "fetched_at": "2026-10-23T16:27:12.377444+00:00",
+    "hn_score": 35,
+    "hn_comments": 1
   },
   {
     "source": "Hacker News",
@@ -1131,9 +1166,9 @@
     "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
     "published": "2026-10-22T08:46:58Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452713+00:00",
-    "hn_score": 44,
-    "hn_comments": 30
+    "fetched_at": "2026-10-23T16:27:12.377446+00:00",
+    "hn_score": 46,
+    "hn_comments": 31
   },
   {
     "source": "Hacker News",
@@ -1142,8 +1177,8 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
     "published": "2026-10-22T01:28:14Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452731+00:00",
-    "hn_score": 29,
+    "fetched_at": "2026-10-23T16:27:12.377449+00:00",
+    "hn_score": 30,
     "hn_comments": 1
   },
   {
@@ -1153,9 +1188,9 @@
     "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
     "published": "2026-10-21T23:38:32Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452735+00:00",
-    "hn_score": 222,
-    "hn_comments": 202
+    "fetched_at": "2026-10-23T16:27:12.377451+00:00",
+    "hn_score": 253,
+    "hn_comments": 230
   },
   {
     "source": "Hacker News",
@@ -1164,9 +1199,9 @@
     "url": "https://mistral.ai/news/mistral-large-4/",
     "published": "2026-10-21T19:20:55Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452737+00:00",
-    "hn_score": 322,
-    "hn_comments": 102
+    "fetched_at": "2026-10-23T16:27:12.377454+00:00",
+    "hn_score": 326,
+    "hn_comments": 104
   },
   {
     "source": "Hacker News",
@@ -1175,8 +1210,8 @@
     "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
     "published": "2026-10-21T19:14:21Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452740+00:00",
-    "hn_score": 124,
+    "fetched_at": "2026-10-23T16:27:12.377456+00:00",
+    "hn_score": 126,
     "hn_comments": 26
   },
   {
@@ -1186,9 +1221,9 @@
     "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
     "published": "2026-10-21T17:38:55Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452742+00:00",
-    "hn_score": 54,
-    "hn_comments": 24
+    "fetched_at": "2026-10-23T16:27:12.377459+00:00",
+    "hn_score": 55,
+    "hn_comments": 26
   },
   {
     "source": "Hacker News",
@@ -1197,9 +1232,9 @@
     "url": "https://github.com/omnara-ai/omnara",
     "published": "2026-10-21T16:44:53Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452744+00:00",
-    "hn_score": 103,
-    "hn_comments": 29
+    "fetched_at": "2026-10-23T16:27:12.377461+00:00",
+    "hn_score": 111,
+    "hn_comments": 34
   },
   {
     "source": "Hacker News",
@@ -1208,8 +1243,8 @@
     "url": "https://rustoffrails.org/",
     "published": "2026-10-21T16:34:16Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452747+00:00",
-    "hn_score": 73,
+    "fetched_at": "2026-10-23T16:27:12.377463+00:00",
+    "hn_score": 75,
     "hn_comments": 76
   },
   {
@@ -1219,7 +1254,7 @@
     "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
     "published": "2026-10-21T16:03:32Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452749+00:00",
+    "fetched_at": "2026-10-23T16:27:12.377466+00:00",
     "hn_score": 53,
     "hn_comments": 6
   },
@@ -1230,9 +1265,9 @@
     "url": "https://www.wiz.io/blog/php2shell-php-rce",
     "published": "2026-10-21T13:43:19Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452751+00:00",
-    "hn_score": 445,
-    "hn_comments": 183
+    "fetched_at": "2026-10-23T16:27:12.377468+00:00",
+    "hn_score": 451,
+    "hn_comments": 184
   },
   {
     "source": "Hacker News",
@@ -1241,20 +1276,20 @@
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
     "published": "2026-10-21T13:37:00Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452754+00:00",
-    "hn_score": 153,
-    "hn_comments": 101
+    "fetched_at": "2026-10-23T16:27:12.377471+00:00",
+    "hn_score": 158,
+    "hn_comments": 105
   },
   {
     "source": "Hacker News",
     "source_type": "hn",
-    "title": "LayerFS: The filesystem for AI coding agents",
+    "title": "LayerFS: A filesystem for AI coding agents",
     "url": "https://layerfs.ai/",
     "published": "2026-10-21T12:34:46Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452756+00:00",
-    "hn_score": 72,
-    "hn_comments": 45
+    "fetched_at": "2026-10-23T16:27:12.377473+00:00",
+    "hn_score": 75,
+    "hn_comments": 47
   },
   {
     "source": "Hacker News",
@@ -1263,9 +1298,9 @@
     "url": "https://alterauth.com/",
     "published": "2026-10-21T06:42:12Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452758+00:00",
-    "hn_score": 65,
-    "hn_comments": 32
+    "fetched_at": "2026-10-23T16:27:12.377475+00:00",
+    "hn_score": 68,
+    "hn_comments": 48
   },
   {
     "source": "Hacker News",
@@ -1274,9 +1309,9 @@
     "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
     "published": "2026-10-21T05:17:15Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452761+00:00",
+    "fetched_at": "2026-10-23T16:27:12.377477+00:00",
     "hn_score": 25,
-    "hn_comments": 26
+    "hn_comments": 27
   },
   {
     "source": "Hacker News",
@@ -1285,7 +1320,7 @@
     "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
     "published": "2026-10-21T00:25:45Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452763+00:00",
+    "fetched_at": "2026-10-23T16:27:12.377480+00:00",
     "hn_score": 25,
     "hn_comments": 5
   },
@@ -1296,162 +1331,19 @@
     "url": "https://www.bolkunov.com/p/on-ai-writing",
     "published": "2026-10-20T19:55:11Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452765+00:00",
-    "hn_score": 93,
+    "fetched_at": "2026-10-23T16:27:12.377482+00:00",
+    "hn_score": 94,
     "hn_comments": 61
   },
   {
     "source": "Hacker News",
     "source_type": "hn",
-    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-    "published": "2026-10-20T19:03:11Z",
+    "title": "Anthropic S-1 Shows Red-Hot Growth, Risks and Computing Costs",
+    "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+    "published": "2026-10-20T19:34:39Z",
     "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452768+00:00",
-    "hn_score": 25,
-    "hn_comments": 9
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "url": "https://research.poh.org/bot-benchmarking-2026/",
-    "published": "2026-10-20T17:10:31Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452770+00:00",
-    "hn_score": 48,
-    "hn_comments": 8
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Gemini 4 Argon is now available for everyone",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "published": "2026-10-20T16:36:24Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452772+00:00",
-    "hn_score": 25,
-    "hn_comments": 8
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/",
-    "published": "2026-10-20T16:02:07Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452775+00:00",
-    "hn_score": 765,
-    "hn_comments": 199
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-    "published": "2026-10-20T15:48:26Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452777+00:00",
-    "hn_score": 183,
-    "hn_comments": 229
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: AI-built browser games, collected in one place",
-    "url": "https://playgroundarcade.com/",
-    "published": "2026-10-20T15:45:56Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452780+00:00",
-    "hn_score": 35,
+    "fetched_at": "2026-10-23T16:27:12.377484+00:00",
+    "hn_score": 21,
     "hn_comments": 2
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-    "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-    "published": "2026-10-20T15:10:01Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452782+00:00",
-    "hn_score": 23,
-    "hn_comments": 8
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-    "url": "https://news.ycombinator.com/item?id=50167583",
-    "published": "2026-10-20T15:09:29Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452785+00:00",
-    "hn_score": 53,
-    "hn_comments": 21
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
-    "url": "https://github.com/KatrielMoses/voidaccess",
-    "published": "2026-10-20T14:49:33Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452787+00:00",
-    "hn_score": 188,
-    "hn_comments": 13
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Publish fake stats, get cited in LLMs",
-    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "published": "2026-10-20T13:06:22Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452790+00:00",
-    "hn_score": 364,
-    "hn_comments": 203
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "url": "https://github.com/deepseek-ai/DeepInfer",
-    "published": "2026-10-20T09:08:54Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452792+00:00",
-    "hn_score": 2325,
-    "hn_comments": 886
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Vite+ an excellent toolchain for AI agent development",
-    "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
-    "published": "2026-10-20T06:40:49Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452795+00:00",
-    "hn_score": 23,
-    "hn_comments": 20
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: Rouler \u2013 Steer Windows traffic per app or IP across multiple interfaces",
-    "url": "https://rouler.io/",
-    "published": "2026-10-20T03:51:43Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452798+00:00",
-    "hn_score": 27,
-    "hn_comments": 7
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Ship Your Interpreter",
-    "url": "https://www.basis.ai/blog/ship-your-interpreters/",
-    "published": "2026-10-20T01:57:24Z",
-    "summary": "",
-    "fetched_at": "2026-10-22T16:37:19.452800+00:00",
-    "hn_score": 24,
-    "hn_comments": 25
   }
 ]
