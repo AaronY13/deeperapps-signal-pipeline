@@ -2,11 +2,56 @@
   {
     "source": "OpenAI",
     "source_type": "rss",
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "published": "2026-10-28T10:00:00+00:00",
+    "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+    "fetched_at": "2026-10-28T17:52:54.731722+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "published": "2026-10-28T09:30:00+00:00",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "fetched_at": "2026-10-28T17:52:54.731740+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "published": "2026-10-28T09:30:00+00:00",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "fetched_at": "2026-10-28T17:52:54.731749+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "published": "2026-10-27T15:00:00+00:00",
+    "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "fetched_at": "2026-10-28T17:52:54.731757+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
     "published": "2026-10-27T07:00:00+00:00",
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "fetched_at": "2026-10-27T17:27:29.706693+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731764+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "published": "2026-10-27T00:00:00+00:00",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "fetched_at": "2026-10-28T17:52:54.731772+00:00"
   },
   {
     "source": "OpenAI",
@@ -15,7 +60,7 @@
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
     "published": "2026-10-26T22:00:00+00:00",
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "fetched_at": "2026-10-27T17:27:29.706710+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731779+00:00"
   },
   {
     "source": "OpenAI",
@@ -24,7 +69,7 @@
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "published": "2026-10-26T14:30:00+00:00",
     "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
-    "fetched_at": "2026-10-27T17:27:29.706719+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731785+00:00"
   },
   {
     "source": "OpenAI",
@@ -33,7 +78,7 @@
     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "published": "2026-10-26T13:45:00+00:00",
     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "fetched_at": "2026-10-27T17:27:29.706727+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731792+00:00"
   },
   {
     "source": "OpenAI",
@@ -42,7 +87,7 @@
     "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
     "published": "2026-10-26T10:00:00+00:00",
     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "fetched_at": "2026-10-27T17:27:29.706735+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731798+00:00"
   },
   {
     "source": "OpenAI",
@@ -51,7 +96,7 @@
     "url": "https://openai.com/index/fanatics-streamline-fan-experience",
     "published": "2026-10-26T07:00:00+00:00",
     "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "fetched_at": "2026-10-27T17:27:29.706742+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731805+00:00"
   },
   {
     "source": "OpenAI",
@@ -60,7 +105,7 @@
     "url": "https://openai.com/index/openai-cut-incident-investigation",
     "published": "2026-10-26T07:00:00+00:00",
     "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "fetched_at": "2026-10-27T17:27:29.706750+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731812+00:00"
   },
   {
     "source": "OpenAI",
@@ -69,7 +114,7 @@
     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
     "published": "2026-10-26T00:00:00+00:00",
     "summary": "Bringing fast and capable computer use to everyone",
-    "fetched_at": "2026-10-27T17:27:29.706757+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731818+00:00"
   },
   {
     "source": "OpenAI",
@@ -78,7 +123,7 @@
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "published": "2026-10-23T17:00:00+00:00",
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
-    "fetched_at": "2026-10-27T17:27:29.706764+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731825+00:00"
   },
   {
     "source": "OpenAI",
@@ -87,7 +132,7 @@
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "published": "2026-10-23T10:00:00+00:00",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "fetched_at": "2026-10-27T17:27:29.706777+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731832+00:00"
   },
   {
     "source": "OpenAI",
@@ -96,7 +141,7 @@
     "url": "https://openai.com/index/anima",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-    "fetched_at": "2026-10-27T17:27:29.706784+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731839+00:00"
   },
   {
     "source": "OpenAI",
@@ -105,7 +150,7 @@
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "fetched_at": "2026-10-27T17:27:29.706791+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731845+00:00"
   },
   {
     "source": "OpenAI",
@@ -114,7 +159,7 @@
     "url": "https://openai.com/index/decisions-api",
     "published": "2026-10-22T19:00:00+00:00",
     "summary": "Fast, focused, low-cost decisions for any application.",
-    "fetched_at": "2026-10-27T17:27:29.706798+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731853+00:00"
   },
   {
     "source": "OpenAI",
@@ -123,7 +168,7 @@
     "url": "https://openai.com/index/forward-deployed-engineering-means",
     "published": "2026-10-22T06:00:00+00:00",
     "summary": "What forward deployed engineering means at OpenAI",
-    "fetched_at": "2026-10-27T17:27:29.706804+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731859+00:00"
   },
   {
     "source": "OpenAI",
@@ -132,7 +177,7 @@
     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "published": "2026-10-22T00:00:00+00:00",
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "fetched_at": "2026-10-27T17:27:29.706810+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731865+00:00"
   },
   {
     "source": "OpenAI",
@@ -141,7 +186,7 @@
     "url": "https://openai.com/index/att-legal",
     "published": "2026-10-21T17:00:00+00:00",
     "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "fetched_at": "2026-10-27T17:27:29.706817+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731877+00:00"
   },
   {
     "source": "OpenAI",
@@ -150,7 +195,7 @@
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
     "published": "2026-10-21T21:00:00+00:00",
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "fetched_at": "2026-10-27T17:27:29.706823+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731884+00:00"
   },
   {
     "source": "OpenAI",
@@ -159,7 +204,7 @@
     "url": "https://openai.com/index/openai-models-google-cloud",
     "published": "2026-10-21T12:00:00+00:00",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
-    "fetched_at": "2026-10-27T17:27:29.706831+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731890+00:00"
   },
   {
     "source": "OpenAI",
@@ -168,7 +213,7 @@
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "fetched_at": "2026-10-27T17:27:29.706838+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731897+00:00"
   },
   {
     "source": "OpenAI",
@@ -177,7 +222,7 @@
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "published": "2026-10-21T13:00:00+00:00",
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "fetched_at": "2026-10-27T17:27:29.706847+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731904+00:00"
   },
   {
     "source": "OpenAI",
@@ -186,7 +231,7 @@
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "published": "2026-10-21T04:50:00+00:00",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "fetched_at": "2026-10-27T17:27:29.706854+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731910+00:00"
   },
   {
     "source": "OpenAI",
@@ -195,7 +240,7 @@
     "url": "https://openai.com/index/cloudflare-cyber",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "fetched_at": "2026-10-27T17:27:29.706860+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731917+00:00"
   },
   {
     "source": "OpenAI",
@@ -204,7 +249,7 @@
     "url": "https://openai.com/index/building-chatgpt-ad-stack",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "fetched_at": "2026-10-27T17:27:29.706867+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731925+00:00"
   },
   {
     "source": "OpenAI",
@@ -213,7 +258,7 @@
     "url": "https://openai.com/index/empowering-cyber-defenders",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "fetched_at": "2026-10-27T17:27:29.706873+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731932+00:00"
   },
   {
     "source": "OpenAI",
@@ -222,7 +267,7 @@
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "published": "2026-10-20T10:00:00+00:00",
     "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "fetched_at": "2026-10-27T17:27:29.706880+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731939+00:00"
   },
   {
     "source": "OpenAI",
@@ -231,7 +276,7 @@
     "url": "https://openai.com/index/terminal-x",
     "published": "2026-10-20T07:00:00+00:00",
     "summary": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol.",
-    "fetched_at": "2026-10-27T17:27:29.706886+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731945+00:00"
   },
   {
     "source": "OpenAI",
@@ -240,7 +285,7 @@
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "fetched_at": "2026-10-27T17:27:29.706893+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731952+00:00"
   },
   {
     "source": "OpenAI",
@@ -249,7 +294,7 @@
     "url": "https://openai.com/index/low-resource-programming-languages",
     "published": "2026-10-19T12:00:00+00:00",
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "fetched_at": "2026-10-27T17:27:29.706900+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731959+00:00"
   },
   {
     "source": "OpenAI",
@@ -258,16 +303,25 @@
     "url": "https://openai.com/index/itau-generative-ai",
     "published": "2026-10-16T19:00:00+00:00",
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
-    "fetched_at": "2026-10-27T17:27:29.706907+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731965+00:00"
   },
   {
     "source": "OpenAI",
     "source_type": "rss",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "published": "2026-10-16T00:00:00+00:00",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "fetched_at": "2026-10-27T17:27:29.706916+00:00"
+    "summary": "Almost 50 years after starting in a compounding pharmacy in Paran\u00e1, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers\u2019 operational requests\u2014enabling the sales force to take on an advisory role.",
+    "fetched_at": "2026-10-28T17:52:54.731973+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "published": "2026-10-16T00:00:00+00:00",
+    "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "fetched_at": "2026-10-28T17:52:54.731979+00:00"
   },
   {
     "source": "OpenAI",
@@ -276,7 +330,16 @@
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "published": "2026-10-16T00:00:00+00:00",
     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-    "fetched_at": "2026-10-27T17:27:29.706923+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731986+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "published": "2026-10-16T00:00:00+00:00",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "fetched_at": "2026-10-28T17:52:54.731993+00:00"
   },
   {
     "source": "OpenAI",
@@ -285,7 +348,7 @@
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "published": "2026-10-15T19:00:00+00:00",
     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "fetched_at": "2026-10-27T17:27:29.706930+00:00"
+    "fetched_at": "2026-10-28T17:52:54.731999+00:00"
   },
   {
     "source": "OpenAI",
@@ -294,7 +357,7 @@
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "published": "2026-10-15T13:00:00+00:00",
     "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "fetched_at": "2026-10-27T17:27:29.706937+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732008+00:00"
   },
   {
     "source": "OpenAI",
@@ -303,7 +366,7 @@
     "url": "https://openai.com/index/sullivan-cromwell",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "fetched_at": "2026-10-27T17:27:29.706944+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732014+00:00"
   },
   {
     "source": "OpenAI",
@@ -312,7 +375,7 @@
     "url": "https://openai.com/index/amp-beyond-coding",
     "published": "2026-10-14T12:00:00+00:00",
     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "fetched_at": "2026-10-27T17:27:29.706950+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732021+00:00"
   },
   {
     "source": "OpenAI",
@@ -321,7 +384,7 @@
     "url": "https://openai.com/index/sentinelone",
     "published": "2026-10-14T12:00:00+00:00",
     "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "fetched_at": "2026-10-27T17:27:29.706956+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732051+00:00"
   },
   {
     "source": "OpenAI",
@@ -330,7 +393,7 @@
     "url": "https://openai.com/index/third-moment-research",
     "published": "2026-10-14T07:00:00+00:00",
     "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "fetched_at": "2026-10-27T17:27:29.706963+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732059+00:00"
   },
   {
     "source": "OpenAI",
@@ -339,7 +402,7 @@
     "url": "https://openai.com/index/block-ai-powered-security",
     "published": "2026-10-14T07:00:00+00:00",
     "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "fetched_at": "2026-10-27T17:27:29.706988+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732066+00:00"
   },
   {
     "source": "OpenAI",
@@ -348,7 +411,7 @@
     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "published": "2026-10-14T00:00:00+00:00",
     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
-    "fetched_at": "2026-10-27T17:27:29.706996+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732072+00:00"
   },
   {
     "source": "OpenAI",
@@ -357,16 +420,7 @@
     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
     "published": "2026-10-13T12:00:00+00:00",
     "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "fetched_at": "2026-10-27T17:27:29.707003+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
-    "published": "2026-10-09T07:00:00+00:00",
-    "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "fetched_at": "2026-10-27T17:27:29.707009+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732079+00:00"
   },
   {
     "source": "OpenAI",
@@ -375,7 +429,16 @@
     "url": "https://openai.com/index/asana-browser-agent",
     "published": "2026-10-09T07:00:00+00:00",
     "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "fetched_at": "2026-10-27T17:27:29.707015+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732085+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "published": "2026-10-09T07:00:00+00:00",
+    "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "fetched_at": "2026-10-28T17:52:54.732092+00:00"
   },
   {
     "source": "OpenAI",
@@ -384,7 +447,7 @@
     "url": "https://openai.com/index/oracle",
     "published": "2026-10-08T16:00:00+00:00",
     "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "fetched_at": "2026-10-27T17:27:29.707022+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732098+00:00"
   },
   {
     "source": "OpenAI",
@@ -393,7 +456,7 @@
     "url": "https://openai.com/index/pollo-ai",
     "published": "2026-10-08T12:00:00+00:00",
     "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "fetched_at": "2026-10-27T17:27:29.707028+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732104+00:00"
   },
   {
     "source": "OpenAI",
@@ -402,7 +465,7 @@
     "url": "https://openai.com/index/legalon-halves-codex-costs",
     "published": "2026-10-08T12:00:00+00:00",
     "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "fetched_at": "2026-10-27T17:27:29.707035+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732111+00:00"
   },
   {
     "source": "OpenAI",
@@ -411,7 +474,7 @@
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "published": "2026-10-08T00:00:00+00:00",
     "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "fetched_at": "2026-10-27T17:27:29.707044+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732120+00:00"
   },
   {
     "source": "OpenAI",
@@ -420,7 +483,7 @@
     "url": "https://openai.com/index/teens-learn-and-plan",
     "published": "2026-10-07T12:00:00+00:00",
     "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "fetched_at": "2026-10-27T17:27:29.707051+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732126+00:00"
   },
   {
     "source": "OpenAI",
@@ -429,7 +492,7 @@
     "url": "https://openai.com/index/radisson",
     "published": "2026-10-07T07:00:00+00:00",
     "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "fetched_at": "2026-10-27T17:27:29.707057+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732133+00:00"
   },
   {
     "source": "OpenAI",
@@ -438,7 +501,7 @@
     "url": "https://openai.com/index/gpt-6-for-everyone",
     "published": "2026-10-07T00:00:00+00:00",
     "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "fetched_at": "2026-10-27T17:27:29.707066+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732140+00:00"
   },
   {
     "source": "OpenAI",
@@ -447,7 +510,7 @@
     "url": "https://openai.com/index/jump-trading",
     "published": "2026-10-06T12:00:00+00:00",
     "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "fetched_at": "2026-10-27T17:27:29.707072+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732146+00:00"
   },
   {
     "source": "OpenAI",
@@ -456,7 +519,7 @@
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "published": "2026-10-06T12:00:00+00:00",
     "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "fetched_at": "2026-10-27T17:27:29.707078+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732153+00:00"
   },
   {
     "source": "OpenAI",
@@ -465,7 +528,7 @@
     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "published": "2026-10-06T10:00:00+00:00",
     "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "fetched_at": "2026-10-27T17:27:29.707085+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732160+00:00"
   },
   {
     "source": "OpenAI",
@@ -474,7 +537,7 @@
     "url": "https://openai.com/index/atlassian-partnership",
     "published": "2026-10-06T16:00:00+00:00",
     "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "fetched_at": "2026-10-27T17:27:29.707090+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732168+00:00"
   },
   {
     "source": "OpenAI",
@@ -483,7 +546,7 @@
     "url": "https://openai.com/index/eu-text-provenance",
     "published": "2026-10-05T15:00:00+00:00",
     "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "fetched_at": "2026-10-27T17:27:29.707097+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732175+00:00"
   },
   {
     "source": "OpenAI",
@@ -492,7 +555,7 @@
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "published": "2026-10-05T10:00:00+00:00",
     "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "fetched_at": "2026-10-27T17:27:29.707103+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732181+00:00"
   },
   {
     "source": "OpenAI",
@@ -501,7 +564,7 @@
     "url": "https://openai.com/index/practical-guide-building-gpt-6",
     "published": "2026-10-02T16:15:00+00:00",
     "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "fetched_at": "2026-10-27T17:27:29.707109+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732187+00:00"
   },
   {
     "source": "OpenAI",
@@ -510,7 +573,7 @@
     "url": "https://openai.com/index/chatham-financial",
     "published": "2026-10-02T00:00:00+00:00",
     "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "fetched_at": "2026-10-27T17:27:29.707115+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732193+00:00"
   },
   {
     "source": "OpenAI",
@@ -519,7 +582,7 @@
     "url": "https://openai.com/index/the-eternal-complement",
     "published": "2026-10-01T17:00:00+00:00",
     "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "fetched_at": "2026-10-27T17:27:29.707122+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732200+00:00"
   },
   {
     "source": "OpenAI",
@@ -528,7 +591,7 @@
     "url": "https://openai.com/index/albertsons-reimagining-retail",
     "published": "2026-10-01T16:00:00+00:00",
     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "fetched_at": "2026-10-27T17:27:29.707128+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732206+00:00"
   },
   {
     "source": "OpenAI",
@@ -537,7 +600,7 @@
     "url": "https://openai.com/index/the-den-family-social",
     "published": "2026-10-01T00:00:00+00:00",
     "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "fetched_at": "2026-10-27T17:27:29.707135+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732212+00:00"
   },
   {
     "source": "OpenAI",
@@ -546,7 +609,7 @@
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "published": "2026-09-30T10:30:00+00:00",
     "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "fetched_at": "2026-10-27T17:27:29.707141+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732218+00:00"
   },
   {
     "source": "OpenAI",
@@ -555,7 +618,7 @@
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "published": "2026-09-30T10:00:00+00:00",
     "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "fetched_at": "2026-10-27T17:27:29.707147+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732225+00:00"
   },
   {
     "source": "OpenAI",
@@ -564,7 +627,7 @@
     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "published": "2026-09-29T17:00:00+00:00",
     "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-    "fetched_at": "2026-10-27T17:27:29.707153+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732231+00:00"
   },
   {
     "source": "OpenAI",
@@ -573,7 +636,7 @@
     "url": "https://openai.com/index/devday-2026-recap",
     "published": "2026-09-29T10:00:00+00:00",
     "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "fetched_at": "2026-10-27T17:27:29.707159+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732238+00:00"
   },
   {
     "source": "OpenAI",
@@ -582,7 +645,7 @@
     "url": "https://openai.com/index/introducing-dots",
     "published": "2026-09-29T00:00:00+00:00",
     "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "fetched_at": "2026-10-27T17:27:29.707166+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732244+00:00"
   },
   {
     "source": "OpenAI",
@@ -591,7 +654,7 @@
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
-    "fetched_at": "2026-10-27T17:27:29.707172+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732250+00:00"
   },
   {
     "source": "OpenAI",
@@ -600,34 +663,16 @@
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "fetched_at": "2026-10-27T17:27:29.707178+00:00"
+    "fetched_at": "2026-10-28T17:52:54.732257+00:00"
   },
   {
-    "source": "OpenAI",
+    "source": "Google DeepMind",
     "source_type": "rss",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "published": "2026-09-28T07:00:00+00:00",
-    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "fetched_at": "2026-10-27T17:27:29.707184+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "published": "2026-09-28T00:00:00+00:00",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "fetched_at": "2026-10-27T17:27:29.707192+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "source_type": "rss",
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
-    "published": "2026-09-28T00:00:00+00:00",
-    "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-    "fetched_at": "2026-10-27T17:27:29.707198+00:00"
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "published": "2026-10-28T17:00:58+00:00",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:55.774276+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -636,7 +681,7 @@
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "published": "2026-10-27T16:01:38+00:00",
     "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "fetched_at": "2026-10-27T17:27:29.936369+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774289+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -645,7 +690,7 @@
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "published": "2026-10-22T14:30:24+00:00",
     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "fetched_at": "2026-10-27T17:27:29.936381+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774298+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -654,7 +699,7 @@
     "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "published": "2026-10-15T16:08:03+00:00",
     "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "fetched_at": "2026-10-27T17:27:29.936388+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774305+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -663,7 +708,7 @@
     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "published": "2026-10-14T02:00:14+00:00",
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "fetched_at": "2026-10-27T17:27:29.936395+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774312+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -672,7 +717,7 @@
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "published": "2026-10-13T19:43:07+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:29.936402+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774320+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -681,7 +726,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "published": "2026-10-13T16:01:58+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:29.936409+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774327+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -690,7 +735,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "published": "2026-10-13T16:01:52+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:29.936416+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774333+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -699,7 +744,7 @@
     "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "published": "2026-10-06T19:57:04+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:29.936422+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774340+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -708,7 +753,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "published": "2026-09-30T20:01:45+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:29.936429+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774347+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -717,7 +762,16 @@
     "url": "https://deepmind.google/blog/introducing-synthid-bio/",
     "published": "2026-09-30T15:03:07+00:00",
     "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "fetched_at": "2026-10-27T17:27:29.936435+00:00"
+    "fetched_at": "2026-10-28T17:52:55.774353+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "published": "2026-10-28T14:58:17+00:00",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.077829+00:00"
   },
   {
     "source": "Hugging Face",
@@ -726,7 +780,7 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
     "published": "2026-10-27T17:16:52+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162468+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077856+00:00"
   },
   {
     "source": "Hugging Face",
@@ -735,7 +789,7 @@
     "url": "https://huggingface.co/blog/allenai/novelty-bench",
     "published": "2026-10-27T16:12:42+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162481+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077871+00:00"
   },
   {
     "source": "Hugging Face",
@@ -744,7 +798,7 @@
     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162490+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077885+00:00"
   },
   {
     "source": "Hugging Face",
@@ -753,7 +807,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "published": "2026-10-22T22:24:34+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162498+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077898+00:00"
   },
   {
     "source": "Hugging Face",
@@ -762,16 +816,7 @@
     "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "published": "2026-10-22T07:51:31+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162505+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "source_type": "rss",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "published": "2026-10-21T18:26:30+00:00",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162512+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077912+00:00"
   },
   {
     "source": "Hugging Face",
@@ -780,7 +825,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "published": "2026-10-21T17:35:36+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162519+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077926+00:00"
   },
   {
     "source": "Hugging Face",
@@ -789,7 +834,7 @@
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "published": "2026-10-21T16:04:43+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162526+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077939+00:00"
   },
   {
     "source": "Hugging Face",
@@ -798,7 +843,7 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "published": "2026-10-21T14:58:18+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162533+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077952+00:00"
   },
   {
     "source": "Hugging Face",
@@ -807,7 +852,7 @@
     "url": "https://huggingface.co/blog/hf-torchtpu",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162540+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077965+00:00"
   },
   {
     "source": "Hugging Face",
@@ -816,7 +861,7 @@
     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162547+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077978+00:00"
   },
   {
     "source": "Hugging Face",
@@ -825,7 +870,7 @@
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162559+00:00"
+    "fetched_at": "2026-10-28T17:52:56.077991+00:00"
   },
   {
     "source": "Hugging Face",
@@ -834,7 +879,7 @@
     "url": "https://huggingface.co/blog/hf-torchneuron",
     "published": "2026-10-19T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162567+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078005+00:00"
   },
   {
     "source": "Hugging Face",
@@ -843,7 +888,7 @@
     "url": "https://huggingface.co/blog/reflection-beam",
     "published": "2026-10-16T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162575+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078018+00:00"
   },
   {
     "source": "Hugging Face",
@@ -852,7 +897,7 @@
     "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "published": "2026-10-15T09:08:45+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162582+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078055+00:00"
   },
   {
     "source": "Hugging Face",
@@ -861,7 +906,7 @@
     "url": "https://huggingface.co/blog/meta-muse-spark-open",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162589+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078072+00:00"
   },
   {
     "source": "Hugging Face",
@@ -870,7 +915,7 @@
     "url": "https://huggingface.co/blog/flux-3",
     "published": "2026-10-15T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162595+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078086+00:00"
   },
   {
     "source": "Hugging Face",
@@ -879,7 +924,7 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "published": "2026-10-13T17:05:48+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162602+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078099+00:00"
   },
   {
     "source": "Hugging Face",
@@ -888,7 +933,7 @@
     "url": "https://huggingface.co/blog/building-with-ml-intern",
     "published": "2026-10-08T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162609+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078112+00:00"
   },
   {
     "source": "Hugging Face",
@@ -897,7 +942,7 @@
     "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "published": "2026-10-07T13:21:03+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162616+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078129+00:00"
   },
   {
     "source": "Hugging Face",
@@ -906,7 +951,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "published": "2026-10-03T22:56:48+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162623+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078147+00:00"
   },
   {
     "source": "Hugging Face",
@@ -915,7 +960,7 @@
     "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "published": "2026-10-02T04:01:31+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162629+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078162+00:00"
   },
   {
     "source": "Hugging Face",
@@ -924,7 +969,7 @@
     "url": "https://huggingface.co/blog/open-tts-leaderboard",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162636+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078175+00:00"
   },
   {
     "source": "Hugging Face",
@@ -933,25 +978,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "published": "2026-09-29T13:07:00+00:00",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162642+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "source_type": "rss",
-    "title": "Holo4: powering generalist computer-use agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "published": "2026-09-28T09:44:05+00:00",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162649+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "source_type": "rss",
-    "title": "Welcome RL Environments to the hub",
-    "url": "https://huggingface.co/blog/rl-environments",
-    "published": "2026-09-28T00:00:00+00:00",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.162656+00:00"
+    "fetched_at": "2026-10-28T17:52:56.078188+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -960,7 +987,7 @@
     "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
     "published": "2026-10-05T00:00:00+00:00",
     "summary": "In our series, How startups build with Claude, we look at the decisions behind AI products. Here, we explore how Cresta brought its expertise building AI-native customer experience into Conductor, an agent that helps developers build and improve other agents.\n\n\n\n\nThe quick pitch\n\n\n\n\nName\nCresta\n\n\nFounded\n2017\n\n\nCEO\nPing Wu\n\n\nGrowth\n$270M+ raised. $100M+ ARR. Helping organizations like United Airlines, CVS Health, and Marriott deliver exceptional customer experiences\n\n\n\n\nBuilding enterprise AI agents for customer experience use cases requires understanding the context embedded across a wide range of customer interactions. For example, customers may:Ask for a refund without saying which purchase they mean,\u00a0Report a billing problem and a login issue in the same message, or\u00a0Request a refund after the return window has closed.\u00a0To respond correctly, the agent may need to check what the customer bought, the refund policy, their account history, or the payment status.Cresta sees these interactions at volume. Its platform powers customer experience, AI agents that handle conversations on their own, provide real-time guidance for the human agents working alongside them, and surface conversation intelligence that shows the business where to improve.\u00a0Building and maintaining customer experience agents requires organizations to make key decisions on operating requirements: what the agent needs to know, which systems it must access, and where its behavior should be flexible or deterministic. Cresta wanted to make that judgment available to more teams without each one starting from scratch.\u00a0Conductor is the result: a natural language agent builder that helps teams turn complex business context into production-ready agents. Users describe what they want to build, and Conductor guides the work from a grounded blueprint through implementation, evaluation, and optimization.Cresta originally built an early version of Conductor using Claude Sonnet and Claude Opus to help internal teams support customer deployments. The open question was whether Cresta could turn that system into a product customers could use to build agents directly within the platform.To carry out open-ended development work, Conductor uses the Claude Agent SDK as a general-purpose harness to gather context, use tools, write and run code, and adapt based on the results.\u201cWe used Claude Code internally as a dev tool because it was very effective at the software development aspects of building an agent,\u201d said Renjie Li, Engineering Lead for Cresta Conductor. \u201cThe Claude Agent SDK gave us a way to use that same agentic development harness programmatically. With Conductor, we\u2019ve connected it with Cresta\u2019s deep conversation intelligence, CX expertise, evaluations, and runtime to give users the agent-building experience we wish we\u2019d had from day one.\u201dCresta reports that in early use cases across Cresta and its partners, Conductor cut initial deployment time roughly in half.\u00a0A meta-agent that helps build the next agentConductor is a self-improving meta-agent built on established best practices for CX agent development. As teams build and refine more agents with it, they capture their own proven patterns, workflows, and expert judgment. This creates a knowledge flywheel that makes future development faster and more consistent.After launch, production interactions, workflow outcomes, and feedback become new signals for the next improvement.\u00a0Conductor helps builders turn what they learned from an agent build into a reusable memory artifact, capturing patterns, business rules, and evaluation approaches. They can then share it as skill with the rest of the team, so others can build from the same proven practices.Making the important decisions easierWriting the first prompt is only one part of building a useful agent. One of the harder calls is where a conversation should stay flexible and where it needs explicit business rules and controlled tool behavior.\"You don't want to go too deterministic, otherwise you create a giant decision tree trying to map out every possible branch\u2026 but there are enterprise-critical workflows that you need to make sure work all the time, especially for highly regulated industries with low risk tolerance,\" said Renjie. \"Conductor helps discover and harden those deterministic requirements and the implementation with the flexibility to improve the overall experience.\"Conductor draws on historical conversations to help teams identify where a human should stay in the loop and where the model can be given room to adapt. Once those boundaries are set, developers still need to test the deterministic pieces against the requirements they're meant to enforce, and revise those tests as the underlying business rules change.\u00a0How Cresta evaluates ConductorConductor is measured on how well it builds agents. To that end, Cresta runs Conductor through a set of build tasks:Build a new agentWrite a test case for oneChange an agent that already existsPerform root cause analysisFinishing the task is not the only bar. The team also looks at the outcomes, how Conductor got there, and what it used along the way.\n\n\n\n\nEvaluation\nQuestion it answers\n\n\n\n\nOutcome\nDid Conductor produce the requested, usable artifact?\n\n\nExecution path\nDid it use the appropriate tools and required context?\n\n\nQuality\nHow does the result compare with a curated reference?\n\n\nResource use\nHow much time and model usage did the task require?\n\n\n\n\nThose same tasks function as a safety net. When a new Claude model is launched or the Conductor framework is updated, Cresta reruns its evaluations. It uses the same tasks and same scoring to identify what improved and what still needs work before anyone commits to the change.That same evaluation discipline is built into Conductor, which allows its users to check and see if their agents are performing as intended. Conductor turns requirements and edge cases captured during the build phases into tests within its evaluation module.\u00a0Teams can then monitor the workflows that need to work every time as policies, connected systems, and conversation patterns change. That gives them a practical way to update an agent as the business changes without losing the reliability of the workflows they have already hardened.Building Conductor on the Claude Agent SDKCresta designed Conductor as the CX-specific control plane for agent development. It brings together conversation data, domain expertise, and development practices, then governs each agent run through policy, observability, verification, and feedback-driven improvement.The Claude Agent SDK sits beneath Conductor as a general-purpose execution harness. It manages the work of gathering context, calling tools, and writing and running code; Conductor layers Cresta's CX workflows, tools, and domain context on top.The team evaluated the SDK against the work Conductor needed to perform: tasks with multiple steps, substantial context, and repeated tool use. Its review covered data privacy, tenant architecture, organization-level key distribution, controls, and observability across the implementation.\"Anthropic gives us a strong, general-purpose foundation for agentic software development. That lets us put our engineering investment where Cresta creates the most durable customer value,\" said Xiangru Chen, VP of Engineering at Cresta.Putting Cresta's engineering expertise directly in customers' handsConductor started inside Cresta, helping its own forward-deployed team learn which development tasks could become repeatable, where context mattered most, and what builders needed to inspect along the way. Its success in that internal work gave the team confidence to bring the same capabilities to customers and partners.For any team whose product deploys custom agents faster than its engineers can hand-build them, Cresta's approach is a useful reference point: with agents or meta-agents, the work after the initial build is often the hardest part.See how Conductor turns business context into better agent design, implementation, and ongoing improvement.\n\n\n\n\nBest practices from the Cresta team\n\n\n\n\nDogfood your products\nConductor ran as an internal tool first, and only became a product once its output matched what an engineer with deep AI expertise would build.\n\n\nFocus on your unique advantages\nCresta drew a hard line between the expertise only they could bring (their conversation data and understanding of customer experience) and what they could take off the shelf from the Agent SDK, and refused to build anything on the wrong side of it.\n\n\nWhat parts of your agent need to be deterministic\nHarden the enterprise-critical workflows that can never go wrong and leave the rest flexible, or you won't end up with the interactive agentic experience you want.\n\n\nGetting to production is the easy part\nThe initial build is only about 20% of the effort, the other 80% is the testing, optimization, and continuous improvement that follows, so design your tooling around the iteration loop, not the launch.",
-    "fetched_at": "2026-10-27T17:27:30.305429+00:00"
+    "fetched_at": "2026-10-28T17:52:56.337515+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -969,7 +996,7 @@
     "url": "https://claude.com/blog/claude-code-mods",
     "published": "2026-10-01T00:00:00+00:00",
     "summary": "Today we're introducing mods, small TypeScript functions that change how Claude Code works. A mod can rewrite a prompt, add new UI, replace a built-in feature, or add entirely new functionality. You can write a mod yourself, or ask Claude Code to write one for you. Mods ship inside plugins, so you install and share them like any plugin. They work in the Claude Code CLI and desktop app.Mods run with the same access to your machine as Claude Code itself. They aren\u2019t sandboxed, and you should only install mods from sources you trust, the same way you'd install any code on your computer.To see what mods can do, read our guide to building your first mod.Why we built modsDevelopers have asked for more control over how Claude Code works, without waiting for us to ship a feature. Hooks helped give users some of this control, but hooks can't rewrite events, draw new UI, or replace features. Mods can.We want Claude Code to feel like yours, so you can shape it to the way you work. We shared the design for mods on GitHub before launch to get feedback from developers. Thank you to everyone who weighed in.How mods workEach time Claude Code does something, it emits an event. Examples include calling a tool, asking for permission, and drawing part of the screen. A mod is a function that hooks into one of these events. A mod can run before the event, after it, or instead of it. It can also wrap the event, running code both before and after. With one function, a mod can:Rewrite a prompt before it reaches the model.Block, rewrite, or retry a tool call.Approve or deny a permission request.Redact secrets from tool output before Claude reads it.A mod can also change what you see. It can edit or replace part of the interface Claude Code draws, like a tool result or a question from Claude. It can add buttons and inputs, and other mods can respond when you press them. Today, a mod can target the terminal, the desktop app, or both.When several mods hook the same event, they run in the order they load. The first mod to load sees the event first and the result last. This lets you stack mods from different authors.You can also use Claude Code to mod Claude Code. Ask Claude to create a mod, and it can write the TypeScript, install it, and hot reload it in your session.Swap built-in features for your ownSome built-in features of Claude Code now ship as mods. For example, the built-in /diff feature is now a mod, so you can turn it off (in /plugin) or replace it with your own version. We plan to move more built-in features to mods over time, so you can pare Claude Code down to a small core and add back only what you want.Mods for teams and enterprisesMods ship inside plugins, so your existing plugin controls apply. Admins can allow or block plugin marketplaces. On Team and Enterprise plans, an owner sets this in the admin console. On Claude API and third-party API plans, admins push managed settings to users' machines.On Team and Enterprise plans, and on any machine with managed settings, a built-in mod called sec-default (\u201csecurity default\u201d) loads first. It stops mods that users install from doing risky things, like overriding your permission deny rules. You can view the source code to see what it restricts. Admins can load their own mods first instead. If you do, add sec-default to your list to keep its restrictions.Teams can also use mods to build their own controls and functionality. For example:CI/CD status: a mod can show your pipeline\u2019s status in a pane beside the conversation, and update it as builds pass or fail.Production safeguards: a mod can require confirmation before any command touches production config.Audit logging: a mod that loads first can record every call that every other mod makes.Getting startedMods are available today in the Claude Code CLI and desktop app. Install plugins that include mods from the Claude directory or by running /plugin in the CLI. To share a mod, package it in a plugin and submit it to the directory.\u00a0To build your own mods, read our getting started guide or see the documentation.",
-    "fetched_at": "2026-10-27T17:27:30.305465+00:00"
+    "fetched_at": "2026-10-28T17:52:56.337551+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -978,7 +1005,7 @@
     "url": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "As a sales leader, it pains me to admit that not long ago, people who wanted to buy Claude for their company weren\u2019t getting the answers they needed quickly enough. They had filled out our Contact Sales form but would wait too long to hear back, sometimes for multiple days. Most of their questions were simple: what a plan costs, whether there's a seat minimum, or whether we can meet HIPAA\u2019s contract requirements. The answers were in our documentation and support articles, but customers wanted someone to walk them through, quickly.So we built a buying agent on Claude Managed Agents (beta) that takes a prospect from \"I want Claude for my company\" to a completed purchase. The buying agent now holds thousands of conversations a day, answers customers\u2019 most pressing questions, and gets them through checkout. The customers it escalates to our team arrive educated and more ready to make purchase decisions: they turn into opportunities more than twice as often as leads from the old form, and close about five days faster. We intentionally left this experience as opt-in, meaning our customers choose at the start if they\u2019d like to talk to an agent or sales rep based on their preference.Why the old inbound process brokeBefore building the buying agent, our inbound process was fairly straightforward. A buyer filled out a form. The lead was routed to a business development rep, who qualified it and passed it to an account executive. That still works well when a team can talk to everyone who\u2019s interested in the product.\u00a0We had tens of thousands of inbound requests every month, and our inbound BDR team couldn\u2019t keep up. Reps spent their days answering questions the docs already covered, and we didn\u2019t have an effective way to reach all of the customers in the queue. This wasn't the experience we wanted for our customers.We wanted every customer to get a knowledgeable answer at any hour and in any language, and to be able to buy however they preferred, which often means without talking to a sales rep. We wanted our reps to spend their time on the conversations where they can change the trajectory of the outcome.A buying agent that closes the gapWe deployed the agent where customers were already asking questions: on our Contact Sales and Pricing \u00a0pages, inside the product, and in our emails. Any customer can find the buying agent within our Claude.ai product, it\u2019s a simple chat experience to help customers understand what plan is best for them. A customer describes what their team needs, the agent asks a few follow-up questions, and it then answers the ones about pricing, security and data before recommending a plan and seat count. Each conversation ends one of three ways:Purchase. The buyer goes straight to checkout.Hand-off. For larger or more complex deals, the agent passes the buyer to a rep along with the full conversation details.A quick answer. Sometimes that's all a customer needs.We built the agent to follow the same work of our sales reps, which means understanding what the customer is trying to solve, what their current Claude usage looks like, and how we can best help them.Why did we use Claude Managed Agents?\u00a0Under the hood, the buying agent is simple: a prompt, a handful of tools, and Claude, running on Claude Managed Agents. Because the platform takes care of hosting, session management and tool orchestration, our engineers spent their time with sales designing the buying experience instead of building the infrastructure.We ultimately landed on Managed Agents for the following reasons:\u00a0Fast to production. One engineer built the initial buying agent on Managed Agents in just a few weeks.\u00a0Tech &amp; non-tech contributors. Engineering owned the code, but sales and content leads reviewed and edited the system prompt directly in the Console. Changes went to our staging agent first, so anyone could try a tweak before it reached customers.Focus on the domain, not the harness. Managed Agents runs the agent loop, sessions and hosting. We spent our time on the prompt, the tools, and the knowledge base\u2014the three things that are specific to selling.Versioning makes iteration less expensive. Every change to the agent is saved as its own version. We were on v7 about a week into internal testing, and we kept shipping prompt changes weekly after launch. When needed, we could easily point new sessions back to a previous version.\u00a0Flexibility to support more use cases. Today, customers discover the agent on our website. Managed Agents supports scheduled runs, which gives us a path to explore other types of customer engagement.\u00a0What we learned building the buying agentGive Claude a goal, not rules. Explaining the goal of the agent worked better than a detailed list of instructions. For example, something as simple as \"Your goal is to understand customer requirements, qualify prospects, and recommend the best plan\" was more effective than listing out every qualification requirement in a flowchart.\u00a0Less is more. We experimented with prompts of varying lengths, complexity, and structure, and found the maxim of 'less is more' works best. Models today can understand complex, nuanced goals and work backwards from them. In practice, that has meant getting out of Claude's way by giving it the knowledge and context it needs to be successful, such as what seat-based pricing covers or when billing cycles run.Use SMEs in the development loop. This is something that is becoming increasingly valuable in a world where agent coding is speeding up development cycles. By virtue of saving time using Managed Agents and Claude Code, our engineers were able to spend more time with the sales team to shape a customer-centric experience . We were able to test the agent early and often, leading to quick iterations.Focus on what\u2019s right for the customer. The agent often points small teams to our Team plan instead of Enterprise, because that's the right answer for them in some cases. We decided that's a feature. A buyer who lands on the right plan instead of being upsold is more likely to stay and have a better experience.Treat every agent to rep escalation as feedback. Each time the agent passes a buyer to a rep, it explains why. Early on, most of those reasons were things customers couldn't yet do on their own with our self-service products. Those reasons shaped how we improve the experience, and the share of conversations that needed a person to help close the deal has fallen by about half.What changed for customers\u00a0The agent now holds thousands of conversations a day, around the clock. Customers get their questions answered instantly instead of waiting for a scheduled call or exchanging emails over multiple days. A lot of our customers actually prefer to talk to an agent rather than a human, because it can give them quick, informed answers as questions arise. Many of our new self-serve Enterprise customers talk to the buying agent before they buy, and we've found that those who talked to the agent beforehand had a better understanding of what they were buying.How the agent changed our sales organizationThe agent changed what our reps spend their days. We've now been able to focus the majority of the team's time and energy on educating customers earlier in their buying journey, having more live customer conversations and spending time in person at events.\u00a0The most impactful change has been that our reps now get more informed leads, convert leads to sales opportunities more often than our old contact form, and they close about five days faster.\u00a0 A rep starts the conversation already knowing what the customer needs, what they've been told, and how we can best help them.For example, one of our inside sales reps, Ojas, used to exchange about 10 emails to close a deal; now it takes about six. He\u2019s been able to 2.5x his output on closed won deals since launching the Buying Agent as it allowed him to focus on highly educated and ready customers who just needed help getting across the line.\u00a0Not long ago, inbound was a queue our team couldn't keep up with. Now it's a conversation any buyer can start at any hour, and our reps spend their time more efficiently. The buying agent is our first step toward agents across the whole customer relationship.Ready to build your own? Learn more about Claude Managed Agents, or talk to our team about bringing agents to your sales motion.This article was written by Carl Johnson, with contributions from Izzy Lee, Bobby P., Lina Ochman, Yana Gevorgyan, Jerico Johns, and Taylre Duarte.",
-    "fetched_at": "2026-10-27T17:27:30.305508+00:00"
+    "fetched_at": "2026-10-28T17:52:56.337592+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -987,7 +1014,7 @@
     "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
     "published": "2026-09-30T00:00:00+00:00",
     "summary": "Today, Claude for Government is generally available for federal and state agencies. The platform, which delivers Claude's coding and agentic work capabilities through a FedRAMP High authorized environment, has been in public beta since July.\u00a0Agencies access capabilities comparable to Anthropic\u2019s commercial customers, without compromising compliance requirements. New capabilities generally arrive on the commercial release cadence.\u00a0Claude works directly with files on the desktop, allowing agency staff to use skills, plugins and projects for memo creation, RFP reviews, casework, and other tasks. With Claude Code, public sector teams can build and modernize the software systems that underpin public services.\u00a0Claude for Government governance controls are purpose-built for public sector agencies. Administrators can set configuration defaults as well as allocate and control spending across departments. Security teams and authorizing officials get audit logs and documentation that supports the agency ATO process. Procurement officers can contract with Anthropic directly and award on general-availability terms.The Claude Code command-line interface and Claude for Microsoft 365 are also rolling out in early access through the same environment and with the same administrative controls.Configuration view in the admin consoleBilling, administration, and oversightNo seat fees. Agencies pay for usage in fixed increments with a hard not-to-exceed cap, so spend does not exceed what an agency has obligated. Administrators define user tiers with spend and model limits per group, track usage by user and by model, and get burndown alerts before a balance runs low.Spend analytics view in the admin consoleAdministration that matches how departments are organized. Department-level administrators allocate prepaid usage to sub-agencies while each manages its own users. Agencies connect their own identity provider for single sign-on, with self-serve setup in the admin portal.\u00a0 SCIM group mappings set rate limits, dollar caps, and allowed models for each seat tier. Layered configuration sets defaults for sub-agencies, including what Claude can connect to and which features are available.Oversight by design. Administrative actions are recorded in an audit log that organization administrators can review. Sensitive operations on Anthropic's side require two-person approval. Usage exports are metering data only, so agencies can answer ATO and IG requests without moving sensitive material. Conversation history stays local on the agency-managed device.Getting startedClaude for Government is generally available to federal and state agencies today. Agencies do not need a separate cloud-provider relationship to get started. Existing customers can move to the desktop application and bring their conversation history with them through an in-app import.Our FedRAMP Secure Configuration Guide is available through Anthropic's trust center. The application deploys through standard agency MDM platforms.New agencies can request access at claude.com/solutions/government. To join the early access for Claude Code CLI or Claude for Microsoft 365, contact our public sector team.",
-    "fetched_at": "2026-10-27T17:27:30.305533+00:00"
+    "fetched_at": "2026-10-28T17:52:56.337615+00:00"
   },
   {
     "source": "Anthropic (unofficial mirror)",
@@ -996,16 +1023,7 @@
     "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
     "published": "2026-09-29T00:00:00+00:00",
     "summary": "This is the third post in our series on building human-agent teams. The first shared what we\u2019ve learned working with multiplayer AI at Anthropic. The second shared how Slack turns workplace conversation into the context agents need. This one looks at what changes when agents operate on the same platform where teams work.Years before they introduced AI agents, teams at Asana were iterating on ways to encode structure and accountability into how teams work together. They ultimately built the Work Graph\u00ae model, which maps out every task, project, goal, and conversation on a web of relationships, with defined owners, contributors, and dependencies.\u00a0When they started building AI agents, they decided that rather than adding new context structures for AI, agents would operate within this same model. They would have defined roles, be assigned tasks, read and write messages, and show up in activity feeds alongside human collaborators\u2014with additional safeguards around what agents can access, and share.\u00a0We talked with Arnab Bose, Asana\u2019s Chief Product Officer, about how Asana\u2019s own teams use Claude and work alongside these agents, where Claude models power complex tasks: how each agent gets its role and access, who trains it, how work stays visible to everyone, and the types of jobs agents have on human-agent teams at Asana.\u00a0Think through and structure your work before agents act on itFor Asana employees, Claude is the default AI tool, connected to the platforms employees use to work, including Google Drive, Slack, and of course, Asana.\u00a0\"A person makes sense of their day by taking unstructured data, an idea they have, a conversation in Slack, a meeting recording in Zoom, a Databricks report, information from Google Docs,\u201d Arnab says. \u201cThey talk it through with Claude, and then they can pump all of that into the structure that Asana provides with projects and tasks.\" Once the structure is in place, agents can act on it, with the three capabilities we described in the first post of this series, Building effective human agent teams: persistent memory, their own credentials, and shared context.How to put this into practice:Start with your own ideas. Bring the unstructured pieces of your day, an idea, a Slack conversation, or notes spread across docs, to Claude.Debate and discuss with Claude. Use it as a thinking partner: talk the idea through until the next steps are clear.Log the actionable items to the Work Graph. Move what's actionable into projects and tasks, where agents and colleagues can pick it up.Give every agent a role and the tools and access it needsAsana employees can work with AI agents in any project like they would with a human colleague. Humans design the teams they work on; each employee gets a list of recommended agents they can use to augment their teams\u2019 goals.\u00a0Agents are built around roles or types of work, for example, content writer, insights analyst, project manager, work intake specialist, campaign analyst, or campaign coordinator. Each agent comes with pre-built skills based on Asana\u2019s research into how its customers do that work, and with the integrations they would need, such as Hubspot or a document drive.\u00a0Each agent also has a profile page that lists its name and purpose, the people who can use it, the administrators, instructions, skills, integrations, and permissions. Asana gives you the tools to make access intentional. \u201cAsana is a contained work surface,\u201d Arnab says. \u201cYou could choose to grant access to a specific set of projects versus everything, or a specific set of documents, or a combination of documents and apps.\u201dLike human users, agents are subject to explicit access controls, but have an additional safeguard: Asana says an agent\u2019s effective access is bounded by the permissions of the person who triggers it. This allows agents to have broad access to public content, while minimizing the risk of anyone accessing information the agent has learned in a private context.\u00a0\u00a0How to put this into practice:Define the role before you create the agent. Think about the types of jobs that agents can do on your team, then write down the agent\u2019s purpose, instructions, and which specific jobs it owns, the way you would for a new hire\u2019s first quarter.\u00a0Scope access. Decide which projects and documents the agent can read, which applications it can access, and which actions it can take.\u00a0\u00a0Name users and admins separately. Many people can work with an agent, but only a small, named group should govern what it can access and how it behaves.\u00a0Separate working with an agent from training itA key feature of Asana\u2019s agents, which it calls AI teammates, is shared memory, which enables an agent to retain information from previous instructions, allowing multiple users to reuse that memory to complete tasks or jobs faster. \u201cAI teammates can be coached and trained as if they were a person on your team,\u201d Arnab says.There is one role-based restriction in how shared memory works. While anyone can give an agent feedback on a task, only admins and editors can commit feedback to permanent memory, as well as undo, or delete from that memory. For everyone else, the feedback they provide applies only to the current task.\u00a0The split is intentional, Arnab says. Asana's communications team hold the pen on the company's voice and tone, so they would be the editors and admins of an agent that writes. Arnab can draft with it, but he can't modify its behavior. And most people never need to touch the machinery at all: \"Not everybody on the team needs to understand these concepts, like skills and behavior and memory. There are one or two people on the team who become experts, they set it up correctly, and all the other human beings on the team get the same benefits going forward.\"How to put this into practice:Decide who trains each agent, and who works with it. Identify subject matter experts inside your business who can help build the agents that the team uses. Everyone else can provide feedback on tasks, but cannot rewrite the agent.\u00a0Match editors to expertise. The team that owns the standard the agent applies, like brand voice or planning conventions, owns (or administers) the agent.\u00a0Build the memory as you work. Feedback can improve the agent with time. Ask the agent to remember decisions worth keeping, or delete ones that are no longer relevant or true.\u00a0Keep the agent\u2019s work where everyone can see itSimilar to how agents in Slack post transparently in channels, when a task is assigned to an AI teammate everyone can see that an agent is doing it, and what it does. The agent posts activity, including its research plan and the steps it took, so everyone with access to that task can read what it did, comment, and steer it toward the result they want.\u00a0When Asana\u2019s communications team asked Arnab to review a briefing document for a speaking engagement, he @-mentioned the agent on the task and asked it to also factor in his talk track from an earlier talk. The message was brief because he had used that agent many times and the material he referenced was already in the Work Graph. A colleague on the communications team could see his request and the agent\u2019s response, and go back and forth with the agent at the same time.\"You could probably get great quality responses from a one-on-one AI agent if you are highly AI fluent, get that document out, and post it back into Slack or into Asana,\" Arnab says. \"But at that point, the other human beings who are reviewing that content don't know what the prompt was and what the back-and-forth was. If they disagree with some of the guidance you provided, that's impossible for them to get aligned on.\" On a shared task, the request, the pushback, and the output are in one place, and the people reviewing the output can also revise the instructions that produced it.How to put this into practiceBring in agents where your team reviews work. This way, the request, the agent\u2019s steps, and the results are in one place, and reviewers can change the instructions or the output.Make agent work visibly agent work. This way, people will know the work is being done by an AI agent rather than a human colleague.Enable reviewers to coach the agent\u2019s work. Asana\u2019s agents post their plan and steps in the shared task, so other reviewers can provide further instructions or feedback.Three jobs Asana has handed to agentsClaude powers any agentic work that generates documents or runs complex tasks at Asana. Here are three examples from different teams across the company:\u00a0Answering product questions from a Slack channelAs Asana launches features, sellers and customer success staff can ask questions in a shared Slack channel. Before AI teammates, the same questions were posted repeatedly and subject-matter experts were @-mentioned each time. A searchable knowledge base wasn\u2019t a practical solution, Arnab says, because the answers are nuanced and they change. \"You kind of need to have some amount of taste-making around what is the current state of the product,\" he says.Those questions still go to Slack, because that's the simplest place for the field to ask. Now, an Asana app in the channel turns each question into an Asana task, and an agent picks it up. If approved guidance exists, the agent replies with source links. If there is no approved answer and the question points to a gap in the product, the agent creates a task in the product team's intake project and adds it to the backlog. And if the same question keeps coming up and the agent keeps posting the same record, it creates a task for the enablement team to update the training material and documentation.\u00a0This process frees up valuable time for the enablement team to focus on strategic, higher priority work, while also informing other areas of the business. For example, if there are a lot of questions on a particular topic around a new product, that\u2019s a signal for the enablement team to focus on it with extra training or information.\u00a0Briefing executives on at-risk renewalsAsana's Chief Customer Officer, Josh Abdulla, used to produce a weekly at-risk renewals briefing for the executive team based on updates from customer success managers (CSMs) who flagged at-risk renewals and updated accounts as conditions changed. Across thousands of customers globally, the volume of updates made it impossible to stay current without a dedicated person synthesizing them, which was tedious work, and it made the process reactive. \"Josh knew about problems when leaders told him, not when the data first showed it,\" Arnab says.The customer experience organization built an agent AI teammate in Asana called At-Risk Renewal. It reads every at-risk renewal task across the global portfolio, including each CSM's updates, status notes, and comments, and generates a structured daily digest organized into three buckets: positive momentum, negative momentum, and recommended follow-ups. It runs a global view first, then cuts by region, and pushes the digest automatically each morning to the Chief Customer Officer, the Chief Revenue Officer, and every regional customer success leader. Because the digest lands in a shared space, those leaders can ask follow-up questions, such as what the leading indicators were behind a particular account's churn forecast, and coach the agent to remember things for the next run, so the report improves each morning.\"They could probably have Claude generate a report for themselves,\" Arnab says. \"But how do we get to the place where there's standardization of the report, there's a shared workspace, and it keeps getting better with every single run?\"Planning engineering cycles with CommandWhen Asana ran automated coding loops on its own product, its cycle times and releases slipped, because the cycles were getting bloated by automatically generated changes. The loop itself has become common at software companies: gather customer feedback from various channels, synthesize it, and trigger coding agents to turn it into pull requests (PRs). \"Code generation is now no longer the bottleneck,\" Arnab says. \"The bottleneck is around planning, decision-making, and refinement.\" Asana's engineering organization now runs on Command by Asana, a product for managing large engineering teams, and uses it to manage that loop.In Command, a team space holds a group of 10 to 12 engineers who work on one product. Agents populate the team's unplanned board with tickets pulled from customer feedback and from comments in the team's feedback channel in Slack. People decide what moves from that board into the cycle, and Command predicts time to completion for the cycle with optimistic, balanced, and conservative estimates.\u00a0A ticket can be assigned to a person or to a coding agent, and because the cycle data is all in one place, a manager can ask in chat why a release is off track and what tradeoffs would bring it back. Command answers from the data with what's driving the signal and which changes to trade. All of it is exposed through Asana's MCP server, the connection that lets an assistant like Claude read it, so someone like Arnab or his CTO counterpart can ask Claude what's on track without opening Command.\u201cHumanity thrives when teams can work together effortlessly, and today every team is part human, part agent,\u201d Arnab says. \u201cThat\u2019s the kind of work we design for: one shared context that both humans and agents can work from, with a distinct identity for every agent so its contributions and access can be audited, and a durable record of what agents can learn so the team\u2019s knowledge compounds instead of evaporating.\u201d",
-    "fetched_at": "2026-10-27T17:27:30.305585+00:00"
-  },
-  {
-    "source": "Anthropic (unofficial mirror)",
-    "source_type": "rss",
-    "title": "Giving companies more control over their AI agents, with NVIDIA",
-    "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
-    "published": "2026-09-28T00:00:00+00:00",
-    "summary": "NVIDIA today announced the Open Agent Safety Platform, an open software platform and reference system design for strengthening AI security. Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack.\u00a0Claude Managed Agents, a suite of composable APIs for building and deploying production-grade agents at scale, holds the credentials an agent needs in a vault so the agent never sees them. Open source NVIDIA OpenShell software is designed to control what the agent can execute and reach while it works. Customers who are using Managed Agents with OpenShell can limit what an agent can do, review what the agent did and confirm that the limits are in place.\u00a0Companies are moving from using AI to answer questions to deploying agents that handle complex work across business units, use proprietary data and take actions on behalf of users. As models improve, agents find more uses and get more access. The more access an agent has, the more its company needs to control and check what it does.\u00a0Protection in layers\u00a0Protection starts with safeguards inside the model. Managed Agents and NVIDIA Open Shell add limits that sit outside the model and apply to what the agent does. Each layer is designed to enforce its limits independently, so protection doesn't depend on any single layer. The layers are modular, so companies can adopt the ones that fit their setup.\u00a0Claude Managed Agents does the work and holds the credentials\u00a0With Managed Agents, the agent loop runs on a separate server from the sandbox, the isolated environment where the work happens. Credentials, meaning passwords and access keys, are held in a separate vault, so the agent never sees them.\u00a0Managed Agents also provides audit trails, which record what each agent did, and integration with a company's existing access controls. Companies can bring their own sandbox setup and choose where and how it runs.\u00a0NVIDIA OpenShell sets what an agent can reach\u00a0OpenShell is open source secure runtime software from NVIDIA. It governs and monitors all AI agent behavior and enforces policies for every action. OpenShell blocks everything unless a rule allows it. It checks each tool an agent tries to use and applies rules to the files, network connections and data the agent accesses. The rules are enforced outside the agent, and OpenShell logs every decision it allows or blocks.\u00a0Teams can start with narrow permissions, review the log, and use Claude to tighten the rules toward the least access a task needs. OpenShell's policy prover then uses mathematical proof to confirm what the agent can reach under the rules the team wrote.\u00a0What Claude Managed Agents includes\u00a0Production-grade agents with secure sandboxing, authentication, and tool execution handled for you.\u00a0Long-running sessions that operate autonomously for hours, with progress and outputs that persist even through disconnections.\u00a0Multi-agent orchestration, where agents can spin up and direct other agents to parallelize complex work.\u00a0Trusted governance, giving agents access to real systems with scoped permissions, identity management, and execution tracing built in.\u00a0How teams use Managed Agents\u00a0Notion lets teams hand work to Claude inside their workspace. Engineers use it to ship code, and other employees use it to produce websites and presentations. Dozens of tasks can run in parallel while the team works on the results together.\u00a0Rakuten runs specialist agents across engineering, product, sales, marketing, and finance, each deployed within a week.\u00a0Asana built AI Teammates, agents that work alongside people in Asana projects, take on tasks and draft deliverables. Using Managed Agents, the team added advanced features faster than it could have otherwise.\u00a0Availability\u00a0Managed Agents is available today. It can operate in a sandbox you control either running on your own infrastructure, or with a managed provider. NVIDIA OpenShell is open source under the Apache 2.0 license and available on GitHub and NVIDIA's developer resources page.",
-    "fetched_at": "2026-10-27T17:27:30.305609+00:00"
+    "fetched_at": "2026-10-28T17:52:56.337665+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1014,7 +1032,7 @@
     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "2026-10-26T16:00:00+00:00",
     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "fetched_at": "2026-10-27T17:27:30.508202+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569144+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1023,7 +1041,7 @@
     "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "published": "2026-10-21T04:00:00+00:00",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-    "fetched_at": "2026-10-27T17:27:30.508215+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569157+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1032,7 +1050,7 @@
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "published": "2026-10-13T16:00:00+00:00",
     "summary": "TBD",
-    "fetched_at": "2026-10-27T17:27:30.508222+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569165+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1041,7 +1059,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "published": "2026-10-07T12:00:00+00:00",
     "summary": "Overview of Playground",
-    "fetched_at": "2026-10-27T17:27:30.508229+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569172+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1050,7 +1068,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "published": "2026-10-02T15:00:00+00:00",
     "summary": "A video showing the September AI updates",
-    "fetched_at": "2026-10-27T17:27:30.508236+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569179+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1059,18 +1077,161 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "published": "2026-09-28T19:00:00+00:00",
     "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "fetched_at": "2026-10-27T17:27:30.508244+00:00"
+    "fetched_at": "2026-10-28T17:52:56.569188+00:00"
   },
   {
     "source": "Hacker News",
     "source_type": "hn",
-    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "published": "2026-10-28T17:01:23Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950842+00:00",
+    "hn_score": 237,
+    "hn_comments": 180
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "published": "2026-10-28T15:46:30Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950859+00:00",
+    "hn_score": 70,
+    "hn_comments": 46
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+    "url": "https://github.com/thomasunise/casecite",
+    "published": "2026-10-28T13:56:21Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950864+00:00",
+    "hn_score": 68,
+    "hn_comments": 34
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "published": "2026-10-28T13:41:30Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950868+00:00",
+    "hn_score": 274,
+    "hn_comments": 320
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+    "published": "2026-10-28T13:27:24Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950871+00:00",
+    "hn_score": 55,
+    "hn_comments": 63
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "published": "2026-10-28T10:10:58Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950874+00:00",
+    "hn_score": 59,
+    "hn_comments": 22
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Artificial Analysis Intelligence Index v5.0",
+    "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+    "published": "2026-10-28T05:29:11Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950877+00:00",
+    "hn_score": 38,
+    "hn_comments": 5
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Artificial Analysis Intelligence Index v5",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+    "published": "2026-10-28T03:06:22Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950879+00:00",
+    "hn_score": 86,
+    "hn_comments": 80
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "published": "2026-10-27T22:31:15Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950881+00:00",
+    "hn_score": 110,
+    "hn_comments": 95
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "published": "2026-10-27T19:55:06Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950884+00:00",
+    "hn_score": 483,
+    "hn_comments": 175
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+    "published": "2026-10-27T18:08:20Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950887+00:00",
+    "hn_score": 37,
+    "hn_comments": 10
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
+    "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+    "published": "2026-10-27T17:49:47Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950890+00:00",
+    "hn_score": 45,
+    "hn_comments": 11
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "published": "2026-10-27T17:04:50Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950892+00:00",
+    "hn_score": 160,
+    "hn_comments": 61
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
     "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
     "published": "2026-10-27T16:40:15Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758882+00:00",
-    "hn_score": 63,
-    "hn_comments": 13
+    "fetched_at": "2026-10-28T17:52:56.950894+00:00",
+    "hn_score": 387,
+    "hn_comments": 305
   },
   {
     "source": "Hacker News",
@@ -1079,9 +1240,20 @@
     "url": "https://cfsg.axiommath.ai/",
     "published": "2026-10-27T16:29:02Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758900+00:00",
-    "hn_score": 31,
-    "hn_comments": 12
+    "fetched_at": "2026-10-28T17:52:56.950897+00:00",
+    "hn_score": 235,
+    "hn_comments": 72
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "published": "2026-10-27T16:25:30Z",
+    "summary": "",
+    "fetched_at": "2026-10-28T17:52:56.950899+00:00",
+    "hn_score": 353,
+    "hn_comments": 271
   },
   {
     "source": "Hacker News",
@@ -1090,9 +1262,9 @@
     "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
     "published": "2026-10-27T11:08:15Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758905+00:00",
-    "hn_score": 291,
-    "hn_comments": 138
+    "fetched_at": "2026-10-28T17:52:56.950901+00:00",
+    "hn_score": 493,
+    "hn_comments": 227
   },
   {
     "source": "Hacker News",
@@ -1101,9 +1273,9 @@
     "url": "https://oioannou.com/blog/ai-promised-less-work/",
     "published": "2026-10-27T11:08:14Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758908+00:00",
-    "hn_score": 579,
-    "hn_comments": 533
+    "fetched_at": "2026-10-28T17:52:56.950904+00:00",
+    "hn_score": 656,
+    "hn_comments": 649
   },
   {
     "source": "Hacker News",
@@ -1112,9 +1284,9 @@
     "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
     "published": "2026-10-27T08:50:33Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758911+00:00",
-    "hn_score": 44,
-    "hn_comments": 102
+    "fetched_at": "2026-10-28T17:52:56.950906+00:00",
+    "hn_score": 47,
+    "hn_comments": 110
   },
   {
     "source": "Hacker News",
@@ -1123,9 +1295,9 @@
     "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
     "published": "2026-10-27T06:33:34Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758914+00:00",
-    "hn_score": 45,
-    "hn_comments": 22
+    "fetched_at": "2026-10-28T17:52:56.950909+00:00",
+    "hn_score": 51,
+    "hn_comments": 25
   },
   {
     "source": "Hacker News",
@@ -1134,9 +1306,9 @@
     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
     "published": "2026-10-27T06:25:37Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758917+00:00",
-    "hn_score": 360,
-    "hn_comments": 243
+    "fetched_at": "2026-10-28T17:52:56.950912+00:00",
+    "hn_score": 470,
+    "hn_comments": 345
   },
   {
     "source": "Hacker News",
@@ -1145,9 +1317,9 @@
     "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
     "published": "2026-10-26T22:41:48Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758920+00:00",
-    "hn_score": 174,
-    "hn_comments": 71
+    "fetched_at": "2026-10-28T17:52:56.950914+00:00",
+    "hn_score": 181,
+    "hn_comments": 79
   },
   {
     "source": "Hacker News",
@@ -1156,9 +1328,9 @@
     "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
     "published": "2026-10-26T21:13:59Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758922+00:00",
-    "hn_score": 73,
-    "hn_comments": 35
+    "fetched_at": "2026-10-28T17:52:56.950916+00:00",
+    "hn_score": 85,
+    "hn_comments": 42
   },
   {
     "source": "Hacker News",
@@ -1167,7 +1339,7 @@
     "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
     "published": "2026-10-26T21:03:22Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758925+00:00",
+    "fetched_at": "2026-10-28T17:52:56.950919+00:00",
     "hn_score": 23,
     "hn_comments": 1
   },
@@ -1178,7 +1350,7 @@
     "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
     "published": "2026-10-26T20:28:32Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758928+00:00",
+    "fetched_at": "2026-10-28T17:52:56.950921+00:00",
     "hn_score": 23,
     "hn_comments": 0
   },
@@ -1189,8 +1361,8 @@
     "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
     "published": "2026-10-26T19:52:44Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758930+00:00",
-    "hn_score": 32,
+    "fetched_at": "2026-10-28T17:52:56.950924+00:00",
+    "hn_score": 33,
     "hn_comments": 1
   },
   {
@@ -1200,7 +1372,7 @@
     "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
     "published": "2026-10-26T18:54:00Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758933+00:00",
+    "fetched_at": "2026-10-28T17:52:56.950926+00:00",
     "hn_score": 24,
     "hn_comments": 2
   },
@@ -1211,7 +1383,7 @@
     "url": "https://www.kapa.ai/blog/retrieval-bottleneck",
     "published": "2026-10-26T18:18:15Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758936+00:00",
+    "fetched_at": "2026-10-28T17:52:56.950928+00:00",
     "hn_score": 32,
     "hn_comments": 2
   },
@@ -1222,9 +1394,9 @@
     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
     "published": "2026-10-26T17:34:45Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758938+00:00",
-    "hn_score": 40,
-    "hn_comments": 22
+    "fetched_at": "2026-10-28T17:52:56.950931+00:00",
+    "hn_score": 41,
+    "hn_comments": 23
   },
   {
     "source": "Hacker News",
@@ -1233,162 +1405,8 @@
     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
     "published": "2026-10-26T16:35:44Z",
     "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758940+00:00",
-    "hn_score": 314,
-    "hn_comments": 124
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "published": "2026-10-26T16:12:29Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758943+00:00",
-    "hn_score": 160,
-    "hn_comments": 38
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "In China, the AI bubble has burst",
-    "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-    "published": "2026-10-26T15:50:54Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758946+00:00",
-    "hn_score": 31,
-    "hn_comments": 2
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Brown student maps the hidden global labor powering AI",
-    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-    "published": "2026-10-26T12:58:27Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758948+00:00",
-    "hn_score": 181,
-    "hn_comments": 173
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-    "published": "2026-10-26T04:11:40Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758951+00:00",
-    "hn_score": 81,
-    "hn_comments": 114
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-    "published": "2026-10-26T02:22:38Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758954+00:00",
-    "hn_score": 38,
-    "hn_comments": 97
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
-    "url": "https://freehire.me/",
-    "published": "2026-10-26T01:13:43Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758956+00:00",
-    "hn_score": 31,
-    "hn_comments": 8
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-    "published": "2026-10-25T22:49:06Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758959+00:00",
-    "hn_score": 72,
-    "hn_comments": 59
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "published": "2026-10-25T18:42:23Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758961+00:00",
-    "hn_score": 94,
-    "hn_comments": 62
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "A mathematician reads the AI future",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "published": "2026-10-25T16:31:21Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758964+00:00",
-    "hn_score": 70,
+    "fetched_at": "2026-10-28T17:52:56.950933+00:00",
+    "hn_score": 329,
     "hn_comments": 129
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "published": "2026-10-25T16:28:26Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758994+00:00",
-    "hn_score": 238,
-    "hn_comments": 328
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "R/open source bans all solo projects and projects using LLMs",
-    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-    "published": "2026-10-25T14:05:03Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.758997+00:00",
-    "hn_score": 90,
-    "hn_comments": 128
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Imagine an AI future where being banned means you are now economically useless",
-    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-    "published": "2026-10-25T12:47:20Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.759000+00:00",
-    "hn_score": 99,
-    "hn_comments": 79
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "published": "2026-10-25T09:51:17Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.759003+00:00",
-    "hn_score": 144,
-    "hn_comments": 87
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "published": "2026-10-25T01:33:49Z",
-    "summary": "",
-    "fetched_at": "2026-10-27T17:27:30.759005+00:00",
-    "hn_score": 367,
-    "hn_comments": 142
   }
 ]
