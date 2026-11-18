@@ -2,11 +2,47 @@
   {
     "source": "OpenAI",
     "source_type": "rss",
+    "title": "Inside the Codex sandbox",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "published": "2026-11-18T08:00:00+00:00",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "fetched_at": "2026-11-18T19:57:37.859034+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "published": "2026-11-18T00:00:00+00:00",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "fetched_at": "2026-11-18T19:57:37.859050+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "published": "2026-11-18T00:00:00+00:00",
+    "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
+    "fetched_at": "2026-11-18T19:57:37.859059+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "published": "2026-11-18T00:00:00+00:00",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "fetched_at": "2026-11-18T19:57:37.859065+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
     "title": "Introducing GPT-6.2 Astra and Sol",
     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "published": "2026-11-17T17:45:00+00:00",
     "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "fetched_at": "2026-11-17T20:27:24.714965+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859069+00:00"
   },
   {
     "source": "OpenAI",
@@ -15,7 +51,16 @@
     "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "published": "2026-11-17T00:00:00+00:00",
     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "fetched_at": "2026-11-17T20:27:24.714981+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859074+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "source_type": "rss",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "published": "2026-11-17T08:00:00+00:00",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "fetched_at": "2026-11-18T19:57:37.859078+00:00"
   },
   {
     "source": "OpenAI",
@@ -24,7 +69,7 @@
     "url": "https://openai.com/index/introducing-openai-for-chile",
     "published": "2026-11-17T00:00:00+00:00",
     "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "fetched_at": "2026-11-17T20:27:24.714988+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859082+00:00"
   },
   {
     "source": "OpenAI",
@@ -33,7 +78,7 @@
     "url": "https://openai.com/index/astra-law-6-2",
     "published": "2026-11-17T00:00:00+00:00",
     "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "fetched_at": "2026-11-17T20:27:24.714994+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859086+00:00"
   },
   {
     "source": "OpenAI",
@@ -42,7 +87,7 @@
     "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "published": "2026-11-16T17:00:00+00:00",
     "summary": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "fetched_at": "2026-11-17T20:27:24.715002+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859090+00:00"
   },
   {
     "source": "OpenAI",
@@ -51,7 +96,7 @@
     "url": "https://openai.com/index/strengthening-online-child-safety",
     "published": "2026-11-16T17:00:00+00:00",
     "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "fetched_at": "2026-11-17T20:27:24.715008+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859094+00:00"
   },
   {
     "source": "OpenAI",
@@ -60,7 +105,7 @@
     "url": "https://openai.com/index/science-at-the-frontier",
     "published": "2026-11-16T12:00:00+00:00",
     "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-    "fetched_at": "2026-11-17T20:27:24.715013+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859098+00:00"
   },
   {
     "source": "OpenAI",
@@ -69,7 +114,7 @@
     "url": "https://openai.com/business/customer-stories/revolut",
     "published": "2026-11-16T09:30:00+00:00",
     "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30\u201360%, scale financial crime investigations, and innovate without compromising security.",
-    "fetched_at": "2026-11-17T20:27:24.715018+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859103+00:00"
   },
   {
     "source": "OpenAI",
@@ -78,7 +123,7 @@
     "url": "https://openai.com/index/lvmh-media-division-partnership",
     "published": "2026-11-16T09:00:00+00:00",
     "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-    "fetched_at": "2026-11-17T20:27:24.715023+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859107+00:00"
   },
   {
     "source": "OpenAI",
@@ -87,7 +132,7 @@
     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
     "published": "2026-11-16T08:00:00+00:00",
     "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "fetched_at": "2026-11-17T20:27:24.715028+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859111+00:00"
   },
   {
     "source": "OpenAI",
@@ -96,7 +141,7 @@
     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "published": "2026-11-16T06:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:24.715035+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859116+00:00"
   },
   {
     "source": "OpenAI",
@@ -105,7 +150,7 @@
     "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "published": "2026-11-16T06:00:00+00:00",
     "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "fetched_at": "2026-11-17T20:27:24.715040+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859120+00:00"
   },
   {
     "source": "OpenAI",
@@ -114,7 +159,7 @@
     "url": "https://openai.com/index/the-kings-trust-and-openai",
     "published": "2026-11-16T00:00:00+00:00",
     "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-    "fetched_at": "2026-11-17T20:27:24.715046+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859124+00:00"
   },
   {
     "source": "OpenAI",
@@ -123,7 +168,7 @@
     "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
     "published": "2026-11-16T00:00:00+00:00",
     "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-    "fetched_at": "2026-11-17T20:27:24.715050+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859128+00:00"
   },
   {
     "source": "OpenAI",
@@ -132,7 +177,7 @@
     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
     "published": "2026-11-15T22:00:01+00:00",
     "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "fetched_at": "2026-11-17T20:27:24.715055+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859132+00:00"
   },
   {
     "source": "OpenAI",
@@ -141,7 +186,7 @@
     "url": "https://openai.com/index/our-new-blog-for-science",
     "published": "2026-11-15T22:00:00+00:00",
     "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "fetched_at": "2026-11-17T20:27:24.715060+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859136+00:00"
   },
   {
     "source": "OpenAI",
@@ -150,7 +195,7 @@
     "url": "https://openai.com/index/introducing-chatgpt-wallet",
     "published": "2026-11-13T15:00:00+00:00",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "fetched_at": "2026-11-17T20:27:24.715065+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859140+00:00"
   },
   {
     "source": "OpenAI",
@@ -159,7 +204,7 @@
     "url": "https://openai.com/business/customer-stories/shield",
     "published": "2026-11-13T08:00:00+00:00",
     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "fetched_at": "2026-11-17T20:27:24.715070+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859146+00:00"
   },
   {
     "source": "OpenAI",
@@ -168,7 +213,7 @@
     "url": "https://openai.com/business/customer-stories/amplitude",
     "published": "2026-11-12T20:00:00+00:00",
     "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "fetched_at": "2026-11-17T20:27:24.715075+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859150+00:00"
   },
   {
     "source": "OpenAI",
@@ -177,7 +222,7 @@
     "url": "https://openai.com/business/customer-stories/gondola",
     "published": "2026-11-12T12:00:00+00:00",
     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
-    "fetched_at": "2026-11-17T20:27:24.715080+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859155+00:00"
   },
   {
     "source": "OpenAI",
@@ -186,7 +231,7 @@
     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "published": "2026-11-12T09:30:00+00:00",
     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "fetched_at": "2026-11-17T20:27:24.715085+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859159+00:00"
   },
   {
     "source": "OpenAI",
@@ -195,7 +240,7 @@
     "url": "https://openai.com/index/children-first-declaration",
     "published": "2026-11-12T00:00:00+00:00",
     "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "fetched_at": "2026-11-17T20:27:24.715090+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859163+00:00"
   },
   {
     "source": "OpenAI",
@@ -204,7 +249,7 @@
     "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
     "published": "2026-11-12T00:00:00+00:00",
     "summary": "Aleph selected as ChatGPT Ads\u2019 exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
-    "fetched_at": "2026-11-17T20:27:24.715095+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859167+00:00"
   },
   {
     "source": "OpenAI",
@@ -213,7 +258,7 @@
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "published": "2026-11-12T00:00:00+00:00",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "fetched_at": "2026-11-17T20:27:24.715100+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859171+00:00"
   },
   {
     "source": "OpenAI",
@@ -222,7 +267,7 @@
     "url": "https://openai.com/index/chatgpt-plus-for-veterans",
     "published": "2026-11-11T08:00:00+00:00",
     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "fetched_at": "2026-11-17T20:27:24.715108+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859175+00:00"
   },
   {
     "source": "OpenAI",
@@ -231,7 +276,7 @@
     "url": "https://openai.com/index/jiostar-vijay-seshadri",
     "published": "2026-11-11T00:00:00+00:00",
     "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "fetched_at": "2026-11-17T20:27:24.715113+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859179+00:00"
   },
   {
     "source": "OpenAI",
@@ -240,7 +285,7 @@
     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "published": "2026-11-10T12:00:00+00:00",
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "fetched_at": "2026-11-17T20:27:24.715118+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859183+00:00"
   },
   {
     "source": "OpenAI",
@@ -249,7 +294,7 @@
     "url": "https://openai.com/index/introducing-businesses-chatgpt",
     "published": "2026-11-10T10:00:00+00:00",
     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "fetched_at": "2026-11-17T20:27:24.715124+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859188+00:00"
   },
   {
     "source": "OpenAI",
@@ -258,7 +303,7 @@
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "published": "2026-11-10T09:00:00+00:00",
     "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "fetched_at": "2026-11-17T20:27:24.715129+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859191+00:00"
   },
   {
     "source": "OpenAI",
@@ -267,7 +312,7 @@
     "url": "https://openai.com/index/singapore-airlines-travel-work",
     "published": "2026-11-10T08:00:00+00:00",
     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "fetched_at": "2026-11-17T20:27:24.715134+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859196+00:00"
   },
   {
     "source": "OpenAI",
@@ -276,7 +321,7 @@
     "url": "https://openai.com/index/ai-effect-on-freelance-work",
     "published": "2026-11-10T07:00:00+00:00",
     "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "fetched_at": "2026-11-17T20:27:24.715141+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859199+00:00"
   },
   {
     "source": "OpenAI",
@@ -285,7 +330,7 @@
     "url": "https://openai.com/index/cogent-security",
     "published": "2026-11-10T00:00:00+00:00",
     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "fetched_at": "2026-11-17T20:27:24.715146+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859203+00:00"
   },
   {
     "source": "OpenAI",
@@ -294,7 +339,7 @@
     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "published": "2026-11-09T19:00:00+00:00",
     "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "fetched_at": "2026-11-17T20:27:24.715151+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859207+00:00"
   },
   {
     "source": "OpenAI",
@@ -303,7 +348,7 @@
     "url": "https://openai.com/index/control-room",
     "published": "2026-11-09T13:00:00+00:00",
     "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "fetched_at": "2026-11-17T20:27:24.715156+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859211+00:00"
   },
   {
     "source": "OpenAI",
@@ -312,7 +357,7 @@
     "url": "https://openai.com/index/coderabbit-codex-daybreak",
     "published": "2026-11-09T08:00:00+00:00",
     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "fetched_at": "2026-11-17T20:27:24.715161+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859216+00:00"
   },
   {
     "source": "OpenAI",
@@ -321,7 +366,7 @@
     "url": "https://openai.com/index/kuken",
     "published": "2026-11-09T08:00:00+00:00",
     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "fetched_at": "2026-11-17T20:27:24.715166+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859220+00:00"
   },
   {
     "source": "OpenAI",
@@ -330,7 +375,7 @@
     "url": "https://openai.com/ads/customers/vistaprint",
     "published": "2026-11-09T00:00:00+00:00",
     "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
-    "fetched_at": "2026-11-17T20:27:24.715172+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859225+00:00"
   },
   {
     "source": "OpenAI",
@@ -339,7 +384,7 @@
     "url": "https://openai.com/index/partnering-with-hacktron",
     "published": "2026-11-06T08:00:00+00:00",
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "fetched_at": "2026-11-17T20:27:24.715177+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859229+00:00"
   },
   {
     "source": "OpenAI",
@@ -348,7 +393,7 @@
     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "published": "2026-11-06T00:00:00+00:00",
     "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "fetched_at": "2026-11-17T20:27:24.715182+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859233+00:00"
   },
   {
     "source": "OpenAI",
@@ -357,7 +402,7 @@
     "url": "https://openai.com/index/australian-universities-ai-native-graduates",
     "published": "2026-11-05T17:00:00+00:00",
     "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "fetched_at": "2026-11-17T20:27:24.715187+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859236+00:00"
   },
   {
     "source": "OpenAI",
@@ -366,7 +411,7 @@
     "url": "https://openai.com/index/cultfit-builds-with-codex",
     "published": "2026-11-05T20:00:00+00:00",
     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "fetched_at": "2026-11-17T20:27:24.715192+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859240+00:00"
   },
   {
     "source": "OpenAI",
@@ -375,7 +420,7 @@
     "url": "https://openai.com/index/introducing-gpt-6-cyber",
     "published": "2026-11-05T09:00:00+00:00",
     "summary": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "fetched_at": "2026-11-17T20:27:24.715197+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859243+00:00"
   },
   {
     "source": "OpenAI",
@@ -384,7 +429,7 @@
     "url": "https://openai.com/index/merge-builds-with-openai",
     "published": "2026-11-05T08:00:00+00:00",
     "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "fetched_at": "2026-11-17T20:27:24.715202+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859247+00:00"
   },
   {
     "source": "OpenAI",
@@ -393,7 +438,7 @@
     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "published": "2026-11-05T02:00:00+00:00",
     "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "fetched_at": "2026-11-17T20:27:24.715209+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859251+00:00"
   },
   {
     "source": "OpenAI",
@@ -402,7 +447,7 @@
     "url": "https://openai.com/ads/customers/flipsnack",
     "published": "2026-11-05T00:45:15+00:00",
     "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "fetched_at": "2026-11-17T20:27:24.715214+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859254+00:00"
   },
   {
     "source": "OpenAI",
@@ -411,7 +456,7 @@
     "url": "https://openai.com/index/franklin-templeton",
     "published": "2026-11-05T00:00:00+00:00",
     "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-    "fetched_at": "2026-11-17T20:27:24.715219+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859258+00:00"
   },
   {
     "source": "OpenAI",
@@ -420,7 +465,7 @@
     "url": "https://openai.com/index/openai-to-acquire-pierre",
     "published": "2026-11-04T14:30:00+00:00",
     "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
-    "fetched_at": "2026-11-17T20:27:24.715224+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859261+00:00"
   },
   {
     "source": "OpenAI",
@@ -429,7 +474,7 @@
     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
     "published": "2026-11-04T07:00:00+00:00",
     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "fetched_at": "2026-11-17T20:27:24.715229+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859265+00:00"
   },
   {
     "source": "OpenAI",
@@ -438,7 +483,7 @@
     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "published": "2026-11-04T08:00:00+00:00",
     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "fetched_at": "2026-11-17T20:27:24.715234+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859268+00:00"
   },
   {
     "source": "OpenAI",
@@ -447,7 +492,7 @@
     "url": "https://openai.com/index/introducing-images-2-6",
     "published": "2026-11-04T00:00:00+00:00",
     "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "fetched_at": "2026-11-17T20:27:24.715239+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859272+00:00"
   },
   {
     "source": "OpenAI",
@@ -456,7 +501,7 @@
     "url": "https://openai.com/index/devrev-enterprise-self-service",
     "published": "2026-11-04T00:00:00+00:00",
     "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "fetched_at": "2026-11-17T20:27:24.715244+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859276+00:00"
   },
   {
     "source": "OpenAI",
@@ -465,7 +510,7 @@
     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
     "published": "2026-11-03T12:00:00+00:00",
     "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "fetched_at": "2026-11-17T20:27:24.715249+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859280+00:00"
   },
   {
     "source": "OpenAI",
@@ -474,7 +519,7 @@
     "url": "https://openai.com/index/cisco-cyber",
     "published": "2026-11-03T08:00:00+00:00",
     "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "fetched_at": "2026-11-17T20:27:24.715254+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859284+00:00"
   },
   {
     "source": "OpenAI",
@@ -483,7 +528,7 @@
     "url": "https://openai.com/index/heimstaden",
     "published": "2026-11-03T08:00:00+00:00",
     "summary": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "fetched_at": "2026-11-17T20:27:24.715259+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859288+00:00"
   },
   {
     "source": "OpenAI",
@@ -492,7 +537,7 @@
     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
     "published": "2026-11-03T00:00:00+00:00",
     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company\u2019s global communications and corporate positioning.",
-    "fetched_at": "2026-11-17T20:27:24.715264+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859291+00:00"
   },
   {
     "source": "OpenAI",
@@ -501,7 +546,7 @@
     "url": "https://openai.com/index/scaling-git-at-openai",
     "published": "2026-11-02T15:30:00+00:00",
     "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-    "fetched_at": "2026-11-17T20:27:24.715271+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859295+00:00"
   },
   {
     "source": "OpenAI",
@@ -510,7 +555,7 @@
     "url": "https://openai.com/index/grid-protectors-program",
     "published": "2026-11-02T15:00:00+00:00",
     "summary": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "fetched_at": "2026-11-17T20:27:24.715276+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859300+00:00"
   },
   {
     "source": "OpenAI",
@@ -519,7 +564,7 @@
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "published": "2026-11-02T18:00:00+00:00",
     "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "fetched_at": "2026-11-17T20:27:24.715282+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859304+00:00"
   },
   {
     "source": "OpenAI",
@@ -528,7 +573,7 @@
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "published": "2026-11-02T18:00:00+00:00",
     "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "fetched_at": "2026-11-17T20:27:24.715287+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859307+00:00"
   },
   {
     "source": "OpenAI",
@@ -537,7 +582,7 @@
     "url": "https://openai.com/index/lifeval",
     "published": "2026-11-02T09:00:00+00:00",
     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "fetched_at": "2026-11-17T20:27:24.715292+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859312+00:00"
   },
   {
     "source": "OpenAI",
@@ -546,7 +591,7 @@
     "url": "https://openai.com/index/qodo-codex-plugin",
     "published": "2026-11-02T00:00:00+00:00",
     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "fetched_at": "2026-11-17T20:27:24.715297+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859316+00:00"
   },
   {
     "source": "OpenAI",
@@ -555,7 +600,7 @@
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "published": "2026-11-02T00:00:00+00:00",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "fetched_at": "2026-11-17T20:27:24.715302+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859319+00:00"
   },
   {
     "source": "OpenAI",
@@ -564,7 +609,7 @@
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "published": "2026-10-30T09:30:00+00:00",
     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "fetched_at": "2026-11-17T20:27:24.715307+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859323+00:00"
   },
   {
     "source": "OpenAI",
@@ -573,7 +618,7 @@
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "published": "2026-10-30T09:00:00+00:00",
     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "fetched_at": "2026-11-17T20:27:24.715313+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859327+00:00"
   },
   {
     "source": "OpenAI",
@@ -582,7 +627,7 @@
     "url": "https://openai.com/index/fair-use-benefits-everyone",
     "published": "2026-10-30T00:00:00+00:00",
     "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "fetched_at": "2026-11-17T20:27:24.715325+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859330+00:00"
   },
   {
     "source": "OpenAI",
@@ -591,7 +636,7 @@
     "url": "https://openai.com/index/updated-model-spec",
     "published": "2026-10-29T17:00:00+00:00",
     "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "fetched_at": "2026-11-17T20:27:24.715332+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859334+00:00"
   },
   {
     "source": "OpenAI",
@@ -600,7 +645,7 @@
     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "published": "2026-10-29T09:00:00+00:00",
     "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "fetched_at": "2026-11-17T20:27:24.715337+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859337+00:00"
   },
   {
     "source": "OpenAI",
@@ -609,7 +654,7 @@
     "url": "https://openai.com/index/ropes-gray-ai-diligence",
     "published": "2026-10-29T07:00:00+00:00",
     "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "fetched_at": "2026-11-17T20:27:24.715342+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859341+00:00"
   },
   {
     "source": "OpenAI",
@@ -618,7 +663,7 @@
     "url": "https://openai.com/index/credit-saison",
     "published": "2026-10-29T00:00:00+00:00",
     "summary": "Credit Saison\u2019s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "fetched_at": "2026-11-17T20:27:24.715348+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859345+00:00"
   },
   {
     "source": "OpenAI",
@@ -627,7 +672,7 @@
     "url": "https://openai.com/ads/customers/evernote",
     "published": "2026-10-28T19:40:49+00:00",
     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-    "fetched_at": "2026-11-17T20:27:24.715353+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859348+00:00"
   },
   {
     "source": "OpenAI",
@@ -636,7 +681,7 @@
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "published": "2026-10-28T13:15:00+00:00",
     "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "fetched_at": "2026-11-17T20:27:24.715358+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859351+00:00"
   },
   {
     "source": "OpenAI",
@@ -645,7 +690,7 @@
     "url": "https://openai.com/index/the-future-of-the-firm",
     "published": "2026-10-28T10:00:00+00:00",
     "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
-    "fetched_at": "2026-11-17T20:27:24.715363+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859355+00:00"
   },
   {
     "source": "OpenAI",
@@ -654,7 +699,7 @@
     "url": "https://openai.com/index/legora",
     "published": "2026-10-28T09:30:00+00:00",
     "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "fetched_at": "2026-11-17T20:27:24.715368+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859359+00:00"
   },
   {
     "source": "OpenAI",
@@ -663,7 +708,7 @@
     "url": "https://openai.com/index/retell-ai",
     "published": "2026-10-27T15:00:00+00:00",
     "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "fetched_at": "2026-11-17T20:27:24.715373+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859363+00:00"
   },
   {
     "source": "OpenAI",
@@ -672,7 +717,7 @@
     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
     "published": "2026-10-27T07:00:00+00:00",
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "fetched_at": "2026-11-17T20:27:24.715378+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859366+00:00"
   },
   {
     "source": "OpenAI",
@@ -681,7 +726,7 @@
     "url": "https://openai.com/index/check-point-daybreak",
     "published": "2026-10-27T00:00:00+00:00",
     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "fetched_at": "2026-11-17T20:27:24.715383+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859371+00:00"
   },
   {
     "source": "OpenAI",
@@ -690,7 +735,7 @@
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
     "published": "2026-10-26T22:00:00+00:00",
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "fetched_at": "2026-11-17T20:27:24.715388+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859375+00:00"
   },
   {
     "source": "OpenAI",
@@ -699,7 +744,7 @@
     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
     "published": "2026-10-26T18:00:00+00:00",
     "summary": "Delivering fast and capable computer use at scale",
-    "fetched_at": "2026-11-17T20:27:24.715393+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859379+00:00"
   },
   {
     "source": "OpenAI",
@@ -708,7 +753,7 @@
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "published": "2026-10-26T14:30:00+00:00",
     "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
-    "fetched_at": "2026-11-17T20:27:24.715398+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859383+00:00"
   },
   {
     "source": "OpenAI",
@@ -717,7 +762,7 @@
     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "published": "2026-10-26T13:45:00+00:00",
     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "fetched_at": "2026-11-17T20:27:24.715403+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859386+00:00"
   },
   {
     "source": "OpenAI",
@@ -726,7 +771,7 @@
     "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
     "published": "2026-10-26T10:00:00+00:00",
     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "fetched_at": "2026-11-17T20:27:24.715410+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859390+00:00"
   },
   {
     "source": "OpenAI",
@@ -735,7 +780,7 @@
     "url": "https://openai.com/index/fanatics-streamline-fan-experience",
     "published": "2026-10-26T07:00:00+00:00",
     "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "fetched_at": "2026-11-17T20:27:24.715415+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859394+00:00"
   },
   {
     "source": "OpenAI",
@@ -744,7 +789,7 @@
     "url": "https://openai.com/index/openai-cut-incident-investigation",
     "published": "2026-10-26T07:00:00+00:00",
     "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "fetched_at": "2026-11-17T20:27:24.715422+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859397+00:00"
   },
   {
     "source": "OpenAI",
@@ -753,7 +798,7 @@
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "published": "2026-10-23T17:00:00+00:00",
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
-    "fetched_at": "2026-11-17T20:27:24.715427+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859401+00:00"
   },
   {
     "source": "OpenAI",
@@ -762,7 +807,7 @@
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "published": "2026-10-23T10:00:00+00:00",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "fetched_at": "2026-11-17T20:27:24.715432+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859404+00:00"
   },
   {
     "source": "OpenAI",
@@ -771,7 +816,7 @@
     "url": "https://openai.com/index/anima",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-    "fetched_at": "2026-11-17T20:27:24.715437+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859409+00:00"
   },
   {
     "source": "OpenAI",
@@ -780,7 +825,7 @@
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "fetched_at": "2026-11-17T20:27:24.715457+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859413+00:00"
   },
   {
     "source": "OpenAI",
@@ -789,7 +834,7 @@
     "url": "https://openai.com/index/decisions-api",
     "published": "2026-10-22T19:00:00+00:00",
     "summary": "Fast, focused, low-cost decisions for any application.",
-    "fetched_at": "2026-11-17T20:27:24.715464+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859416+00:00"
   },
   {
     "source": "OpenAI",
@@ -798,7 +843,7 @@
     "url": "https://openai.com/index/forward-deployed-engineering-means",
     "published": "2026-10-22T06:00:00+00:00",
     "summary": "What forward deployed engineering means at OpenAI",
-    "fetched_at": "2026-11-17T20:27:24.715469+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859421+00:00"
   },
   {
     "source": "OpenAI",
@@ -807,7 +852,7 @@
     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "published": "2026-10-22T00:00:00+00:00",
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "fetched_at": "2026-11-17T20:27:24.715474+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859425+00:00"
   },
   {
     "source": "OpenAI",
@@ -816,7 +861,7 @@
     "url": "https://openai.com/index/att-legal",
     "published": "2026-10-21T17:00:00+00:00",
     "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "fetched_at": "2026-11-17T20:27:24.715480+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859429+00:00"
   },
   {
     "source": "OpenAI",
@@ -825,7 +870,7 @@
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
     "published": "2026-10-21T21:00:00+00:00",
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "fetched_at": "2026-11-17T20:27:24.715485+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859432+00:00"
   },
   {
     "source": "OpenAI",
@@ -834,7 +879,7 @@
     "url": "https://openai.com/index/openai-models-google-cloud",
     "published": "2026-10-21T12:00:00+00:00",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
-    "fetched_at": "2026-11-17T20:27:24.715490+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859435+00:00"
   },
   {
     "source": "OpenAI",
@@ -843,7 +888,7 @@
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "fetched_at": "2026-11-17T20:27:24.715496+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859439+00:00"
   },
   {
     "source": "OpenAI",
@@ -852,7 +897,7 @@
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "published": "2026-10-21T13:00:00+00:00",
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "fetched_at": "2026-11-17T20:27:24.715501+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859442+00:00"
   },
   {
     "source": "OpenAI",
@@ -861,7 +906,7 @@
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "published": "2026-10-21T04:50:00+00:00",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "fetched_at": "2026-11-17T20:27:24.715506+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859451+00:00"
   },
   {
     "source": "OpenAI",
@@ -870,7 +915,7 @@
     "url": "https://openai.com/index/cloudflare-cyber",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "fetched_at": "2026-11-17T20:27:24.715511+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859455+00:00"
   },
   {
     "source": "OpenAI",
@@ -879,7 +924,7 @@
     "url": "https://openai.com/index/building-chatgpt-ad-stack",
     "published": "2026-10-21T07:00:00+00:00",
     "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "fetched_at": "2026-11-17T20:27:24.715516+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859458+00:00"
   },
   {
     "source": "OpenAI",
@@ -888,7 +933,7 @@
     "url": "https://openai.com/index/empowering-cyber-defenders",
     "published": "2026-10-21T00:00:00+00:00",
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "fetched_at": "2026-11-17T20:27:24.715521+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859462+00:00"
   },
   {
     "source": "OpenAI",
@@ -897,7 +942,7 @@
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "published": "2026-10-20T10:00:00+00:00",
     "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "fetched_at": "2026-11-17T20:27:24.715526+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859466+00:00"
   },
   {
     "source": "OpenAI",
@@ -906,7 +951,7 @@
     "url": "https://openai.com/index/terminal-x",
     "published": "2026-10-20T07:00:00+00:00",
     "summary": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol.",
-    "fetched_at": "2026-11-17T20:27:24.715531+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859469+00:00"
   },
   {
     "source": "OpenAI",
@@ -915,16 +960,16 @@
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "fetched_at": "2026-11-17T20:27:24.715536+00:00"
+    "fetched_at": "2026-11-18T19:57:37.859473+00:00"
   },
   {
-    "source": "OpenAI",
+    "source": "Google DeepMind",
     "source_type": "rss",
-    "title": "Advancing coding in low\u2011resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "published": "2026-10-19T12:00:00+00:00",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "fetched_at": "2026-11-17T20:27:24.715542+00:00"
+    "title": "Genie 4 is now available",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "published": "2026-11-18T18:13:42+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.521845+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -933,7 +978,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "published": "2026-11-12T18:00:50+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.189089+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521854+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -942,7 +987,7 @@
     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "published": "2026-11-11T15:00:15+00:00",
     "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "fetched_at": "2026-11-17T20:27:25.189098+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521858+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -951,7 +996,7 @@
     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
     "published": "2026-11-10T16:03:47+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.189103+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521862+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -960,7 +1005,7 @@
     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "published": "2026-11-10T12:02:28+00:00",
     "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal\u2019s core encryption.",
-    "fetched_at": "2026-11-17T20:27:25.189108+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521866+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -969,7 +1014,7 @@
     "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
     "published": "2026-11-10T11:13:04+00:00",
     "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-    "fetched_at": "2026-11-17T20:27:25.189113+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521870+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -978,7 +1023,7 @@
     "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
     "published": "2026-11-09T19:51:47+00:00",
     "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "fetched_at": "2026-11-17T20:27:25.189117+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521874+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -987,7 +1032,7 @@
     "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
     "published": "2026-11-05T17:05:16+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.189122+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521878+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -996,7 +1041,7 @@
     "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
     "published": "2026-11-03T17:01:49+00:00",
     "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "fetched_at": "2026-11-17T20:27:25.189126+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521882+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -1005,7 +1050,7 @@
     "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
     "published": "2026-10-30T14:18:30+00:00",
     "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "fetched_at": "2026-11-17T20:27:25.189130+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521886+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -1014,7 +1059,7 @@
     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
     "published": "2026-10-28T17:00:58+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.189134+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521890+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -1023,7 +1068,7 @@
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "published": "2026-10-27T16:01:38+00:00",
     "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "fetched_at": "2026-11-17T20:27:25.189138+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521893+00:00"
   },
   {
     "source": "Google DeepMind",
@@ -1032,7 +1077,52 @@
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "published": "2026-10-22T14:30:24+00:00",
     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "fetched_at": "2026-11-17T20:27:25.189143+00:00"
+    "fetched_at": "2026-11-18T19:57:38.521897+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "published": "2026-11-18T19:54:56+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.757928+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "published": "2026-11-18T18:53:43+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.757942+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "published": "2026-11-18T15:00:23+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.757947+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "published": "2026-11-18T00:00:00+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.757952+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "source_type": "rss",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "published": "2026-11-18T00:00:00+00:00",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:38.757957+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1041,7 +1131,7 @@
     "url": "https://huggingface.co/blog/openrouter",
     "published": "2026-11-16T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403071+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757962+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1050,7 +1140,7 @@
     "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "published": "2026-11-13T18:00:39+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403080+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757966+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1059,7 +1149,7 @@
     "url": "https://huggingface.co/blog/allenai/xybench",
     "published": "2026-11-13T17:02:35+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403086+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757971+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1068,7 +1158,7 @@
     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
     "published": "2026-11-13T14:05:22+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403091+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757975+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1077,7 +1167,7 @@
     "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
     "published": "2026-11-12T19:07:35+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403095+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757979+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1086,7 +1176,7 @@
     "url": "https://huggingface.co/blog/3d-lora-finetuning",
     "published": "2026-11-12T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403100+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757984+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1095,7 +1185,7 @@
     "url": "https://huggingface.co/blog/qvac/botpsy",
     "published": "2026-11-11T05:01:16+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403105+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757989+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1104,7 +1194,7 @@
     "url": "https://huggingface.co/blog/token-pooling",
     "published": "2026-11-11T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403110+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757994+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1113,7 +1203,7 @@
     "url": "https://huggingface.co/blog/hub-gcp-marketplace",
     "published": "2026-11-10T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403114+00:00"
+    "fetched_at": "2026-11-18T19:57:38.757998+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1122,7 +1212,7 @@
     "url": "https://huggingface.co/blog/decision",
     "published": "2026-11-10T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403118+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758003+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1131,7 +1221,7 @@
     "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "published": "2026-11-09T12:34:29+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403123+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758008+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1140,7 +1230,7 @@
     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "published": "2026-11-06T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403127+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758012+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1149,7 +1239,7 @@
     "url": "https://huggingface.co/blog/phonon-tts",
     "published": "2026-11-05T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403132+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758017+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1158,7 +1248,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "published": "2026-11-04T17:50:10+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403138+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758022+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1167,7 +1257,7 @@
     "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "published": "2026-11-03T16:35:36+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403142+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758026+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1176,7 +1266,7 @@
     "url": "https://huggingface.co/blog/cwe-bench",
     "published": "2026-11-03T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403147+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758032+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1185,7 +1275,7 @@
     "url": "https://huggingface.co/blog/transformers-mic",
     "published": "2026-11-03T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403152+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758036+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1194,7 +1284,7 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "published": "2026-10-29T13:37:07+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403157+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758040+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1203,7 +1293,7 @@
     "url": "https://huggingface.co/blog/announcing-project-protostar",
     "published": "2026-10-29T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403161+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758045+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1212,7 +1302,7 @@
     "url": "https://huggingface.co/blog/mistral-large4",
     "published": "2026-10-29T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403166+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758049+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1221,7 +1311,7 @@
     "url": "https://huggingface.co/blog/anydecisionmodel",
     "published": "2026-10-29T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403170+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758053+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1230,7 +1320,7 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
     "published": "2026-10-27T17:16:52+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403175+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758057+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1239,7 +1329,7 @@
     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
     "published": "2026-10-23T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403179+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758061+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1248,7 +1338,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "published": "2026-10-22T22:24:34+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403184+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758065+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1257,7 +1347,7 @@
     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "published": "2026-10-21T17:35:36+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403188+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758069+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1266,7 +1356,7 @@
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "published": "2026-10-21T16:04:43+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403193+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758074+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1275,7 +1365,7 @@
     "url": "https://huggingface.co/blog/hf-torchtpu",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403197+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758078+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1284,7 +1374,7 @@
     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403202+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758081+00:00"
   },
   {
     "source": "Hugging Face",
@@ -1293,16 +1383,16 @@
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
     "published": "2026-10-20T00:00:00+00:00",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403206+00:00"
+    "fetched_at": "2026-11-18T19:57:38.758085+00:00"
   },
   {
-    "source": "Hugging Face",
+    "source": "Google AI Blog",
     "source_type": "rss",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "published": "2026-10-19T00:00:00+00:00",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:25.403211+00:00"
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "published": "2026-11-18T17:00:00+00:00",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "fetched_at": "2026-11-18T19:57:39.136501+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1311,7 +1401,7 @@
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
     "published": "2026-11-17T17:00:00+00:00",
     "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-    "fetched_at": "2026-11-17T20:27:25.982319+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136510+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1320,7 +1410,7 @@
     "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
     "published": "2026-11-16T14:00:00+00:00",
     "summary": "tbd",
-    "fetched_at": "2026-11-17T20:27:25.982328+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136514+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1329,7 +1419,7 @@
     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "published": "2026-11-12T18:00:00+00:00",
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-    "fetched_at": "2026-11-17T20:27:25.982333+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136518+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1338,7 +1428,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "published": "2026-11-11T18:00:00+00:00",
     "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "fetched_at": "2026-11-17T20:27:25.982337+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136522+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1347,7 +1437,7 @@
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
     "published": "2026-11-11T16:00:00+00:00",
     "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "fetched_at": "2026-11-17T20:27:25.982343+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136534+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1356,7 +1446,7 @@
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
     "published": "2026-11-11T09:00:00+00:00",
     "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-    "fetched_at": "2026-11-17T20:27:25.982348+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136538+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1365,7 +1455,7 @@
     "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
     "published": "2026-11-10T19:00:00+00:00",
     "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-    "fetched_at": "2026-11-17T20:27:25.982352+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136541+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1374,7 +1464,7 @@
     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
     "published": "2026-11-10T14:00:00+00:00",
     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what\u2019s new in this partnership.",
-    "fetched_at": "2026-11-17T20:27:25.982358+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136545+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1383,7 +1473,7 @@
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
     "published": "2026-11-10T13:00:00+00:00",
     "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "fetched_at": "2026-11-17T20:27:25.982363+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136549+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1392,7 +1482,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "published": "2026-11-05T17:00:00+00:00",
     "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-    "fetched_at": "2026-11-17T20:27:25.982367+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136553+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1401,7 +1491,7 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "published": "2026-11-02T17:45:00+00:00",
     "summary": "Animated carousel of images from AI posts in October",
-    "fetched_at": "2026-11-17T20:27:25.982372+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136557+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1410,7 +1500,7 @@
     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "2026-10-26T16:00:00+00:00",
     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "fetched_at": "2026-11-17T20:27:25.982376+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136560+00:00"
   },
   {
     "source": "Google AI Blog",
@@ -1419,18 +1509,216 @@
     "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "published": "2026-10-21T04:00:00+00:00",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-    "fetched_at": "2026-11-17T20:27:25.982381+00:00"
+    "fetched_at": "2026-11-18T19:57:39.136564+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "published": "2026-11-18T18:49:51Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583718+00:00",
+    "hn_score": 66,
+    "hn_comments": 38
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
+    "url": "https://supercite.ai/blog/ai-answers-change-every-day",
+    "published": "2026-11-18T17:58:00Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583737+00:00",
+    "hn_score": 21,
+    "hn_comments": 28
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+    "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+    "published": "2026-11-18T17:41:48Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583740+00:00",
+    "hn_score": 29,
+    "hn_comments": 5
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
+    "url": "https://news.ycombinator.com/item?id=50549188",
+    "published": "2026-11-18T17:26:28Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583743+00:00",
+    "hn_score": 26,
+    "hn_comments": 20
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "url": "https://news.ycombinator.com/item?id=50548660",
+    "published": "2026-11-18T16:53:42Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583745+00:00",
+    "hn_score": 32,
+    "hn_comments": 11
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "\"Anthropic Is Not a Safe AI Company\" \u2013 Coalition Challenges Anthropic Safety",
+    "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "published": "2026-11-18T16:41:22Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583746+00:00",
+    "hn_score": 117,
+    "hn_comments": 68
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "published": "2026-11-18T16:08:24Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583747+00:00",
+    "hn_score": 295,
+    "hn_comments": 186
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "published": "2026-11-18T15:49:34Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583749+00:00",
+    "hn_score": 156,
+    "hn_comments": 80
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+    "published": "2026-11-18T15:35:44Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583750+00:00",
+    "hn_score": 109,
+    "hn_comments": 66
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+    "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+    "published": "2026-11-18T14:42:25Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583752+00:00",
+    "hn_score": 22,
+    "hn_comments": 15
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+    "published": "2026-11-18T13:51:03Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583753+00:00",
+    "hn_score": 62,
+    "hn_comments": 75
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "published": "2026-11-18T06:47:26Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583754+00:00",
+    "hn_score": 719,
+    "hn_comments": 652
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+    "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+    "published": "2026-11-18T01:45:11Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583756+00:00",
+    "hn_score": 94,
+    "hn_comments": 49
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "published": "2026-11-18T00:56:23Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583757+00:00",
+    "hn_score": 101,
+    "hn_comments": 24
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "published": "2026-11-18T00:17:58Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583758+00:00",
+    "hn_score": 669,
+    "hn_comments": 520
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "published": "2026-11-17T21:16:12Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583760+00:00",
+    "hn_score": 307,
+    "hn_comments": 414
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "published": "2026-11-17T21:06:08Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583762+00:00",
+    "hn_score": 160,
+    "hn_comments": 24
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Human.md",
+    "url": "https://www.human-md.ai/",
+    "published": "2026-11-17T20:47:36Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583763+00:00",
+    "hn_score": 118,
+    "hn_comments": 76
   },
   {
     "source": "Hacker News",
     "source_type": "hn",
     "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
-    "url": "https://starsling.dev",
+    "url": "https://news.ycombinator.com/item?id=50536468",
     "published": "2026-11-17T19:01:43Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278926+00:00",
-    "hn_score": 24,
-    "hn_comments": 8
+    "fetched_at": "2026-11-18T19:57:39.583765+00:00",
+    "hn_score": 87,
+    "hn_comments": 42
   },
   {
     "source": "Hacker News",
@@ -1439,9 +1727,9 @@
     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
     "published": "2026-11-17T18:25:13Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278938+00:00",
-    "hn_score": 137,
-    "hn_comments": 67
+    "fetched_at": "2026-11-18T19:57:39.583766+00:00",
+    "hn_score": 415,
+    "hn_comments": 166
   },
   {
     "source": "Hacker News",
@@ -1450,9 +1738,9 @@
     "url": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley",
     "published": "2026-11-17T16:09:00Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278941+00:00",
-    "hn_score": 22,
-    "hn_comments": 6
+    "fetched_at": "2026-11-18T19:57:39.583768+00:00",
+    "hn_score": 30,
+    "hn_comments": 10
   },
   {
     "source": "Hacker News",
@@ -1461,9 +1749,9 @@
     "url": "https://github.com/RunanywhereAI/trnrt",
     "published": "2026-11-17T16:01:04Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278944+00:00",
-    "hn_score": 29,
-    "hn_comments": 5
+    "fetched_at": "2026-11-18T19:57:39.583769+00:00",
+    "hn_score": 54,
+    "hn_comments": 7
   },
   {
     "source": "Hacker News",
@@ -1472,9 +1760,20 @@
     "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
     "published": "2026-11-17T15:33:48Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278946+00:00",
-    "hn_score": 25,
+    "fetched_at": "2026-11-18T19:57:39.583771+00:00",
+    "hn_score": 27,
     "hn_comments": 22
+  },
+  {
+    "source": "Hacker News",
+    "source_type": "hn",
+    "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+    "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+    "published": "2026-11-17T14:48:03Z",
+    "summary": "",
+    "fetched_at": "2026-11-18T19:57:39.583772+00:00",
+    "hn_score": 149,
+    "hn_comments": 30
   },
   {
     "source": "Hacker News",
@@ -1483,9 +1782,9 @@
     "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
     "published": "2026-11-17T14:19:59Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278947+00:00",
-    "hn_score": 177,
-    "hn_comments": 224
+    "fetched_at": "2026-11-18T19:57:39.583773+00:00",
+    "hn_score": 191,
+    "hn_comments": 254
   },
   {
     "source": "Hacker News",
@@ -1494,9 +1793,9 @@
     "url": "https://github.com/prapaa-ai/agav",
     "published": "2026-11-17T14:13:10Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278949+00:00",
-    "hn_score": 24,
-    "hn_comments": 8
+    "fetched_at": "2026-11-18T19:57:39.583775+00:00",
+    "hn_score": 26,
+    "hn_comments": 10
   },
   {
     "source": "Hacker News",
@@ -1505,9 +1804,9 @@
     "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
     "published": "2026-11-17T14:00:47Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278951+00:00",
-    "hn_score": 60,
-    "hn_comments": 83
+    "fetched_at": "2026-11-18T19:57:39.583776+00:00",
+    "hn_score": 70,
+    "hn_comments": 85
   },
   {
     "source": "Hacker News",
@@ -1516,9 +1815,9 @@
     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
     "published": "2026-11-17T02:13:41Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278953+00:00",
-    "hn_score": 77,
-    "hn_comments": 118
+    "fetched_at": "2026-11-18T19:57:39.583777+00:00",
+    "hn_score": 79,
+    "hn_comments": 126
   },
   {
     "source": "Hacker News",
@@ -1527,7 +1826,7 @@
     "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
     "published": "2026-11-16T22:22:18Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278954+00:00",
+    "fetched_at": "2026-11-18T19:57:39.583779+00:00",
     "hn_score": 48,
     "hn_comments": 13
   },
@@ -1538,217 +1837,8 @@
     "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
     "published": "2026-11-16T22:14:38Z",
     "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278956+00:00",
-    "hn_score": 252,
-    "hn_comments": 131
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "No matter how you ask, more Americans are negative than positive about AI",
-    "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-    "published": "2026-11-16T21:58:29Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278958+00:00",
-    "hn_score": 23,
-    "hn_comments": 7
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "OpenCode Browse",
-    "url": "https://opencode.ai/product/browse",
-    "published": "2026-11-16T21:20:37Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278959+00:00",
-    "hn_score": 321,
-    "hn_comments": 207
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
-    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
-    "published": "2026-11-16T21:12:02Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278961+00:00",
-    "hn_score": 27,
-    "hn_comments": 15
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
-    "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
-    "published": "2026-11-16T20:48:53Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278963+00:00",
-    "hn_score": 26,
-    "hn_comments": 9
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Caltech professor no longer grades homework's because everyone uses AI",
-    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-    "published": "2026-11-16T20:47:53Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278965+00:00",
-    "hn_score": 49,
-    "hn_comments": 60
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-    "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-    "published": "2026-11-16T19:09:05Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278966+00:00",
-    "hn_score": 31,
-    "hn_comments": 3
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "published": "2026-11-16T18:12:21Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278968+00:00",
-    "hn_score": 48,
-    "hn_comments": 14
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
-    "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
-    "published": "2026-11-16T17:25:35Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278969+00:00",
-    "hn_score": 92,
-    "hn_comments": 51
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-    "url": "https://news.ycombinator.com/item?id=50520076",
-    "published": "2026-11-16T17:20:28Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278971+00:00",
-    "hn_score": 85,
-    "hn_comments": 103
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Generative AI Usage in the Games Industry",
-    "url": "https://www.gameworkers.co.uk/ai-manifesto/",
-    "published": "2026-11-16T15:59:48Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278973+00:00",
-    "hn_score": 43,
-    "hn_comments": 97
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: Coral \u2013 Open-source gateway where agents write their own tools",
-    "url": "https://github.com/withcoral/coral",
-    "published": "2026-11-16T14:14:51Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278975+00:00",
-    "hn_score": 52,
-    "hn_comments": 24
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-    "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-    "published": "2026-11-16T04:03:51Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278977+00:00",
-    "hn_score": 38,
-    "hn_comments": 10
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Qwen4-Max",
-    "url": "https://qwen.ai/blog?id=qwen4-max",
-    "published": "2026-11-16T02:14:44Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278978+00:00",
-    "hn_score": 872,
-    "hn_comments": 482
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-    "url": "https://www.hntrends.com/2026/november.html",
-    "published": "2026-11-16T01:31:30Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278980+00:00",
-    "hn_score": 94,
-    "hn_comments": 86
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "published": "2026-11-16T00:21:54Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278981+00:00",
-    "hn_score": 250,
-    "hn_comments": 66
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-    "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-    "published": "2026-11-15T19:39:46Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278983+00:00",
-    "hn_score": 69,
-    "hn_comments": 67
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "All AI-generated code should be Open Source",
-    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "published": "2026-11-15T14:46:58Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278985+00:00",
-    "hn_score": 1278,
-    "hn_comments": 666
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Show HN: db-branch \u2013 database branches in seconds for AI agents and CI, via ZFS",
-    "url": "https://github.com/db-branch/db-branch",
-    "published": "2026-11-15T13:50:51Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278986+00:00",
-    "hn_score": 45,
-    "hn_comments": 16
-  },
-  {
-    "source": "Hacker News",
-    "source_type": "hn",
-    "title": "Jensen Huang allegedly manufactured the GPU shortage",
-    "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
-    "published": "2026-11-15T10:53:50Z",
-    "summary": "",
-    "fetched_at": "2026-11-17T20:27:26.278988+00:00",
-    "hn_score": 65,
-    "hn_comments": 66
+    "fetched_at": "2026-11-18T19:57:39.583780+00:00",
+    "hn_score": 256,
+    "hn_comments": 132
   }
 ]
